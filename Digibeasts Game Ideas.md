@@ -1,4 +1,4 @@
-##Gameplay
+## Gameplay
 Map will highlight “metroidvania” elements (think cyberpunk?) and will be associated with phrases: “I wish I could jump that high…” or “This is just barely too high for me to reach right now.” so that players can associate the colors with their abilities (which will be color coded in the menus as well!)
 Stretch additions for map highlight: 
 might be prudent to change the phrases to “I think I could probably reach that now…” when repeating a visit to a highlighted map point
