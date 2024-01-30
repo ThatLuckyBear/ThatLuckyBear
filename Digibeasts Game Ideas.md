@@ -23,6 +23,10 @@ These features CAN be included but are not REQUIRED for game to be considered "c
 - At first your range of exploration will be limited but as you reach level milestones more areas online resources via Digipedia and contacts become available to you. These new contacts may have urgent missions for you to undertake that will progress the story. You may be challenged by a powerful trainer or take on a special mission. Very monster hunter.
 - As you explore you’ll find many paths are blocked by various obstacles. You must journey far and wide seeking out DD Masters that hold the key to unlocking the abilities you need to explore these often valuable and more often integral areas. Very metroid.
 
+## Environment & Areas IDEAS
+### Cities
+- Cities should have many metroidvania elements (blocked by upgrade) and lots of characters to interact with as well as exploration
+
 ## Accessibility
 - Dedicated button that allows players to change their control or their gameplay settings and swap between two modes quickly and efficiently so that The accessibility settings are more granular and can accommodate minute by minute changes to ability.
 - Accessibility first design. If you can’t make it accessible it shouldn’t be in the game. Consider getting help for this.
