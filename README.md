@@ -4,6 +4,7 @@ I want to make interesting and cool art across many genres and mediums.
 Music, code, digital painting, game dev, writing, and more.
 
 Projects:
+
 thatluckybear.com | thatluckybear.neocities.org - my web blog where I post written articles of varying subject mostly related to gaming, learning game dev & code, and philosophy
 
 youtube.com/thatluckybear - my Youtube channel where I upload (sometimes) videos about gaming
