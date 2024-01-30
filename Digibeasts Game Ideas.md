@@ -4,3 +4,15 @@ Stretch additions for map highlight: might be prudent to change the phrases to �
 
 - Each Beast has it’s own Digipedia entry that players can fill by observing and battling with the beast. Once a Digipedia entry reaches a certain threshold players can create a Digi from the data that can be called anytime from then on
 - Additional entries will change the stats and available abilities of that Digi when it’s rerolled or “rebooted.” Many “bonus” features like colors behaviors movements and small unique looks are included in the collectable data including things like enjoying to smell flowers or chase birds, do flips etc.
+
+## Accessibility
+- Dedicated button that allows players to change their control or their gameplay settings and swap between two modes quickly and efficiently so that The accessibility settings are more granular and can accommodate minute by minute changes to ability.
+- Accessibility first design. If you can’t make it accessible it shouldn’t be in the game. Consider getting help for this.
+- One touch platforming: lets players skip jump puzzles
+- Autotravel: choosing a destination lets you autotravel instead of fast travel if you’d like to see the sights
+- Players can adjust the difficulty of enemies at will (even mid battle)
+- Warning: “If one or more these options don’t make the game more fun for you please don’t use them. They allow the broadest range of players to enjoy the game as much as possible.”
+- Menu options to turn off the “level playing field” which allows players to “overlevel” instead of every encounter being automatically equal to their trainer level. (overlevel is limited to 5 levels to keep it interesting while making it very easy to overpower every encounter.)
+- Possible to put in an “autowin” style that doesn’t skip the battles but makes them impossible to lose?
+- "running" from a battle can't fail. Yes even bosses.
+Who can help me discover blind spots in this part of the process?
