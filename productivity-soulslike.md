@@ -33,5 +33,5 @@ At the end of the Do phase the "lights" will come back on and users will be gree
 Technically a phase 0 exists before a user interacts with the system itself where they can tinker with settings and create tasks and limits and of course offer feedback. Prebuilt surveys might be good to have available too epecially during testing phases. Users may want to lock themselves out of the settings pages by setting a time window where "this is when I want to be doing stuff" to prevent them from tinkering instead of utilizing the system.
 
 # Glossary
-session: the full length of time spent utilizing the system for any period
-system: general term used in place of "app" or "program" until the idea is given form
+session: the full length of time spent utilizing the system for any period  
+system: general term used in place of "app" or "program" until the idea is given form  
