@@ -5,7 +5,7 @@ Music, code, digital painting, game dev, writing, and more.
 
 Projects:
 
-thatluckybear.com | thatluckybear.neocities.org - my web blog where I post written articles of varying subject mostly related to gaming, learning game dev & code, and philosophy
+thatluckybear.com | thatluckybear.neocities.org - my web blog where I post written articles of varying subject mostly related to gaming, learning game dev & code, and philosophy. ultimately I'd my web content to be video audio text. written articles would have audio version embedded and a YouTube version of the same concept/idea/guide.
 
 youtube.com/thatluckybear - my Youtube channel where I upload (sometimes) videos about gaming
 
