@@ -8,23 +8,23 @@ http://www.woodus.com/forums/index.php?showtopic=32810
 	===SLIME FAMILY===
 
 
-DRAKSLIME	*SLIME* 	*DRAGON*
+X DRAKSLIME	*SLIME* 	*DRAGON*
 
 ----------------------------------------
 
-SPOTSLIME	*SLIME* 	*BEAST*
+X SPOTSLIME	*SLIME* 	*BEAST*
 
 ----------------------------------------
 
-WINGSLIME	*SLIME* 	*BIRD*
+X WINGSLIME	*SLIME* 	*BIRD*
 
 ----------------------------------------
 
-TREESLIME	*SLIME* 	*PLANT*
+X TREESLIME	*SLIME* 	*PLANT*
 
 ----------------------------------------
 
-SNAILY		*SLIME* 	*BUG*
+X SNAILY		*SLIME* 	*BUG*
 
 ----------------------------------------
 
@@ -32,13 +32,13 @@ SLIMENITE	*SLIME* 	*DEVIL*
 
 ----------------------------------------
 
-BABBLE		*SLIME*		Poisongon
+X BABBLE		*SLIME*		Poisongon
 				GiantMoth	
 				*ZOMBIE*
 
 ----------------------------------------
 
-BOXSLIME	*SLIME* 	*MATERIAL*
+X BOXSLIME	*SLIME* 	*MATERIAL*
 
 ----------------------------------------
 
@@ -46,11 +46,11 @@ PEARLGEL	*SLIME* 	*WATER*
 
 ----------------------------------------
 
-SLIME		----- 		-----
+X SLIME		----- 		-----
 
 ----------------------------------------
 
-HEALER		*SLIME*		PillowRat
+X HEALER		*SLIME*		PillowRat
 				MadPlant
 				CopyCat
 				FunkyBird
@@ -90,7 +90,7 @@ SLABBIT		*SLIME* 	Skullroo
 
 ----------------------------------------
 
-KINGSLIME	SpotKing 	GreatDrak
+X KINGSLIME	SpotKing 	GreatDrak
 				BattleRex
 				Divinegon
 				Unicorn
@@ -114,12 +114,12 @@ METALY		*SLIME* 	MetalDrak
 
 ----------------------------------------
 
-METABBLE	Metaly 		Metaly
+X METABBLE	Metaly 		Metaly
 				WonderEgg
 
 ----------------------------------------
 
-SPOTKING	KingSlime	GreatDrak
+X SPOTKING	KingSlime	GreatDrak
 		MetalKing 	BattleRex	
 				Divinegon
 				Unicorn
@@ -137,7 +137,7 @@ SPOTKING	KingSlime	GreatDrak
 
 ----------------------------------------
 
-TROPICGEL	Slime 		PillowRat
+X TROPICGEL	Slime 		PillowRat
 				Mommonja
 
 		TreeSlime 	*BEAST*
@@ -146,7 +146,7 @@ TROPICGEL	Slime 		PillowRat
 
 ----------------------------------------
 
-MIMESLIME	Healer 		EvilWand
+X MIMESLIME	Healer 		EvilWand
 				1EyeClown
 				TreeBoy
 
@@ -154,7 +154,7 @@ MIMESLIME	Healer 		EvilWand
 
 ----------------------------------------
 
-HALOSLIME	MimeSlime	*ZOMBIE*
+X HALOSLIME	MimeSlime	*ZOMBIE*
 				Pixy
 				StubBird
 
