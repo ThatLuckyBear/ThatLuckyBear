@@ -42,7 +42,7 @@ X BOXSLIME	*SLIME* 	*MATERIAL*
 
 ----------------------------------------
 
-PEARLGEL	*SLIME* 	*WATER*
+X PEARLGEL	*SLIME* 	*WATER*
 
 ----------------------------------------
 
