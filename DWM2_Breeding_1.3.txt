@@ -1,0 +1,2032 @@
+	///Version 1.3///
+(Can be viewed best via Notepad)
+
+If you have any suggested corrections, post in this thread:
+http://www.woodus.com/forums/index.php?showtopic=32810
+
+
+	===SLIME FAMILY===
+
+
+DRAKSLIME	*SLIME* 	*DRAGON*
+
+----------------------------------------
+
+SPOTSLIME	*SLIME* 	*BEAST*
+
+----------------------------------------
+
+WINGSLIME	*SLIME* 	*BIRD*
+
+----------------------------------------
+
+TREESLIME	*SLIME* 	*PLANT*
+
+----------------------------------------
+
+SNAILY		*SLIME* 	*BUG*
+
+----------------------------------------
+
+SLIMENITE	*SLIME* 	*DEVIL*
+
+----------------------------------------
+
+BABBLE		*SLIME*		Poisongon
+				GiantMoth	
+				*ZOMBIE*
+
+----------------------------------------
+
+BOXSLIME	*SLIME* 	*MATERIAL*
+
+----------------------------------------
+
+PEARLGEL	*SLIME* 	*WATER*
+
+----------------------------------------
+
+SLIME		----- 		-----
+
+----------------------------------------
+
+HEALER		*SLIME*		PillowRat
+				MadPlant
+				CopyCat
+				FunkyBird
+
+----------------------------------------
+
+FANGSLIME	*SLIME* 	Almiraj
+				GulpBeast
+				Trumpeter
+				KingLeo
+				DarkHorn
+				MadCat
+
+----------------------------------------
+
+ROCKSLIME	*SLIME* 	DeadNite
+				Golem
+				StoneMan
+				BombCrag
+
+----------------------------------------
+
+SLIMEBORG	DrakSlime	Swordgon
+
+		SlimeNite	Spikerous
+
+		RockSlime	GreatDrak
+
+		Metabble 	BattleRex
+				SkyDragon
+				
+		*SLIME* 	Roboster
+
+----------------------------------------
+
+SLABBIT		*SLIME* 	Skullroo
+
+----------------------------------------
+
+KINGSLIME	SpotKing 	GreatDrak
+				BattleRex
+				Divinegon
+				Unicorn
+				KingLeo
+				MadCondor
+				ZapBird
+				WhipBird
+				BossTroll
+				Gigantes
+				Centasaur
+				DeadNoble
+				WhiteKing
+
+		*SLIME* 	*BOSS*
+
+		Slime		Slime		(offspring must be at least +5)
+
+----------------------------------------
+
+METALY		*SLIME* 	MetalDrak
+
+----------------------------------------
+
+METABBLE	Metaly 		Metaly
+				WonderEgg
+
+----------------------------------------
+
+SPOTKING	KingSlime	GreatDrak
+		MetalKing 	BattleRex	
+				Divinegon
+				Unicorn
+				KingLeo
+				MadCondor
+				ZapBird
+				WhipBird
+				BossTroll
+				Gigantes
+				Centasaur
+				DeadNoble
+				WhiteKing
+
+		SpotSlime 	SpotSlime	(offspring must be at least +5)
+
+----------------------------------------
+
+TROPICGEL	Slime 		PillowRat
+				Mommonja
+
+		TreeSlime 	*BEAST*
+
+		WonderEgg 	*PLANT*
+
+----------------------------------------
+
+MIMESLIME	Healer 		EvilWand
+				1EyeClown
+				TreeBoy
+
+		WonderEgg 	*DEVIL*
+
+----------------------------------------
+
+HALOSLIME	MimeSlime	*ZOMBIE*
+				Pixy
+				StubBird
+
+		Slime	 	CopyCat
+
+		WonderEgg 	*BIRD*
+
+----------------------------------------
+
+METALKING	SpotKing	MetalDrak
+		KingSlime 	
+
+		Metabble 	Metabble
+		WonderEgg
+
+----------------------------------------
+
+GOLDSLIME	SpotKing	GoldGolem
+		KingSlime
+		MetalKing
+ 	
+		MetalKing 	MetalKing
+		WonderEgg
+
+----------------------------------------
+
+GRANSLIME	GoldSlime 	DarkMate
+				GoldSlime
+				DeathMore1
+
+		WonderEgg 	GoldSlime
+
+----------------------------------------
+
+WONDEREGG	*SLIME* 	BigRoost (DWM1)	(WonderEgg can only be obtained by using a Link Cable)
+
+----------------------------------------
+
+
+	===DRAGON FAMILY===
+
+
+DRAGONKID	*DRAGON* 	*SLIME*
+
+----------------------------------------
+
+TORTRAGON	*DRAGON* 	*BEAST*
+
+----------------------------------------
+
+PTERANOD	*DRAGON* 	*BIRD*
+
+----------------------------------------
+
+GASGON		*DRAGON* 	*PLANT*
+
+----------------------------------------
+
+FAIRYDRAK	*DRAGON* 	*BUG*
+
+----------------------------------------
+
+LIZARDMAN	*DRAGON* 	*DEVIL*
+
+----------------------------------------
+
+POISONGON	*DRAGON* 	*ZOMBIE*
+
+----------------------------------------
+
+SWORDGON	*DRAGON* 	*MATERIAL*
+
+----------------------------------------
+
+DRYGON		*DRAGON* 	*WATER*
+----------------------------------------
+
+DRAGON		DragonKid 	DragonKid
+
+----------------------------------------
+
+VAMPIRUS	Pteranod	Pteranod
+		
+		*DRAGON*	MadGoose
+
+----------------------------------------
+
+MINIDRAK`	*DRAGON* 	Picky
+
+----------------------------------------
+
+MADDRAGON	Gasgon	 	*BEAST*
+
+		*DRAGON* 	GulpBeast
+
+----------------------------------------
+
+RAYBURN		LizardMan 	WingSlime
+				Trumpeter
+				MadCat
+				FaceTree
+				Lionex
+				GoatHorn
+				GateGuard
+				Gigantes
+
+		*DRAGON* 	MadCondor
+
+----------------------------------------
+
+CHAMELGON	*DRAGON* 	Voodoll
+
+----------------------------------------
+
+LIZARDFLY	*DRAGON* 	GoHopper
+
+----------------------------------------
+
+ANDREAL		Gasgon		Goategon
+		MadDragon	Trumpeter
+		BattleRex	MadCondor
+		SkyDragon 	FunkyBird
+				ArcDemon
+				Lionex
+				GoatHorn
+				Ogre
+				Akubar
+				DeadNoble
+				Golem
+
+		*DRAGON* 	Gulpple
+
+----------------------------------------
+
+KINGCOBRA	*DRAGON* 	Babble
+
+----------------------------------------
+
+SNAKEBAT	*DRAGON* 	CatFly
+
+		KingCobra 	Dracky
+
+----------------------------------------
+
+SPIKEROUS	*DRAGON* 	ArmyCrab
+				Digster
+
+----------------------------------------
+
+GREATDRAK	*DRAGON* 	KingSlime
+				SpotKing
+				MetalKing
+				BattleRex
+				Unicorn
+				ZapBird
+				WhipBird
+				Gigantes
+				Centasaur
+
+		DragonKid 	DragonKid 	(offspring must be at least +5)
+
+		Dragon	 	Dragon 		(offspring must be at least +5)
+
+----------------------------------------
+
+CRESTPENT	*DRAGON* 	BigRoost
+
+----------------------------------------
+
+WINGSNAKE	Crestpent 	Crestpent
+
+----------------------------------------
+
+COATOL		Pteranod	DarkHorn
+		Gasgon		MadKnight
+		LizardMan	CopyCat
+		BattleRex	StoneMan
+		Vampirus	WhipBird
+		SkyDragon		
+		
+		WingSnake 	WingSnake
+
+----------------------------------------
+
+OROCHI		Andreal		MedusaEye
+		GreatDrak 	
+
+		*DRAGON* 	*BOSS*
+
+----------------------------------------
+
+BATTLEREX	*DRAGON* 	KingLeo
+				Lionex
+				Ogre
+				MadKnight
+				EvilArmor
+
+----------------------------------------
+
+SKYDRAGON	*DRAGON* 	Phoenix
+
+----------------------------------------
+
+SERPENTIA	GreatDrak 	Lionex
+				Skeletor
+				Octoraid
+
+----------------------------------------
+
+DIVINEGON	SkyDragon 	Orochi
+				Serpentia
+
+----------------------------------------
+
+ORLIGON		Divinegon 	GigaDraco
+				GoldGolem
+
+----------------------------------------
+
+GIGADRACO	Andreal		BossTroll
+		BattleRex	Gigantes
+		GreatDrak
+		SkyDragon
+
+----------------------------------------
+
+
+	===BEAST FAMILY===
+
+
+TONGUELLA	*BEAST* 	*SLIME*
+
+----------------------------------------
+
+ALMIRAJ		*BEAST* 	*DRAGON*
+
+----------------------------------------
+
+CATFLY		*BEAST* 	*BIRD*
+
+----------------------------------------
+
+PILLOWRAT	*BEAST* 	*PLANT*
+
+----------------------------------------
+
+SACCER		*BEAST* 	*BUG*
+
+----------------------------------------
+
+GULPBEAST	Tonguella	Digster
+				Skullgon
+				DeadNoble
+				WhiteKing
+				Skeletor
+
+		Grizzly		Skullgon
+		Yeti		DeadNoble
+		Unicorn		WhiteKing
+		WildApe		Skeletor
+		Dumbira 	MetalDrak
+		Trumpeter*	Roboster
+				LavaMan
+				IceMan
+				Golem
+				StoneMan
+				Digster
+
+		IronTurt	MetalDrak
+		Goategon	Roboster
+				LavaMan
+				IceMan
+				Golem
+				StoneMan
+
+		Dumbira		*DRAGON*
+		Trumpeter
+		BigEye
+		Grizzly
+		Yeti
+		
+		Grizzly 	*DEVIL*
+
+
+* Trumpeter + MetalDrak = KingLeo (not GulpBeast)
+
+----------------------------------------
+
+SKULLROO	*BEAST* 	*ZOMBIE*
+
+----------------------------------------
+
+WINDBEAST	CatFly 		*BIRD*
+
+		*BEAST* 	*MATERIAL*
+
+----------------------------------------
+
+BEAVERN		*BEAST* 	*WATER*
+
+----------------------------------------
+
+ANTBEAR 	Saccer 		*DRAGON*
+
+----------------------------------------
+
+SUPERTEN	Tonguella	TreeSlime
+		GulpBeast 	FangSlime	
+				MadDragon
+				FunkyBird
+				MadPlant
+				FaceTree
+				Lipsy
+				Demonite
+				Gremlin
+				CopyCat
+				JewelBag
+				Mimic
+
+		*BEAST* 	Mudron
+
+		Dumbira		*SLIME*
+
+----------------------------------------
+
+IRONTURT	*BEAST* 	Tortragon
+
+----------------------------------------
+
+MOMMONJA	*BEAST* 	DuckKite
+
+----------------------------------------
+
+HAMMERMAN	*BEAST* 	Stubsuck
+
+----------------------------------------
+
+GRIZZLY		*BEAST* 	*DEVIL*
+				MetalDrak
+				Roboster
+				LavaMan
+				IceMan
+				Golem
+				StoneMan
+
+----------------------------------------
+
+YETI		IronTurt	Pteranod
+		Goategon	Gasgon
+		WildApe		Swordgon
+		MadCat		MadDragon
+				BattleRex
+				SkyDragon
+
+		*BEAST* 	Orc
+
+		Dumbira		Blizzardy
+
+----------------------------------------
+
+ARROWDOG	*BEAST* 	PutrePup
+
+----------------------------------------
+
+NOCTOKING	ArrowDog 	Dracky
+				Shadow
+
+----------------------------------------
+
+BEASTNITE	*BEAST* 	EvilArmor
+
+		CatMage 	*DEVIL*
+
+		MadGopher 	Dumbira
+
+----------------------------------------
+
+MADGOPHER	*BEAST* 	SabreMan
+
+----------------------------------------
+
+FAIRYRAT	*BEAST* 	LizardFly
+
+----------------------------------------
+
+UNICORN		Tonguella	*SLIME*
+		GulpBeast
+		Grizzly
+		Yeti
+		Goategon
+		WildApe
+		Trumpeter
+
+		*BEAST* 	FangSlime
+
+----------------------------------------
+
+GOATEGON	*BEAST* 	DrakSlime
+				LizardMan
+
+----------------------------------------
+
+WILDAPE		Almiraj 	*DRAGON*
+
+		*BEAST* 	MadPecker
+
+----------------------------------------
+
+TRUMPETER	Tonguella	LandOwl
+		Grizzly		MadCondor
+		Yeti		ZapBird
+		GulpBeast	WhipBird
+
+		GulpBeast 	MetalDrak
+				Balzak
+				Roboster
+				LavaMan
+				IceMan
+				Golem
+				StoneMan
+
+		WildApe 	WildApe
+
+		SuperTen 	*DRAGON*
+
+----------------------------------------
+
+KINGLEO		Trumpeter 	Trumpeter
+				MetalDrak
+				Balzak
+				GoldGolem
+				BossTroll
+
+----------------------------------------
+
+DARKHORN	*BEAST* 	*BOSS*
+
+----------------------------------------
+
+MADCAT		*BEAST* 	Dragon
+
+		CatMage		Goategon
+				Unicorn
+
+----------------------------------------
+
+BIGEYE		*BEAST* 	EyeBall
+				Drygon
+
+----------------------------------------
+
+GORAGO		DarkHorn 	*BOSS*
+				Orochi
+
+----------------------------------------
+
+CATMAGE		CatFly 		MimeSlime
+				TreeBoy
+				Sickler
+				1EyeClown
+				Reaper
+				EvilWand
+				CatMage
+
+----------------------------------------
+
+DUMBIRA		NoctoKing 	Gigantes
+
+		SuperTen 	Lizardman
+				BeastNite
+				Bubblemon
+				Orc
+				SabreMan
+				Walrusman
+				MerTiger
+
+----------------------------------------
+
+
+	===BIRD FAMILY===
+
+
+PICKY		*BIRD* 		*SLIME*
+
+----------------------------------------
+
+WYVERN		*BIRD* 		*DRAGON*
+
+----------------------------------------
+
+BULLBIRD	*BIRD* 		*BEAST*
+
+----------------------------------------
+
+FLORAJAY	*BIRD* 		*PLANT*
+
+----------------------------------------
+
+DUCKKITE	*BIRD*	 	*BUG*
+
+----------------------------------------
+
+MADPECKER	*BIRD* 		*DEVIL*
+
+----------------------------------------
+
+MADRAVEN	*BIRD*	 	*ZOMBIE*
+
+----------------------------------------
+
+MISTYWING	*BIRD* 		*MATERIAL*
+
+----------------------------------------
+
+AQUAHAWK	*BIRD*	 	*WATER*
+
+----------------------------------------
+
+DRACKY		Picky 		*SLIME*
+
+----------------------------------------
+
+KITEHAWK	*BIRD*	 	Facer
+
+		DuckKite	*MATERIAL*
+
+----------------------------------------
+
+BIGROOST	----- 		-----
+
+----------------------------------------
+
+STUBBIRD	*BIRD*	 	RockSlime
+
+----------------------------------------
+
+LANDOWL		BullBird 	*DEVIL*
+				Grizzly
+
+		Garudian	*SLIME*
+
+----------------------------------------
+
+MADGOOSE	Wyvern		*DRAGON*
+		LandOwl		*ZOMBIE*
+		MadCondor
+		Phoenix 	
+
+		*BIRD* 		Droll
+
+		CragDevil	DuckKite
+				MadRaven
+
+----------------------------------------	
+
+MADCONDOR	LandOwl 	*DEVIL*
+
+		*BIRD* 		CoilBird
+
+		KiteHawk	BigRoost
+
+----------------------------------------
+
+EMYU		KiteHawk 	*BEAST*
+
+		MadCondor 	MadPecker
+
+		MadPecker 	DarkEye
+				BigEye
+
+----------------------------------------
+
+BLIZZARDY	*BIRD* 		Metaly
+				Metabble
+				SuperTen
+				Yeti
+				Goategon
+				Trumpeter
+				Skullgon
+				DeadNoble
+				WhiteKing
+				Skeletor
+				Servant
+				IceMan
+
+----------------------------------------
+
+PHOENIX		*BIRD* 		DrakSlime
+				GulpBeast
+				IronTurt
+				Grizzly
+				ArcDemon
+				CopyCat
+				Gismo
+				LavaMan
+
+----------------------------------------
+
+ZAPBIRD		MadCondor	Gismo
+		Phoenix
+		WhipBird
+
+		*BIRD* 		*BOSS*
+
+----------------------------------------
+
+GARUDIAN	Blizzardy	Lionex
+		Phoenix
+		ZapBird
+
+		FunkyBird 	Jamirus
+
+----------------------------------------
+
+WHIPBIRD	LandOwl		RockSlime
+		MadGoose	SlimeBorg
+		MadCondor	Digster
+		Blizzardy	MetalDrak
+		ZapBird 	Golem
+				StoneMan
+				Merman
+
+		*BIRD*	 	Rayburn
+				SnakeBat
+
+----------------------------------------
+
+FUNKYBIRD	*BIRD* 		DanceVegi
+				TropicGel
+				Brushead
+				Pyuro
+
+----------------------------------------
+
+RAINHAWK	Blizzardy 	Phoenix
+				Vampirus
+
+----------------------------------------
+
+AZURILE		RainHawk 	*BOSS*
+		Shantak		GoldGolem
+
+----------------------------------------
+
+SHANTAK		WhipBird 	GreatDrak
+				Jamirus
+
+----------------------------------------
+
+CRAGDEVIL	BigRoost	*BEAST*
+		MadGoose
+		Emyu
+
+----------------------------------------
+
+
+	===PLANT FAMILY===
+
+
+MADPLANT	*PLANT* 	*SLIME*
+
+----------------------------------------
+
+FIREWEED	*PLANT* 	*DRAGON*
+
+----------------------------------------
+
+FLORAMAN	*PLANT* 	*BEAST*
+
+----------------------------------------
+
+WINGTREE	*PLANT* 	*BIRD*
+
+----------------------------------------
+
+CACTIBALL	*PLANT* 	*BUG*
+
+----------------------------------------
+
+GULPPLE		*PLANT* 	*DEVIL*
+
+----------------------------------------
+
+TOADSTOOL	*PLANT* 	*ZOMBIE*
+
+----------------------------------------
+
+AMBERWEED	*PLANT* 	*MATERIAL*
+
+----------------------------------------
+
+SLURPERON	*PLANT* 	*WATER*
+
+----------------------------------------
+
+STUBSUCK	AmberWeed 	*BEAST*
+
+		GhosTree	GhosTree
+
+----------------------------------------
+
+ONIONO		*PLANT* 	Anemon
+				Gophecada
+
+----------------------------------------
+
+DANCEVEGI	MadPlant 	*BEAST*
+
+		*PLANT* 	Facer
+
+----------------------------------------
+
+TREEBOY		*PLANT* 	Pixy
+
+		FooHero		EvilWand
+
+----------------------------------------
+
+DEVIPINE	*PLANT* 	Gulpple
+
+----------------------------------------
+
+FACETREE	HerbMan 	*DRAGON*
+
+		*PLANT* 	NiteWhip
+
+		GhosTree	Snapper
+
+----------------------------------------
+
+HERBMAN		DanceVegi 	*DEVIL*
+
+		*PLANT* 	FunkyBird
+
+----------------------------------------
+
+BEANMAN		*PLANT* 	PillowRat
+				FishRider
+
+		Eggplaton	*DEVIL*
+
+----------------------------------------
+
+EVILSEED	*PLANT* 	RockSlime
+				BigEye
+				DuckKite
+				ButterFly
+				Eyeder
+				DarkEye
+				EyeBall
+				MadMirror
+				Gamanian
+				KiteHawk
+
+		Eggplaton	*ZOMBIE*
+
+----------------------------------------
+
+MANEATER	EvilSeed 	EvilSeed
+				Slurperon
+
+----------------------------------------
+
+SNAPPER		ManEater 	ManEater
+
+----------------------------------------
+
+GHOSTREE	Stubsuck 	Puppetor
+				*ZOMBIE*
+
+----------------------------------------
+
+ROSEVINE	*PLANT* 	*BOSS*
+
+----------------------------------------
+
+EGDRACIL	RoseVine 	Gigantes
+
+----------------------------------------
+
+WATABOU		Warubou		Watabou (DWM1)
+
+----------------------------------------
+
+WARUBOU		----- 		-----
+
+----------------------------------------
+
+EGGPLATON	*PLANT* 	Aquarella
+				Lipsy
+				Droll
+
+----------------------------------------
+
+FOOHERO		TreeBoy 	SlimeNite
+				BeastNite
+				HammerMan
+
+----------------------------------------
+
+
+	===BUG FAMILY===
+
+
+GIANTSLUG	*BUG*	 	*SLIME*
+
+----------------------------------------
+
+CATAPILA	*BUG* 		*DRAGON*
+
+----------------------------------------
+
+GOPHECADA	*BUG*	 	*BEAST*
+
+----------------------------------------
+
+BUTTERFLY	*BUG*	 	*BIRD*
+
+----------------------------------------
+
+WEEDBUG		*BUG* 		*PLANT*
+
+----------------------------------------
+
+GIANTWORM	*BUG*	 	*DEVIL*
+
+----------------------------------------
+
+LIPSY		*BUG* 		*ZOMBIE*
+
+----------------------------------------
+
+STAGBUG		*BUG*	 	*MATERIAL*
+
+----------------------------------------
+
+PYURO		*BUG* 		*WATER*
+
+----------------------------------------
+
+ARMYANT		GiantSlug 	*SLIME*
+
+----------------------------------------
+
+GOHOPPER	----- 		-----
+
+----------------------------------------
+
+TAILEATER	WeedBug 	*PLANT*
+				Anemon
+
+		*BUG* 		FloraMan
+
+----------------------------------------
+
+ARMORPEDE	GiantWorm 	*MATERIAL*
+
+		Droll 		*DRAGON*
+
+		*BUG* 		IronTurt
+
+		MultiEyes	RockSlime
+				Tortragon
+
+----------------------------------------
+
+EYEDER		Catapila 	*BEAST*
+
+		*BUG* 		Gamanian
+				Amberweed
+				Octoreach
+
+----------------------------------------
+
+GIANTMOTH	ButterFly 	*DEVIL*
+
+		*BUG* 		Saccer
+				RayGigas
+
+----------------------------------------
+
+DROLL		ButterFly	ButterFly
+
+		TailEater	TailEater
+
+		Eyeder		Eyeder
+
+		Lipsy		*SLIME*
+				Aquarella
+				Octokid
+				Angleron
+
+		*BUG*		Spooky
+
+----------------------------------------
+
+ARMYCRAB	*BUG* 		DarkCrab
+				Cancerman
+
+----------------------------------------
+
+MADHORNET	Eyeder		*ZOMBIE*
+		Droll
+		Pyuro
+
+		*BUG* 		FairyRat
+
+		ButterFly	Pyuro
+
+----------------------------------------
+
+BELZEBUB	MadHornet 	GoHopper	
+				*ZOMBIE*
+
+		MultiEyes 	ButterFly	
+				Pyuro
+
+----------------------------------------	
+
+WARMANTIS	Sickler 	*DEVIL*
+
+----------------------------------------
+
+HORNBEET	StagBug 	StagBug
+
+		ArmorPede 	*DEVIL*
+		WarMantis
+
+----------------------------------------
+
+SICKLER		*BUG* 		1EyeClown
+				Reaper
+
+		WarMantis 	*SLIME*
+
+----------------------------------------
+
+ARMORPION	HornBeet 	Hornbeet
+
+		WarMantis	CancerMan
+				RogueNite
+				Octoraid
+
+----------------------------------------
+
+DIGSTER		*BUG* 		*BOSS*
+		
+		ArmyCrab	Clawster
+
+----------------------------------------
+
+SKULARACH	Armorpion 	WhiteKing
+
+----------------------------------------
+
+MULTIEYES	TailEater 	*DEVIL*
+
+		Catapila 	Catapila
+				Butterfly
+
+----------------------------------------
+
+
+	===DEVIL FAMILY===
+
+
+PIXY		*DEVIL* 	*SLIME*
+
+----------------------------------------
+
+ARCDEMON	AgDevil		SpotKing
+		Grendal		KingSlime
+		Gigantes 	MetalKing
+				Andreal
+				GreatDrak
+				Orochi
+				Trumpeter
+				KingLeo
+				ZapBird
+				WhipBird
+				MetalDrak
+				Garudian
+
+		GateGuard 	*ZOMBIE*
+
+		Ogre 		*DRAGON*
+
+		*DEVIL* 	*BOSS*
+
+----------------------------------------
+
+AGDEVIL		SkulRider	*DRAGON*
+		Evilbeast
+		Gremlin
+		MedusaEye 	
+
+----------------------------------------
+
+DEMONITE	*DEVIL* 	*BIRD*
+
+----------------------------------------
+
+DARKEYE		*DEVIL* 	*PLANT*
+
+----------------------------------------
+
+EYEBALL		*DEVIL* 	*BUG*
+
+----------------------------------------
+
+SKULRIDER	*DEVIL* 	*ZOMBIE*
+
+----------------------------------------
+
+EVILBEAST	*DEVIL* 	*MATERIAL*
+
+----------------------------------------
+
+BUBBLEMON	*DEVIL* 	*WATER*
+
+----------------------------------------
+
+1EYECLOWN	Pixy		*SLIME*
+		Demonite
+		EyeBall
+
+----------------------------------------
+
+GREMLIN		*DEVIL* 	*BEAST*
+
+----------------------------------------
+
+MEDUSAEYE	1EyeClown	*ZOMBIE*
+		Gremlin		Aquarella
+		DarkEye		Octoreach
+
+		*DEVIL* 	*DRAGON*
+
+----------------------------------------
+
+LIONEX		ArcDemon 	*ZOMBIE*
+				Garudian
+
+		*DEVIL* 	LizardMan
+
+----------------------------------------
+
+GOATHORN	ArcDemon 	*BEAST*
+
+		*DEVIL* 	DarkHorn
+
+----------------------------------------
+
+ORC		*DEVIL* 	BeanMan
+
+----------------------------------------
+
+OGRE		AgDevil		GulpBeast
+		Grendal		Unicorn
+		Gigantes 	Digster
+				Roboster
+				WalrusMan
+				MerTiger
+
+		GateGuard 	*DRAGON*
+
+		*DEVIL* 	HammerMan
+
+----------------------------------------
+
+GATEGUARD	AgDevil		SlimeBorg
+		Grendal		Swordgon
+		Gigantes 	Coatol
+				MistyWing
+				MadCondor
+				Rosevine
+				GiantMoth
+				Skullgon
+				DeadNoble
+				WhiteKing
+				AxeShark
+
+		Demonite 	Demonite
+
+		Ogre 		*ZOMBIE*
+
+----------------------------------------
+
+CHOPCLOWN	1EyeClown 	1EyeClown
+
+		Lionex		MimeSlime
+
+----------------------------------------
+
+BOSSTROLL	Ogre 		StoneMan
+		Centasaur	Balzak
+				WalrusMan
+				GreatDrak
+
+		GoatHorn 	*BEAST*
+
+----------------------------------------
+
+GRENDAL		SkulRider	*BEAST*
+		EvilBeast
+		Gremlin
+		MedusaEye
+
+		*DEVIL* 	BeastNite
+				MadDragon
+
+----------------------------------------
+
+AKUBAR		ArcDemon 	GateGuard
+
+		Grendal 	Grendal
+
+----------------------------------------
+
+MADKNIGHT	*DEVIL* 	RogueNite
+
+----------------------------------------
+
+EVILWELL	BossTroll 	IceMan
+
+		Ogre 		LavaMan
+
+----------------------------------------
+
+GIGANTES	SkulRider	*ZOMBIE*
+		EvilBeast
+		MedusaEye
+
+		*DEVIL* 	BigEye
+
+----------------------------------------
+
+CENTASAUR	ArcDemon 	*DRAGON*
+
+		Ogre		*BEAST*
+		GateGuard
+		BossTroll
+
+----------------------------------------
+
+EVILARMOR	ArcDemon	*MATERIAL*
+		Ogre
+		GateGuard
+
+		*DEVIL* 	ArmorPede
+
+----------------------------------------
+
+JAMIRUS		Akubar	 	RainHawk
+
+----------------------------------------
+
+DURRAN		Centasaur 	GoldGolem
+
+		Jamirus 	Serpentia
+
+----------------------------------------
+
+TITANIS		Durran 		DarkHorn
+
+----------------------------------------
+
+LAMPGENIE	Centasaur 	*BOSS*
+
+----------------------------------------
+
+
+	===ZOMBIE FAMILY===
+
+
+SPOOKY		*ZOMBIE* 	*SLIME*
+
+----------------------------------------
+
+SKULLGON	Skullgon	*DRAGON*
+		DeadNoble
+		WhiteKing
+		BoneSlave
+		Skeletor
+		Skulpent
+
+		*ZOMBIE* 	Swordgon
+				Rayburn
+				Andreal
+				GreatDrak
+				Orochi
+				BattleRex
+				Divinegon
+
+----------------------------------------
+
+PUTREPUP	*ZOMBIE* 	*BEAST*
+
+----------------------------------------
+
+ROTRAVEN	*ZOMBIE* 	*BIRD*
+
+----------------------------------------
+
+MUMMY		*ZOMBIE* 	*PLANT*
+
+----------------------------------------
+
+DARKCRAB	*ZOMBIE* 	*BUG*
+				CancerMan
+				Clawster
+				Gamanian
+
+----------------------------------------
+
+DEADNITE	*ZOMBIE* 	*DEVIL*
+
+----------------------------------------
+
+SHADOW		*ZOMBIE* 	*MATERIAL*
+
+----------------------------------------
+
+SKULPENT	*ZOMBIE* 	*WATER*
+
+----------------------------------------
+
+HORK		Spooky 		*BEAST*
+
+----------------------------------------
+
+MUDRON		*ZOMBIE* 	BoxSlime
+				FangSlime
+				Tonguella
+				Yeti
+				FunkyBird
+				MadPlant
+				DanceVegi
+				GiantSlug
+				Lipsy
+				Droll
+
+----------------------------------------
+
+NITEWHIP	DarkCrab	*DEVIL*
+		MadSpirit
+
+		*ZOMBIE* 	MistyWing
+
+----------------------------------------
+
+MADSPIRIT	Skullgon	*BIRD*
+		DeadNite
+		Mudron
+		DeadNoble
+		BoneSlave
+		Skeletor
+		PomPomBom
+
+		*ZOMBIE* 	*DRAGON*
+
+----------------------------------------
+
+WINDMERGE	RotRaven 	*BIRD*
+
+		*ZOMBIE* 	WindBeast
+
+----------------------------------------
+
+REAPER		Spooky		*DEVIL*
+		Hork
+
+		*ZOMBIE* 	WeedBug
+
+----------------------------------------
+
+INVERZON	Hork 		Hork
+
+----------------------------------------
+
+FOXFIRE		NiteWhip 	*BEAST*
+
+		PutrePup	MistyWing
+
+----------------------------------------
+
+CAPTDEAD	BoneSlave 	*WATER*
+
+		NiteWhip	Moray
+
+----------------------------------------
+
+DEADNOBLE	Mudron		Lionex
+		BoneSlave	ArcDemon
+		Skeletor	GateGuard
+		CaptDead	CopyCat
+				Roboster
+				MetalDrak
+
+		Skullgon	CopyCat
+		DeadNite
+
+		MadSpirit	Roboster2
+				Roboster
+				ArcDemon
+				Lionex
+				GateGuard
+				MetalDrak
+
+		DeadNite	DeadNite
+
+----------------------------------------
+
+WHITEKING	Skullgon	KingSlime
+	
+		DeadNoble	SpotKing
+
+		BoneSlave	MetalKing
+
+		Skeletor	GoldGolem
+		Niterich	WhipBird
+				ZapBird
+				Blizzardy
+				KingLeo
+				GreatDrak
+				Andreal
+				WhaleMage
+				Grakos
+
+		*ZOMBIE*	*BOSS*
+
+----------------------------------------
+
+BONESLAVE	Mummy		RockSlime
+		DeadNite	SlimeBorg
+			 	LandOwl
+				MadGoose
+				FloraMan
+				HornBeet
+				Gremlin
+
+----------------------------------------
+
+SKELETOR	Mummy		GulpBeast
+		DeadNite	Grizzly
+		Hork		MadCat
+		Mudron		MadRaven
+		CaptDead	MadCondor
+				EvilBeast
+				Ogre
+				Golem
+				StoneMan
+
+		BoneSlave	BoneSlave
+
+		MadSpirit	*DRAGON*
+
+----------------------------------------
+
+SERVANT		Skeletor 	Skeletor
+
+		WhiteKing 	*DEVIL*
+
+----------------------------------------
+
+LAZAMANUS	WhiteKing 	DracoLord1
+
+----------------------------------------
+
+COPYCAT		-----	 	-----
+
+----------------------------------------
+
+POMPOMBOM	Copycat 	Droll
+				Gasgon
+
+		FoxFire		*BEAST*
+
+----------------------------------------
+
+NITERICH	DeadNoble	Octoraid
+		Skeletor 	Roboster2	
+				Serpentia
+
+----------------------------------------
+
+
+	===MATERIAL FAMILY===
+
+
+JEWELBAG	*MATERIAL* 	*SLIME*
+
+----------------------------------------
+
+EVILWAND	*MATERIAL* 	*DRAGON*
+
+----------------------------------------
+
+MADCANDLE	*MATERIAL* 	*BEAST*
+
+----------------------------------------
+
+COILBIRD	*MATERIAL* 	*BIRD*
+
+----------------------------------------
+
+FACER		*MATERIAL* 	*PLANT*
+
+----------------------------------------
+
+SPIKYBOY	*MATERIAL* 	*BUG*
+
+----------------------------------------
+
+MADMIRROR	*MATERIAL* 	*DEVIL*
+
+----------------------------------------
+
+ROGUENITE	*MATERIAL* 	*ZOMBIE*
+
+----------------------------------------
+
+PUPPETOR	*MATERIAL* 	Gremlin
+
+----------------------------------------
+
+GOOPI		JewelBag 	*MATERIAL*
+
+----------------------------------------
+
+VOODOLL		Golem		DrakSlime
+		StoneMan 	Snaily
+				SlimeNite
+				RockSlime
+
+		*MATERIAL* 	Lipsy
+
+		Puppetor 	*DEVIL*
+
+----------------------------------------
+
+METALDRAK	Roboster 	*DRAGON*
+		Roboster2	MetalDrak
+
+		*MATERIAL* 	Andreal
+
+		StoneMan	Spikerous
+				GreatDrak
+
+----------------------------------------
+
+BALZAK		LavaMan		*DEVIL*
+		IceMan
+
+		*MATERIAL* 	*BOSS*
+
+----------------------------------------
+
+SABREMAN	EvilWand	LandOwl
+		Voodoll		MadGoose
+		Golem		Phoenix
+		StoneMan	FunkyBird
+
+		*MATERIAL*	GiantWorm
+
+----------------------------------------
+
+
+CURSELAMP	Roboster 	*BIRD*
+		Roboster2
+
+		*MATERIAL* 	WingTree
+
+----------------------------------------
+
+BRUSHEAD	*MATERIAL* 	*WATER*
+
+		Puppetor	Demonite
+				Pixy
+
+----------------------------------------
+
+ROBOSTER	SabreMan 	SlimeBorg
+				GreatDrak
+				Unicorn
+				Ogre
+				Grendal
+				EvilArmor
+				DeadNoble
+				Skeletor
+
+		*MATERIAL* 	GulpBeast
+				Grizzly
+				Trumpeter
+				KingLeo
+				SkulRider
+
+----------------------------------------
+
+ROBOSTER2	Roboster 	Roboster (offspring must be at least +10)
+
+----------------------------------------
+	
+EVILPOT		Gismo 		*DEVIL*
+
+		*MATERIAL* 	Snaily
+
+		Mimic		Scallopa
+
+----------------------------------------
+
+GISMO		MadCandle	DrakSlime
+		MadMirror	Wyvern
+		Goopi 		MistyWing
+				Phoenix
+				FireWeed
+				EvilSeed
+				Anemon
+
+----------------------------------------
+
+LAVAMAN		MetalDrak 	Orochi
+				KingLeo
+				ZapBird
+				ArcDemon
+				Centasaur
+				BossTroll
+
+----------------------------------------
+
+ICEMAN		MetalDrak 	Skullgon
+				WhiteKing
+
+		Roboster 	KingLeo
+		Roboster2
+
+----------------------------------------
+
+MIMIC		Roboster 	*ZOMBIE*
+				RushFish
+
+		*MATERIAL* 	BoxSlime
+
+----------------------------------------
+
+EXAUCERS	*MATERIAL* 	Dracky
+
+----------------------------------------
+
+MUDDOLL		Goopi 		Goopi
+				Cancerman
+
+----------------------------------------
+
+GOLEM		MudDoll 	MudDoll
+
+----------------------------------------
+
+STONEMAN	Golem	 	Golem
+
+		*MATERIAL* 	HornBeet
+				Digster
+
+----------------------------------------
+
+BOMBCRAG	SpikyBoy 	SpikyBoy
+
+		Roboster 	*BUG*
+		DarkMate
+
+----------------------------------------
+
+GOLDGOLEM	IceMan 		LavaMan
+
+		LavaMan		BossTroll
+
+----------------------------------------
+
+DARKMATE	GoldGolem 	MetalKing
+
+----------------------------------------
+
+PROTOMECH	*MATERIAL* 	EvilArmor
+
+		Roboster 	*SLIME*
+		Roboster2
+
+		RogueNite 	*DEVIL*
+
+----------------------------------------
+
+CLOUDKING	Gismo 		KingSlime
+				SpotKing
+				SkyDragon
+				DracoLord1
+				WhaleMage
+				KingSquid
+				LampGenie
+				WhiteKing
+
+----------------------------------------
+
+
+	===WATER FAMILY===
+
+
+PETITEEL	*WATER* 	*SLIME*
+
+----------------------------------------
+
+MORAY		*WATER* 	*DRAGON*
+
+----------------------------------------
+
+WALRUSMAN	*WATER* 	*BEAST*
+
+----------------------------------------
+
+RAYGIGAS	*WATER* 	*BIRD*
+
+----------------------------------------
+
+ANEMON		*WATER* 	*PLANT*
+
+----------------------------------------
+
+AQUARELLA	*WATER* 	*BUG*
+
+----------------------------------------
+
+MERMAN		*WATER* 	*DEVIL*
+
+----------------------------------------
+
+OCTOKID		*WATER* 	*MATERIAL*
+
+----------------------------------------
+
+PUTREFISH	*WATER* 	*ZOMBIE*
+
+----------------------------------------
+
+OCTOREACH	Petiteel 	*BEAST*
+
+----------------------------------------
+
+ANGLERON	Petiteel 	*MATERIAL*
+
+----------------------------------------
+
+FISHRIDER	Angleron 	Pixy
+				Demonite
+				SkulRider
+				Gremlin
+
+----------------------------------------
+
+RUSHFISH	Angleron	*DRAGON* 	
+				GulpBeast
+				Droll
+
+----------------------------------------
+
+GAMANIAN	Aquarella 	*BUG*
+				DarkEye
+				MedusaEye
+
+----------------------------------------
+
+CLAWSTER	Gamanian 	ArmyCrab
+				*DEVIL*
+
+----------------------------------------
+
+CANCERMAN	Clawster 	Clawster
+				*DEVIL*
+
+----------------------------------------
+
+ROGUEWAVE	*WATER* 	JewelBag
+
+----------------------------------------
+
+SCALLOPA	RogueWave 	*DEVIL*
+				Mimic
+
+----------------------------------------
+
+SEAHORSE	Petiteel 	*DRAGON*
+				*DEVIL*
+
+----------------------------------------
+
+HOODSQUID	CancerMan 	WhaleMage
+				EvilWand
+
+----------------------------------------
+
+MERTIGER	Merman 		GulpBeast
+				MadCat
+
+----------------------------------------
+
+AXESHARK	CancerMan 	BattleRex
+				ArcDemon
+
+----------------------------------------
+
+OCTOGON		Octoreach 	Octoreach  (offspring must be at least +5)
+
+----------------------------------------
+
+KINGSQUID	Octogon 	Octogon (offspring must be at least +5)
+				*BOSS*
+
+----------------------------------------
+
+DIGONG		RushFish 	Spikerous
+				RogueWave
+				MadGoose
+				Gigantes
+				Golem
+
+----------------------------------------
+
+WHALEMAGE	HoodSquid 	1EyeClown
+				Reaper
+				RushFish
+
+----------------------------------------
+
+AQUADON		Digong 		GreatDrak
+				Coatol
+				Orligon
+
+----------------------------------------
+
+OCTORAID	Octogon 	ChopClown
+				EvilArmor
+				GateGuard
+				Lionex
+
+----------------------------------------
+
+GRAKOS		*WATER* 	*BOSS*
+
+----------------------------------------
+
+POSEIDON	Grakos 		Mudou
+
+----------------------------------------
+
+PUMPOISE	*WATER* 	Mommonja
+				DuckKite
+				MadPecker
+				MadGoose
+				CragDevil
+				SpikyBoy
+				BombCrag
+
+----------------------------------------
+
+STARFISH	HoodSquid	*SLIME*
+		OctoReach
+		Octogon
+		KingSquid
+
+----------------------------------------
+
+
+	===BOSS FAMILY===
+
+
+DRACOLORD1	Servant 	Andreal
+				GreatDrak
+
+----------------------------------------
+
+DRACOLORD2	DracoLord1 	Divinegon
+
+----------------------------------------
+
+LORDDRACO	DracoLord2	Orligon
+
+----------------------------------------
+
+HARGON		WhiteKing 	MetalKing
+
+----------------------------------------
+
+SIDOH		Jamirus 	Rosevine
+
+----------------------------------------
+
+GENOSIDOH	Sidoh	 	Titanis
+
+----------------------------------------
+
+BARAMOS		Hargon 		Orochi
+
+----------------------------------------
+
+ZOMA		DracoLord1 	Sidoh
+		DracoLord2
+
+----------------------------------------
+
+ASURAZOMA	Zoma 		PsychoPiz
+
+----------------------------------------
+
+PIZZARO		Durran 		Divinegon
+
+----------------------------------------
+
+PSYCHOPIZ	Pizzaro 	Esterk
+
+----------------------------------------
+
+ESTERK		Pizzaro 	Gorago
+				KingLeo
+
+----------------------------------------
+
+MIRUDRAAS1	Esterk 		GoldSlime
+
+----------------------------------------
+
+MIRUDRAAS2	Mirudraas1 	Orligon
+				Spikerous
+
+----------------------------------------
+
+MUDOU		Baramos 	Gorago
+				DarkHorn
+
+----------------------------------------
+
+DEATHMORE1	Mirudraas1 	Azurile
+
+		Mirudraas2 	Zoma
+
+		Zoma 		Mirudraas1
+				Mirudraas2
+				Azurile
+
+----------------------------------------
+
+DEATHMORE2	DeathMore1 	Titanis
+ 				Armorpion
+
+----------------------------------------
+
+DEATHMORE3	DeathMore2 	DarkMate
+				Mudou
+				Poseidon
+
+----------------------------------------
+
+DARKDRIUM	DeathMore3	GranSlime
+				AsuraZoma
+				Watabou
+
+----------------------------------------
+
+ORGODEMIR	PsychoPiz 	Niterich
+
+----------------------------------------
+
+ORGODEMIR2	Orgodemir 	LordDraco
+				GigaDraco
+
+----------------------------------------
+
+DARCK		-----		-----
