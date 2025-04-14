@@ -73,7 +73,7 @@ ROCKSLIME	*SLIME* 	DeadNite
 
 ----------------------------------------
 
-SLIMEBORG	DrakSlime	Swordgon
+X SLIMEBORG	DrakSlime	Swordgon
 
 		SlimeNite	Spikerous
 
@@ -86,7 +86,7 @@ SLIMEBORG	DrakSlime	Swordgon
 
 ----------------------------------------
 
-SLABBIT		*SLIME* 	Skullroo
+X SLABBIT		*SLIME* 	Skullroo
 
 ----------------------------------------
 
