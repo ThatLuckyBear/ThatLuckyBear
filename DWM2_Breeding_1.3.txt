@@ -110,7 +110,7 @@ X KINGSLIME	SpotKing 	GreatDrak
 
 ----------------------------------------
 
-METALY		*SLIME* 	MetalDrak
+X METALY		*SLIME* 	MetalDrak
 
 ----------------------------------------
 
