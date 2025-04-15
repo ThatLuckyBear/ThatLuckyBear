@@ -164,7 +164,7 @@ X HALOSLIME	MimeSlime	*ZOMBIE*
 
 ----------------------------------------
 
-METALKING	SpotKing	MetalDrak
+X METALKING	SpotKing	MetalDrak
 		KingSlime 	
 
 		Metabble 	Metabble
