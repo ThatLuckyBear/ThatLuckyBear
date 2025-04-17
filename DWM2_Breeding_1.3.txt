@@ -57,7 +57,7 @@ X HEALER		*SLIME*		PillowRat
 
 ----------------------------------------
 
-FANGSLIME	*SLIME* 	Almiraj
+X FANGSLIME	*SLIME* 	Almiraj
 				GulpBeast
 				Trumpeter
 				KingLeo
@@ -66,7 +66,7 @@ FANGSLIME	*SLIME* 	Almiraj
 
 ----------------------------------------
 
-ROCKSLIME	*SLIME* 	DeadNite
+X ROCKSLIME	*SLIME* 	DeadNite
 				Golem
 				StoneMan
 				BombCrag
