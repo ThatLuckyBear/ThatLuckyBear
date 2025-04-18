@@ -385,27 +385,27 @@ GIGADRACO	Andreal		BossTroll
 	===BEAST FAMILY===
 
 
-TONGUELLA	*BEAST* 	*SLIME*
+X TONGUELLA	*BEAST* 	*SLIME*
 
 ----------------------------------------
 
-ALMIRAJ		*BEAST* 	*DRAGON*
+X ALMIRAJ		*BEAST* 	*DRAGON*
 
 ----------------------------------------
 
-CATFLY		*BEAST* 	*BIRD*
+X CATFLY		*BEAST* 	*BIRD*
 
 ----------------------------------------
 
-PILLOWRAT	*BEAST* 	*PLANT*
+X PILLOWRAT	*BEAST* 	*PLANT*
 
 ----------------------------------------
 
-SACCER		*BEAST* 	*BUG*
+X SACCER		*BEAST* 	*BUG*
 
 ----------------------------------------
 
-GULPBEAST	Tonguella	Digster
+X GULPBEAST	Tonguella	Digster
 				Skullgon
 				DeadNoble
 				WhiteKing
@@ -443,7 +443,7 @@ GULPBEAST	Tonguella	Digster
 
 ----------------------------------------
 
-SKULLROO	*BEAST* 	*ZOMBIE*
+X SKULLROO	*BEAST* 	*ZOMBIE*
 
 ----------------------------------------
 
@@ -453,15 +453,15 @@ WINDBEAST	CatFly 		*BIRD*
 
 ----------------------------------------
 
-BEAVERN		*BEAST* 	*WATER*
+X BEAVERN		*BEAST* 	*WATER*
 
 ----------------------------------------
 
-ANTBEAR 	Saccer 		*DRAGON*
+X ANTBEAR 	Saccer 		*DRAGON*
 
 ----------------------------------------
 
-SUPERTEN	Tonguella	TreeSlime
+X SUPERTEN	Tonguella	TreeSlime
 		GulpBeast 	FangSlime	
 				MadDragon
 				FunkyBird
@@ -480,19 +480,19 @@ SUPERTEN	Tonguella	TreeSlime
 
 ----------------------------------------
 
-IRONTURT	*BEAST* 	Tortragon
+X IRONTURT	*BEAST* 	Tortragon
 
 ----------------------------------------
 
-MOMMONJA	*BEAST* 	DuckKite
+X MOMMONJA	*BEAST* 	DuckKite
 
 ----------------------------------------
 
-HAMMERMAN	*BEAST* 	Stubsuck
+X HAMMERMAN	*BEAST* 	Stubsuck
 
 ----------------------------------------
 
-GRIZZLY		*BEAST* 	*DEVIL*
+X GRIZZLY		*BEAST* 	*DEVIL*
 				MetalDrak
 				Roboster
 				LavaMan
@@ -502,7 +502,7 @@ GRIZZLY		*BEAST* 	*DEVIL*
 
 ----------------------------------------
 
-YETI		IronTurt	Pteranod
+X YETI		IronTurt	Pteranod
 		Goategon	Gasgon
 		WildApe		Swordgon
 		MadCat		MadDragon
@@ -515,11 +515,11 @@ YETI		IronTurt	Pteranod
 
 ----------------------------------------
 
-ARROWDOG	*BEAST* 	PutrePup
+X ARROWDOG	*BEAST* 	PutrePup
 
 ----------------------------------------
 
-NOCTOKING	ArrowDog 	Dracky
+X NOCTOKING	ArrowDog 	Dracky
 				Shadow
 
 ----------------------------------------
@@ -532,15 +532,15 @@ BEASTNITE	*BEAST* 	EvilArmor
 
 ----------------------------------------
 
-MADGOPHER	*BEAST* 	SabreMan
+X MADGOPHER	*BEAST* 	SabreMan
 
 ----------------------------------------
 
-FAIRYRAT	*BEAST* 	LizardFly
+X FAIRYRAT	*BEAST* 	LizardFly
 
 ----------------------------------------
 
-UNICORN		Tonguella	*SLIME*
+X UNICORN		Tonguella	*SLIME*
 		GulpBeast
 		Grizzly
 		Yeti
@@ -611,7 +611,7 @@ GORAGO		DarkHorn 	*BOSS*
 
 ----------------------------------------
 
-CATMAGE		CatFly 		MimeSlime
+X CATMAGE		CatFly 		MimeSlime
 				TreeBoy
 				Sickler
 				1EyeClown
