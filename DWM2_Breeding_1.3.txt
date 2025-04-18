@@ -28,7 +28,7 @@ X SNAILY		*SLIME* 	*BUG*
 
 ----------------------------------------
 
-SLIMENITE	*SLIME* 	*DEVIL*
+X SLIMENITE	*SLIME* 	*DEVIL*
 
 ----------------------------------------
 
@@ -172,7 +172,7 @@ X METALKING	SpotKing	MetalDrak
 
 ----------------------------------------
 
-GOLDSLIME	SpotKing	GoldGolem
+X GOLDSLIME	SpotKing	GoldGolem
 		KingSlime
 		MetalKing
  	
