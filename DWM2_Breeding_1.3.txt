@@ -181,7 +181,7 @@ X GOLDSLIME	SpotKing	GoldGolem
 
 ----------------------------------------
 
-GRANSLIME	GoldSlime 	DarkMate
+X GRANSLIME	GoldSlime 	DarkMate
 				GoldSlime
 				DeathMore1
 
@@ -563,7 +563,7 @@ X WILDAPE	Almiraj 	*DRAGON*
 
 ----------------------------------------
 
-TRUMPETER	Tonguella	LandOwl
+X TRUMPETER	Tonguella	LandOwl
 		Grizzly		MadCondor
 		Yeti		ZapBird
 		GulpBeast	WhipBird
