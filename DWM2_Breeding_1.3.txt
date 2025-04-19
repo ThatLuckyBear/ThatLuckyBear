@@ -453,7 +453,7 @@ X WINDBEAST	CatFly 		*BIRD*
 
 ----------------------------------------
 
-X BEAVERN		*BEAST* 	*WATER*
+X BEAVERN	*BEAST* 	*WATER*
 
 ----------------------------------------
 
@@ -461,8 +461,8 @@ X ANTBEAR 	Saccer 		*DRAGON*
 
 ----------------------------------------
 
-X SUPERTEN	Tonguella	TreeSlime
-		GulpBeast 	FangSlime	
+X SUPERTEN Tonguella	TreeSlime
+	GulpBeast 	FangSlime	
 				MadDragon
 				FunkyBird
 				MadPlant
@@ -492,7 +492,7 @@ X HAMMERMAN	*BEAST* 	Stubsuck
 
 ----------------------------------------
 
-X GRIZZLY		*BEAST* 	*DEVIL*
+X GRIZZLY	*BEAST* 	*DEVIL*
 				MetalDrak
 				Roboster
 				LavaMan
@@ -540,7 +540,7 @@ X FAIRYRAT	*BEAST* 	LizardFly
 
 ----------------------------------------
 
-X UNICORN		Tonguella	*SLIME*
+X UNICORN	Tonguella	*SLIME*
 		GulpBeast
 		Grizzly
 		Yeti
@@ -557,7 +557,7 @@ GOATEGON	*BEAST* 	DrakSlime
 
 ----------------------------------------
 
-WILDAPE		Almiraj 	*DRAGON*
+X WILDAPE	Almiraj 	*DRAGON*
 
 		*BEAST* 	MadPecker
 
@@ -601,7 +601,7 @@ MADCAT		*BEAST* 	Dragon
 
 ----------------------------------------
 
-BIGEYE		*BEAST* 	EyeBall
+X BIGEYE		*BEAST* 	EyeBall
 				Drygon
 
 ----------------------------------------
