@@ -447,7 +447,7 @@ X SKULLROO	*BEAST* 	*ZOMBIE*
 
 ----------------------------------------
 
-WINDBEAST	CatFly 		*BIRD*
+X WINDBEAST	CatFly 		*BIRD*
 
 		*BEAST* 	*MATERIAL*
 
