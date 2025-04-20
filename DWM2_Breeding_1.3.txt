@@ -552,7 +552,7 @@ X UNICORN	Tonguella	*SLIME*
 
 ----------------------------------------
 
-GOATEGON	*BEAST* 	DrakSlime
+X GOATEGON	*BEAST* 	DrakSlime
 				LizardMan
 
 ----------------------------------------
@@ -582,7 +582,7 @@ X TRUMPETER	Tonguella	LandOwl
 
 ----------------------------------------
 
-KINGLEO		Trumpeter 	Trumpeter
+X KINGLEO		Trumpeter 	Trumpeter
 				MetalDrak
 				Balzak
 				GoldGolem
@@ -621,7 +621,7 @@ X CATMAGE		CatFly 		MimeSlime
 
 ----------------------------------------
 
-DUMBIRA		NoctoKing 	Gigantes
+X DUMBIRA		NoctoKing 	Gigantes
 
 		SuperTen 	Lizardman
 				BeastNite
