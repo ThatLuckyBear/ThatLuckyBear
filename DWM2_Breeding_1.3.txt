@@ -299,12 +299,12 @@ X SNAKEBAT	*DRAGON* 	CatFly
 
 ----------------------------------------
 
-SPIKEROUS	*DRAGON* 	ArmyCrab
+X SPIKEROUS	*DRAGON* 	ArmyCrab
 				Digster
 
 ----------------------------------------
 
-GREATDRAK	*DRAGON* 	KingSlime
+X GREATDRAK	*DRAGON* 	KingSlime
 				SpotKing
 				MetalKing
 				BattleRex
@@ -324,11 +324,11 @@ X CRESTPENT	*DRAGON* 	BigRoost
 
 ----------------------------------------
 
-WINGSNAKE	Crestpent 	Crestpent
+X WINGSNAKE	Crestpent 	Crestpent
 
 ----------------------------------------
 
-COATOL		Pteranod	DarkHorn
+X COATOL	Pteranod	DarkHorn
 		Gasgon		MadKnight
 		LizardMan	CopyCat
 		BattleRex	StoneMan
@@ -339,7 +339,7 @@ COATOL		Pteranod	DarkHorn
 
 ----------------------------------------
 
-OROCHI		Andreal		MedusaEye
+X OROCHI	Andreal		MedusaEye
 		GreatDrak 	
 
 		*DRAGON* 	*BOSS*
