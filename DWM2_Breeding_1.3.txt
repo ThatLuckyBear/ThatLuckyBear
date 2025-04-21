@@ -201,19 +201,19 @@ DRAGONKID	*DRAGON* 	*SLIME*
 
 ----------------------------------------
 
-TORTRAGON	*DRAGON* 	*BEAST*
+X TORTRAGON	*DRAGON* 	*BEAST*
 
 ----------------------------------------
 
-PTERANOD	*DRAGON* 	*BIRD*
+X PTERANOD	*DRAGON* 	*BIRD*
 
 ----------------------------------------
 
-GASGON		*DRAGON* 	*PLANT*
+X GASGON	*DRAGON* 	*PLANT*
 
 ----------------------------------------
 
-FAIRYDRAK	*DRAGON* 	*BUG*
+X FAIRYDRAK	*DRAGON* 	*BUG*
 
 ----------------------------------------
 
@@ -221,7 +221,7 @@ LIZARDMAN	*DRAGON* 	*DEVIL*
 
 ----------------------------------------
 
-POISONGON	*DRAGON* 	*ZOMBIE*
+X POISONGON	*DRAGON* 	*ZOMBIE*
 
 ----------------------------------------
 
@@ -229,20 +229,20 @@ SWORDGON	*DRAGON* 	*MATERIAL*
 
 ----------------------------------------
 
-DRYGON		*DRAGON* 	*WATER*
+X DRYGON	*DRAGON* 	*WATER*
 ----------------------------------------
 
-DRAGON		DragonKid 	DragonKid
+X DRAGON	DragonKid 	DragonKid
 
 ----------------------------------------
 
-VAMPIRUS	Pteranod	Pteranod
+X VAMPIRUS	Pteranod	Pteranod
 		
 		*DRAGON*	MadGoose
 
 ----------------------------------------
 
-MINIDRAK`	*DRAGON* 	Picky
+X MINIDRAK	*DRAGON* 	Picky
 
 ----------------------------------------
 
@@ -265,15 +265,15 @@ RAYBURN		LizardMan 	WingSlime
 
 ----------------------------------------
 
-CHAMELGON	*DRAGON* 	Voodoll
+X CHAMELGON	*DRAGON* 	Voodoll
 
 ----------------------------------------
 
-LIZARDFLY	*DRAGON* 	GoHopper
+X LIZARDFLY	*DRAGON* 	GoHopper
 
 ----------------------------------------
 
-ANDREAL		Gasgon		Goategon
+X ANDREAL		Gasgon		Goategon
 		MadDragon	Trumpeter
 		BattleRex	MadCondor
 		SkyDragon 	FunkyBird
@@ -320,7 +320,7 @@ GREATDRAK	*DRAGON* 	KingSlime
 
 ----------------------------------------
 
-CRESTPENT	*DRAGON* 	BigRoost
+X CRESTPENT	*DRAGON* 	BigRoost
 
 ----------------------------------------
 
@@ -346,7 +346,7 @@ OROCHI		Andreal		MedusaEye
 
 ----------------------------------------
 
-BATTLEREX	*DRAGON* 	KingLeo
+X BATTLEREX	*DRAGON* 	KingLeo
 				Lionex
 				Ogre
 				MadKnight
@@ -354,7 +354,7 @@ BATTLEREX	*DRAGON* 	KingLeo
 
 ----------------------------------------
 
-SKYDRAGON	*DRAGON* 	Phoenix
+X SKYDRAGON	*DRAGON* 	Phoenix
 
 ----------------------------------------
 
@@ -524,7 +524,7 @@ X NOCTOKING	ArrowDog 	Dracky
 
 ----------------------------------------
 
-BEASTNITE	*BEAST* 	EvilArmor
+X BEASTNITE	*BEAST* 	EvilArmor
 
 		CatMage 	*DEVIL*
 
@@ -594,7 +594,7 @@ DARKHORN	*BEAST* 	*BOSS*
 
 ----------------------------------------
 
-MADCAT		*BEAST* 	Dragon
+X MADCAT	*BEAST* 	Dragon
 
 		CatMage		Goategon
 				Unicorn
@@ -637,7 +637,7 @@ X DUMBIRA		NoctoKing 	Gigantes
 	===BIRD FAMILY===
 
 
-PICKY		*BIRD* 		*SLIME*
+X PICKY		*BIRD* 		*SLIME*
 
 ----------------------------------------
 
@@ -645,11 +645,11 @@ WYVERN		*BIRD* 		*DRAGON*
 
 ----------------------------------------
 
-BULLBIRD	*BIRD* 		*BEAST*
+X BULLBIRD	*BIRD* 		*BEAST*
 
 ----------------------------------------
 
-FLORAJAY	*BIRD* 		*PLANT*
+X FLORAJAY	*BIRD* 		*PLANT*
 
 ----------------------------------------
 
@@ -661,7 +661,7 @@ MADPECKER	*BIRD* 		*DEVIL*
 
 ----------------------------------------
 
-MADRAVEN	*BIRD*	 	*ZOMBIE*
+X MADRAVEN	*BIRD*	 	*ZOMBIE*
 
 ----------------------------------------
 
@@ -669,7 +669,7 @@ MISTYWING	*BIRD* 		*MATERIAL*
 
 ----------------------------------------
 
-AQUAHAWK	*BIRD*	 	*WATER*
+X AQUAHAWK	*BIRD*	 	*WATER*
 
 ----------------------------------------
 
@@ -677,28 +677,28 @@ DRACKY		Picky 		*SLIME*
 
 ----------------------------------------
 
-KITEHAWK	*BIRD*	 	Facer
+X KITEHAWK	*BIRD*	 	Facer
 
 		DuckKite	*MATERIAL*
 
 ----------------------------------------
 
-BIGROOST	----- 		-----
+X BIGROOST	----- 		-----
 
 ----------------------------------------
 
-STUBBIRD	*BIRD*	 	RockSlime
+X STUBBIRD	*BIRD*	 	RockSlime
 
 ----------------------------------------
 
-LANDOWL		BullBird 	*DEVIL*
+X LANDOWL		BullBird 	*DEVIL*
 				Grizzly
 
 		Garudian	*SLIME*
 
 ----------------------------------------
 
-MADGOOSE	Wyvern		*DRAGON*
+X MADGOOSE	Wyvern		*DRAGON*
 		LandOwl		*ZOMBIE*
 		MadCondor
 		Phoenix 	
@@ -710,7 +710,7 @@ MADGOOSE	Wyvern		*DRAGON*
 
 ----------------------------------------	
 
-MADCONDOR	LandOwl 	*DEVIL*
+X MADCONDOR	LandOwl 	*DEVIL*
 
 		*BIRD* 		CoilBird
 
@@ -718,7 +718,7 @@ MADCONDOR	LandOwl 	*DEVIL*
 
 ----------------------------------------
 
-EMYU		KiteHawk 	*BEAST*
+X EMYU		KiteHawk 	*BEAST*
 
 		MadCondor 	MadPecker
 
@@ -727,7 +727,7 @@ EMYU		KiteHawk 	*BEAST*
 
 ----------------------------------------
 
-BLIZZARDY	*BIRD* 		Metaly
+X BLIZZARDY	*BIRD* 		Metaly
 				Metabble
 				SuperTen
 				Yeti
@@ -742,7 +742,7 @@ BLIZZARDY	*BIRD* 		Metaly
 
 ----------------------------------------
 
-PHOENIX		*BIRD* 		DrakSlime
+X PHOENIX		*BIRD* 		DrakSlime
 				GulpBeast
 				IronTurt
 				Grizzly
@@ -761,7 +761,7 @@ ZAPBIRD		MadCondor	Gismo
 
 ----------------------------------------
 
-GARUDIAN	Blizzardy	Lionex
+X GARUDIAN	Blizzardy	Lionex
 		Phoenix
 		ZapBird
 
@@ -782,14 +782,14 @@ WHIPBIRD	LandOwl		RockSlime
 
 ----------------------------------------
 
-FUNKYBIRD	*BIRD* 		DanceVegi
+X FUNKYBIRD	*BIRD* 		DanceVegi
 				TropicGel
 				Brushead
 				Pyuro
 
 ----------------------------------------
 
-RAINHAWK	Blizzardy 	Phoenix
+X RAINHAWK	Blizzardy 	Phoenix
 				Vampirus
 
 ----------------------------------------
@@ -804,7 +804,7 @@ SHANTAK		WhipBird 	GreatDrak
 
 ----------------------------------------
 
-CRAGDEVIL	BigRoost	*BEAST*
+X CRAGDEVIL	BigRoost	*BEAST*
 		MadGoose
 		Emyu
 
