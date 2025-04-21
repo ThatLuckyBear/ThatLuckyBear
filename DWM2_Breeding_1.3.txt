@@ -673,7 +673,7 @@ X AQUAHAWK	*BIRD*	 	*WATER*
 
 ----------------------------------------
 
-DRACKY		Picky 		*SLIME*
+X DRACKY	Picky 		*SLIME*
 
 ----------------------------------------
 
