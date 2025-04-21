@@ -289,11 +289,11 @@ X ANDREAL	Gasgon		Goategon
 
 ----------------------------------------
 
-KINGCOBRA	*DRAGON* 	Babble
+X KINGCOBRA	*DRAGON* 	Babble
 
 ----------------------------------------
 
-SNAKEBAT	*DRAGON* 	CatFly
+X SNAKEBAT	*DRAGON* 	CatFly
 
 		KingCobra 	Dracky
 
