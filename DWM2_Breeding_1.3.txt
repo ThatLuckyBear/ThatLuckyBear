@@ -358,23 +358,23 @@ X SKYDRAGON	*DRAGON* 	Phoenix
 
 ----------------------------------------
 
-SERPENTIA	GreatDrak 	Lionex
+X SERPENTIA	GreatDrak 	Lionex
 				Skeletor
 				Octoraid
 
 ----------------------------------------
 
-DIVINEGON	SkyDragon 	Orochi
+X DIVINEGON	SkyDragon 	Orochi
 				Serpentia
 
 ----------------------------------------
 
-ORLIGON		Divinegon 	GigaDraco
+X ORLIGON	Divinegon 	GigaDraco
 				GoldGolem
 
 ----------------------------------------
 
-GIGADRACO	Andreal		BossTroll
+X GIGADRACO	Andreal		BossTroll
 		BattleRex	Gigantes
 		GreatDrak
 		SkyDragon
