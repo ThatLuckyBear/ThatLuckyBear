@@ -197,7 +197,7 @@ WONDEREGG	*SLIME* 	BigRoost (DWM1)	(WonderEgg can only be obtained by using a Li
 	===DRAGON FAMILY===
 
 
-DRAGONKID	*DRAGON* 	*SLIME*
+X DRAGONKID	*DRAGON* 	*SLIME*
 
 ----------------------------------------
 
@@ -217,7 +217,7 @@ X FAIRYDRAK	*DRAGON* 	*BUG*
 
 ----------------------------------------
 
-LIZARDMAN	*DRAGON* 	*DEVIL*
+X LIZARDMAN	*DRAGON* 	*DEVIL*
 
 ----------------------------------------
 
@@ -225,7 +225,7 @@ X POISONGON	*DRAGON* 	*ZOMBIE*
 
 ----------------------------------------
 
-SWORDGON	*DRAGON* 	*MATERIAL*
+X SWORDGON	*DRAGON* 	*MATERIAL*
 
 ----------------------------------------
 
@@ -246,13 +246,13 @@ X MINIDRAK	*DRAGON* 	Picky
 
 ----------------------------------------
 
-MADDRAGON	Gasgon	 	*BEAST*
+X MADDRAGON	Gasgon	 	*BEAST*
 
 		*DRAGON* 	GulpBeast
 
 ----------------------------------------
 
-RAYBURN		LizardMan 	WingSlime
+X RAYBURN	LizardMan 	WingSlime
 				Trumpeter
 				MadCat
 				FaceTree
@@ -273,7 +273,7 @@ X LIZARDFLY	*DRAGON* 	GoHopper
 
 ----------------------------------------
 
-X ANDREAL		Gasgon		Goategon
+X ANDREAL	Gasgon		Goategon
 		MadDragon	Trumpeter
 		BattleRex	MadCondor
 		SkyDragon 	FunkyBird
