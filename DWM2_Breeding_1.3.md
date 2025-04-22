@@ -656,7 +656,7 @@ X DUMBIRA		NoctoKing 	Gigantes
 	
 #### ===BIRD FAMILY===
 
- </summary>
+</summary>
 
 ```
 X PICKY		*BIRD* 		*SLIME*
@@ -1374,6 +1374,8 @@ LAMPGENIE	Centasaur 	*BOSS*
 ----------------------------------------
 ```
 
+</details>
+
 <details>
 <summary>
 		
@@ -1818,6 +1820,7 @@ CLOUDKING	Gismo 		KingSlime
 
 ----------------------------------------
 ```
+</details>
 
 <details>
 <summary>
@@ -1991,6 +1994,8 @@ STARFISH	HoodSquid	*SLIME*
 
 ----------------------------------------
 ```
+
+</details>
 
 <details><summary>
 	
