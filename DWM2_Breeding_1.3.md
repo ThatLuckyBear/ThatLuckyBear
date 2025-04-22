@@ -13,8 +13,6 @@ http://www.woodus.com/forums/index.php?showtopic=32810
 </summary>
 
 ```
-----------------------------------------
-
 X DRAKSLIME	*SLIME* 	*DRAGON*
 
 ----------------------------------------
@@ -202,9 +200,13 @@ WONDEREGG	*SLIME* 	BigRoost (DWM1)	(WonderEgg can only be obtained by using a Li
 ```
 </details>
 
-	===DRAGON FAMILY===
+<details>
+<summary>
+	
+#### ===DRAGON FAMILY===
+</summary>
 
-
+```
 X DRAGONKID	*DRAGON* 	*SLIME*
 
 ----------------------------------------
@@ -388,11 +390,17 @@ X GIGADRACO	Andreal		BossTroll
 		SkyDragon
 
 ----------------------------------------
+```
 
+</details>
 
-	===BEAST FAMILY===
+<details>
+<summary>
+	
+#### ===BEAST FAMILY===
+</summary>
 
-
+```
 X TONGUELLA	*BEAST* 	*SLIME*
 
 ----------------------------------------
@@ -640,11 +648,17 @@ X DUMBIRA		NoctoKing 	Gigantes
 				MerTiger
 
 ----------------------------------------
+```
+</details>
 
+<details>
+<summary>
+	
+#### ===BIRD FAMILY===
 
-	===BIRD FAMILY===
+ </summary>
 
-
+```
 X PICKY		*BIRD* 		*SLIME*
 
 ----------------------------------------
@@ -818,10 +832,16 @@ X CRAGDEVIL	BigRoost	*BEAST*
 
 ----------------------------------------
 
+```
+</details>
 
-	===PLANT FAMILY===
+<details>
+<summary>
 
+#### ===PLANT FAMILY===
+</summary>
 
+```
 MADPLANT	*PLANT* 	*SLIME*
 
 ----------------------------------------
@@ -963,9 +983,16 @@ FOOHERO		TreeBoy 	SlimeNite
 
 ----------------------------------------
 
+```
+</details>
 
-	===BUG FAMILY===
+<details>
+	<summary>
+		
+#### ==BUG FAMILY===
+</summary>
 
+```
 
 GIANTSLUG	*BUG*	 	*SLIME*
 
@@ -1125,9 +1152,16 @@ MULTIEYES	TailEater 	*DEVIL*
 
 ----------------------------------------
 
+```
+</details>
 
-	===DEVIL FAMILY===
+<details>
+<summary>
 
+#### ===DEVIL FAMILY===
+</summary>
+
+```
 
 PIXY		*DEVIL* 	*SLIME*
 
@@ -1333,10 +1367,15 @@ TITANIS		Durran 		DarkHorn
 LAMPGENIE	Centasaur 	*BOSS*
 
 ----------------------------------------
+```
 
+<details>
+	<summary>
+		
+#### ===ZOMBIE FAMILY===
+</summary>
 
-	===ZOMBIE FAMILY===
-
+```
 
 SPOOKY		*ZOMBIE* 	*SLIME*
 
@@ -1548,10 +1587,16 @@ NITERICH	DeadNoble	Octoraid
 				Serpentia
 
 ----------------------------------------
+```
+</details>
 
+<details>
+<summary>	
 
-	===MATERIAL FAMILY===
+#### ===MATERIAL FAMILY===
+</summary>
 
+```
 
 X JEWELBAG	*MATERIAL* 	*SLIME*
 
@@ -1764,10 +1809,14 @@ CLOUDKING	Gismo 		KingSlime
 				WhiteKing
 
 ----------------------------------------
+```
 
+<details><summary>
 
-	===WATER FAMILY===
+#### ===WATER FAMILY===
+</summary>
 
+```
 
 PETITEEL	*WATER* 	*SLIME*
 
@@ -1931,10 +1980,14 @@ STARFISH	HoodSquid	*SLIME*
 		KingSquid
 
 ----------------------------------------
+```
 
+<details><summary>
+	
+#### ===BOSS FAMILY===
+</summary>
 
-	===BOSS FAMILY===
-
+```
 
 DRACOLORD1	Servant 	Andreal
 				GreatDrak
@@ -2038,3 +2091,5 @@ ORGODEMIR2	Orgodemir 	LordDraco
 ----------------------------------------
 
 DARCK		-----		-----
+```
+</details>
