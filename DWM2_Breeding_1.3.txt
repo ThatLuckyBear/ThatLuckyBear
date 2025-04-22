@@ -1545,35 +1545,35 @@ NITERICH	DeadNoble	Octoraid
 	===MATERIAL FAMILY===
 
 
-JEWELBAG	*MATERIAL* 	*SLIME*
+X JEWELBAG	*MATERIAL* 	*SLIME*
 
 ----------------------------------------
 
-EVILWAND	*MATERIAL* 	*DRAGON*
+X EVILWAND	*MATERIAL* 	*DRAGON*
 
 ----------------------------------------
 
-MADCANDLE	*MATERIAL* 	*BEAST*
+X MADCANDLE	*MATERIAL* 	*BEAST*
 
 ----------------------------------------
 
-COILBIRD	*MATERIAL* 	*BIRD*
+X COILBIRD	*MATERIAL* 	*BIRD*
 
 ----------------------------------------
 
-FACER		*MATERIAL* 	*PLANT*
+X FACER		*MATERIAL* 	*PLANT*
 
 ----------------------------------------
 
-SPIKYBOY	*MATERIAL* 	*BUG*
+X SPIKYBOY	*MATERIAL* 	*BUG*
 
 ----------------------------------------
 
-MADMIRROR	*MATERIAL* 	*DEVIL*
+X MADMIRROR	*MATERIAL* 	*DEVIL*
 
 ----------------------------------------
 
-ROGUENITE	*MATERIAL* 	*ZOMBIE*
+X ROGUENITE	*MATERIAL* 	*ZOMBIE*
 
 ----------------------------------------
 
@@ -1581,11 +1581,11 @@ PUPPETOR	*MATERIAL* 	Gremlin
 
 ----------------------------------------
 
-GOOPI		JewelBag 	*MATERIAL*
+X GOOPI		JewelBag 	*MATERIAL*
 
 ----------------------------------------
 
-VOODOLL		Golem		DrakSlime
+X VOODOLL	Golem		DrakSlime
 		StoneMan 	Snaily
 				SlimeNite
 				RockSlime
@@ -1596,7 +1596,7 @@ VOODOLL		Golem		DrakSlime
 
 ----------------------------------------
 
-METALDRAK	Roboster 	*DRAGON*
+X METALDRAK	Roboster 	*DRAGON*
 		Roboster2	MetalDrak
 
 		*MATERIAL* 	Andreal
@@ -1613,7 +1613,7 @@ BALZAK		LavaMan		*DEVIL*
 
 ----------------------------------------
 
-SABREMAN	EvilWand	LandOwl
+X SABREMAN	EvilWand	LandOwl
 		Voodoll		MadGoose
 		Golem		Phoenix
 		StoneMan	FunkyBird
@@ -1623,14 +1623,14 @@ SABREMAN	EvilWand	LandOwl
 ----------------------------------------
 
 
-CURSELAMP	Roboster 	*BIRD*
+X CURSELAMP	Roboster 	*BIRD*
 		Roboster2
 
 		*MATERIAL* 	WingTree
 
 ----------------------------------------
 
-BRUSHEAD	*MATERIAL* 	*WATER*
+X BRUSHEAD	*MATERIAL* 	*WATER*
 
 		Puppetor	Demonite
 				Pixy
@@ -1658,7 +1658,7 @@ ROBOSTER2	Roboster 	Roboster (offspring must be at least +10)
 
 ----------------------------------------
 	
-EVILPOT		Gismo 		*DEVIL*
+X EVILPOT	Gismo 		*DEVIL*
 
 		*MATERIAL* 	Snaily
 
@@ -1666,7 +1666,7 @@ EVILPOT		Gismo 		*DEVIL*
 
 ----------------------------------------
 
-GISMO		MadCandle	DrakSlime
+X GISMO		MadCandle	DrakSlime
 		MadMirror	Wyvern
 		Goopi 		MistyWing
 				Phoenix
@@ -1676,7 +1676,7 @@ GISMO		MadCandle	DrakSlime
 
 ----------------------------------------
 
-LAVAMAN		MetalDrak 	Orochi
+X LAVAMAN	MetalDrak 	Orochi
 				KingLeo
 				ZapBird
 				ArcDemon
@@ -1693,41 +1693,41 @@ ICEMAN		MetalDrak 	Skullgon
 
 ----------------------------------------
 
-MIMIC		Roboster 	*ZOMBIE*
+X MIMIC		Roboster 	*ZOMBIE*
 				RushFish
 
 		*MATERIAL* 	BoxSlime
 
 ----------------------------------------
 
-EXAUCERS	*MATERIAL* 	Dracky
+X EXAUCERS	*MATERIAL* 	Dracky
 
 ----------------------------------------
 
-MUDDOLL		Goopi 		Goopi
+X MUDDOLL		Goopi 		Goopi
 				Cancerman
 
 ----------------------------------------
 
-GOLEM		MudDoll 	MudDoll
+X GOLEM		MudDoll 	MudDoll
 
 ----------------------------------------
 
-STONEMAN	Golem	 	Golem
+X STONEMAN	Golem	 	Golem
 
 		*MATERIAL* 	HornBeet
 				Digster
 
 ----------------------------------------
 
-BOMBCRAG	SpikyBoy 	SpikyBoy
+X BOMBCRAG	SpikyBoy 	SpikyBoy
 
 		Roboster 	*BUG*
 		DarkMate
 
 ----------------------------------------
 
-GOLDGOLEM	IceMan 		LavaMan
+X GOLDGOLEM	IceMan 		LavaMan
 
 		LavaMan		BossTroll
 
@@ -1737,7 +1737,7 @@ DARKMATE	GoldGolem 	MetalKing
 
 ----------------------------------------
 
-PROTOMECH	*MATERIAL* 	EvilArmor
+X PROTOMECH	*MATERIAL* 	EvilArmor
 
 		Roboster 	*SLIME*
 		Roboster2
