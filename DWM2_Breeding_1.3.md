@@ -8,7 +8,7 @@ http://www.woodus.com/forums/index.php?showtopic=32810
 <details>
 <summary>
 	
-#### SLIME FAMILY
+#### ===SLIME FAMILY===
 
 </summary>
 
@@ -839,6 +839,7 @@ X CRAGDEVIL	BigRoost	*BEAST*
 <summary>
 
 #### ===PLANT FAMILY===
+
 </summary>
 
 ```
@@ -984,12 +985,14 @@ FOOHERO		TreeBoy 	SlimeNite
 ----------------------------------------
 
 ```
+
 </details>
 
 <details>
-	<summary>
+<summary>
 		
-#### ==BUG FAMILY===
+#### ===BUG FAMILY===
+
 </summary>
 
 ```
@@ -1153,12 +1156,14 @@ MULTIEYES	TailEater 	*DEVIL*
 ----------------------------------------
 
 ```
+
 </details>
 
 <details>
 <summary>
 
 #### ===DEVIL FAMILY===
+
 </summary>
 
 ```
@@ -1370,9 +1375,10 @@ LAMPGENIE	Centasaur 	*BOSS*
 ```
 
 <details>
-	<summary>
+<summary>
 		
 #### ===ZOMBIE FAMILY===
+
 </summary>
 
 ```
@@ -1591,9 +1597,11 @@ NITERICH	DeadNoble	Octoraid
 </details>
 
 <details>
+	
 <summary>	
 
 #### ===MATERIAL FAMILY===
+
 </summary>
 
 ```
@@ -1811,9 +1819,11 @@ CLOUDKING	Gismo 		KingSlime
 ----------------------------------------
 ```
 
-<details><summary>
+<details>
+<summary>
 
 #### ===WATER FAMILY===
+
 </summary>
 
 ```
