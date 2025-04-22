@@ -753,7 +753,7 @@ X PHOENIX	*BIRD* 		DrakSlime
 
 ----------------------------------------
 
-ZAPBIRD		MadCondor	Gismo
+X ZAPBIRD	MadCondor	Gismo
 		Phoenix
 		WhipBird
 
@@ -799,7 +799,7 @@ AZURILE		RainHawk 	*BOSS*
 
 ----------------------------------------
 
-SHANTAK		WhipBird 	GreatDrak
+X SHANTAK	WhipBird 	GreatDrak
 				Jamirus
 
 ----------------------------------------
