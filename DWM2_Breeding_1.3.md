@@ -5,8 +5,15 @@ If you have any suggested corrections, post in this thread:
 http://www.woodus.com/forums/index.php?showtopic=32810
 
 
-	===SLIME FAMILY===
+<details>
+<summary>
+	
+#### SLIME FAMILY
 
+</summary>
+
+```
+----------------------------------------
 
 X DRAKSLIME	*SLIME* 	*DRAGON*
 
@@ -24,7 +31,7 @@ X TREESLIME	*SLIME* 	*PLANT*
 
 ----------------------------------------
 
-X SNAILY		*SLIME* 	*BUG*
+X SNAILY	*SLIME* 	*BUG*
 
 ----------------------------------------
 
@@ -32,7 +39,7 @@ X SLIMENITE	*SLIME* 	*DEVIL*
 
 ----------------------------------------
 
-X BABBLE		*SLIME*		Poisongon
+X BABBLE	*SLIME*		Poisongon
 				GiantMoth	
 				*ZOMBIE*
 
@@ -192,7 +199,8 @@ X GRANSLIME	GoldSlime 	DarkMate
 WONDEREGG	*SLIME* 	BigRoost (DWM1)	(WonderEgg can only be obtained by using a Link Cable)
 
 ----------------------------------------
-
+```
+</details>
 
 	===DRAGON FAMILY===
 
