@@ -641,7 +641,7 @@ X PICKY		*BIRD* 		*SLIME*
 
 ----------------------------------------
 
-WYVERN		*BIRD* 		*DRAGON*
+X WYVERN	*BIRD* 		*DRAGON*
 
 ----------------------------------------
 
@@ -653,11 +653,11 @@ X FLORAJAY	*BIRD* 		*PLANT*
 
 ----------------------------------------
 
-DUCKKITE	*BIRD*	 	*BUG*
+x DUCKKITE	*BIRD*	 	*BUG*
 
 ----------------------------------------
 
-MADPECKER	*BIRD* 		*DEVIL*
+X MADPECKER	*BIRD* 		*DEVIL*
 
 ----------------------------------------
 
@@ -665,7 +665,7 @@ X MADRAVEN	*BIRD*	 	*ZOMBIE*
 
 ----------------------------------------
 
-MISTYWING	*BIRD* 		*MATERIAL*
+X MISTYWING	*BIRD* 		*MATERIAL*
 
 ----------------------------------------
 
@@ -742,7 +742,7 @@ X BLIZZARDY	*BIRD* 		Metaly
 
 ----------------------------------------
 
-X PHOENIX		*BIRD* 		DrakSlime
+X PHOENIX	*BIRD* 		DrakSlime
 				GulpBeast
 				IronTurt
 				Grizzly
@@ -769,7 +769,7 @@ X GARUDIAN	Blizzardy	Lionex
 
 ----------------------------------------
 
-WHIPBIRD	LandOwl		RockSlime
+X WHIPBIRD	LandOwl		RockSlime
 		MadGoose	SlimeBorg
 		MadCondor	Digster
 		Blizzardy	MetalDrak
