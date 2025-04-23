@@ -1640,7 +1640,7 @@ X ROGUENITE	*MATERIAL* 	*ZOMBIE*
 
 ----------------------------------------
 
-PUPPETOR	*MATERIAL* 	Gremlin
+X PUPPETOR	*MATERIAL* 	Gremlin
 
 ----------------------------------------
 
@@ -1700,7 +1700,7 @@ X BRUSHEAD	*MATERIAL* 	*WATER*
 
 ----------------------------------------
 
-ROBOSTER	SabreMan 	SlimeBorg
+X ROBOSTER	SabreMan 	SlimeBorg
 				GreatDrak
 				Unicorn
 				Ogre
@@ -1809,7 +1809,7 @@ X PROTOMECH	*MATERIAL* 	EvilArmor
 
 ----------------------------------------
 
-CLOUDKING	Gismo 		KingSlime
+X CLOUDKING	Gismo 		KingSlime
 				SpotKing
 				SkyDragon
 				DracoLord1
