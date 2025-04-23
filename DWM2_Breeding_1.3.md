@@ -816,7 +816,7 @@ X RAINHAWK	Blizzardy 	Phoenix
 
 ----------------------------------------
 
-AZURILE		RainHawk 	*BOSS*
+X AZURILE	RainHawk 	*BOSS*
 		Shantak		GoldGolem
 
 ----------------------------------------
@@ -1669,7 +1669,7 @@ X METALDRAK	Roboster 	*DRAGON*
 
 ----------------------------------------
 
-BALZAK		LavaMan		*DEVIL*
+X BALZAK	LavaMan		*DEVIL*
 		IceMan
 
 		*MATERIAL* 	*BOSS*
@@ -1717,7 +1717,7 @@ X ROBOSTER	SabreMan 	SlimeBorg
 
 ----------------------------------------
 
-ROBOSTER2	Roboster 	Roboster (offspring must be at least +10)
+X ROBOSTER2	Roboster 	Roboster (offspring must be at least +10)
 
 ----------------------------------------
 	
@@ -1748,7 +1748,7 @@ X LAVAMAN	MetalDrak 	Orochi
 
 ----------------------------------------
 
-ICEMAN		MetalDrak 	Skullgon
+X ICEMAN	MetalDrak 	Skullgon
 				WhiteKing
 
 		Roboster 	KingLeo
