@@ -8,7 +8,7 @@ http://www.woodus.com/forums/index.php?showtopic=32810
 <details>
 <summary>
 	
-#### ===SLIME FAMILY===
+#### ===SLIME FAMILY=== 25/26
 
 </summary>
 
@@ -203,7 +203,7 @@ WONDEREGG	*SLIME* 	BigRoost (DWM1)	(WonderEgg can only be obtained by using a Li
 <details>
 <summary>
 	
-#### ===DRAGON FAMILY===
+#### ===DRAGON FAMILY=== 31/31
 </summary>
 
 ```
@@ -397,7 +397,7 @@ X GIGADRACO	Andreal		BossTroll
 <details>
 <summary>
 	
-#### ===BEAST FAMILY===
+#### ===BEAST FAMILY=== 30/32
 </summary>
 
 ```
@@ -654,7 +654,7 @@ X DUMBIRA		NoctoKing 	Gigantes
 <details>
 <summary>
 	
-#### ===BIRD FAMILY===
+#### ===BIRD FAMILY=== 27/27
 
 </summary>
 
@@ -838,7 +838,7 @@ X CRAGDEVIL	BigRoost	*BEAST*
 <details>
 <summary>
 
-#### ===PLANT FAMILY===
+#### ===PLANT FAMILY=== 
 
 </summary>
 
@@ -1602,7 +1602,7 @@ NITERICH	DeadNoble	Octoraid
 	
 <summary>	
 
-#### ===MATERIAL FAMILY===
+#### ===MATERIAL FAMILY=== 32/32
 
 </summary>
 
@@ -1831,19 +1831,19 @@ X CLOUDKING	Gismo 		KingSlime
 
 ```
 
-PETITEEL	*WATER* 	*SLIME*
+X PETITEEL	*WATER* 	*SLIME*
 
 ----------------------------------------
 
-MORAY		*WATER* 	*DRAGON*
+X MORAY		*WATER* 	*DRAGON*
 
 ----------------------------------------
 
-WALRUSMAN	*WATER* 	*BEAST*
+X WALRUSMAN	*WATER* 	*BEAST*
 
 ----------------------------------------
 
-RAYGIGAS	*WATER* 	*BIRD*
+X RAYGIGAS	*WATER* 	*BIRD*
 
 ----------------------------------------
 
@@ -1851,7 +1851,7 @@ ANEMON		*WATER* 	*PLANT*
 
 ----------------------------------------
 
-AQUARELLA	*WATER* 	*BUG*
+X AQUARELLA	*WATER* 	*BUG*
 
 ----------------------------------------
 
@@ -1859,19 +1859,19 @@ MERMAN		*WATER* 	*DEVIL*
 
 ----------------------------------------
 
-OCTOKID		*WATER* 	*MATERIAL*
+X OCTOKID		*WATER* 	*MATERIAL*
 
 ----------------------------------------
 
-PUTREFISH	*WATER* 	*ZOMBIE*
+X PUTREFISH	*WATER* 	*ZOMBIE*
 
 ----------------------------------------
 
-OCTOREACH	Petiteel 	*BEAST*
+X OCTOREACH	Petiteel 	*BEAST*
 
 ----------------------------------------
 
-ANGLERON	Petiteel 	*MATERIAL*
+X ANGLERON	Petiteel 	*MATERIAL*
 
 ----------------------------------------
 
@@ -1888,37 +1888,37 @@ RUSHFISH	Angleron	*DRAGON*
 
 ----------------------------------------
 
-GAMANIAN	Aquarella 	*BUG*
+X GAMANIAN	Aquarella 	*BUG*
 				DarkEye
 				MedusaEye
 
 ----------------------------------------
 
-CLAWSTER	Gamanian 	ArmyCrab
+X CLAWSTER	Gamanian 	ArmyCrab
 				*DEVIL*
 
 ----------------------------------------
 
-CANCERMAN	Clawster 	Clawster
+X CANCERMAN	Clawster 	Clawster
 				*DEVIL*
 
 ----------------------------------------
 
-ROGUEWAVE	*WATER* 	JewelBag
+X ROGUEWAVE	*WATER* 	JewelBag
 
 ----------------------------------------
 
-SCALLOPA	RogueWave 	*DEVIL*
+X SCALLOPA	RogueWave 	*DEVIL*
 				Mimic
 
 ----------------------------------------
 
-SEAHORSE	Petiteel 	*DRAGON*
+X SEAHORSE	Petiteel 	*DRAGON*
 				*DEVIL*
 
 ----------------------------------------
 
-HOODSQUID	CancerMan 	WhaleMage
+X HOODSQUID	CancerMan 	WhaleMage
 				EvilWand
 
 ----------------------------------------
@@ -1928,7 +1928,7 @@ MERTIGER	Merman 		GulpBeast
 
 ----------------------------------------
 
-AXESHARK	CancerMan 	BattleRex
+X AXESHARK	CancerMan 	BattleRex
 				ArcDemon
 
 ----------------------------------------
@@ -1937,7 +1937,7 @@ OCTOGON		Octoreach 	Octoreach  (offspring must be at least +5)
 
 ----------------------------------------
 
-KINGSQUID	Octogon 	Octogon (offspring must be at least +5)
+X KINGSQUID	Octogon 	Octogon (offspring must be at least +5)
 				*BOSS*
 
 ----------------------------------------
@@ -1950,7 +1950,7 @@ DIGONG		RushFish 	Spikerous
 
 ----------------------------------------
 
-WHALEMAGE	HoodSquid 	1EyeClown
+X WHALEMAGE	HoodSquid 	1EyeClown
 				Reaper
 				RushFish
 
@@ -1977,7 +1977,7 @@ POSEIDON	Grakos 		Mudou
 
 ----------------------------------------
 
-PUMPOISE	*WATER* 	Mommonja
+X PUMPOISE	*WATER* 	Mommonja
 				DuckKite
 				MadPecker
 				MadGoose
@@ -1987,7 +1987,7 @@ PUMPOISE	*WATER* 	Mommonja
 
 ----------------------------------------
 
-STARFISH	HoodSquid	*SLIME*
+X STARFISH	HoodSquid	*SLIME*
 		OctoReach
 		Octogon
 		KingSquid
