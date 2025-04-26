@@ -1855,7 +1855,7 @@ X AQUARELLA	*WATER* 	*BUG*
 
 ----------------------------------------
 
-MERMAN		*WATER* 	*DEVIL*
+X MERMAN	*WATER* 	*DEVIL*
 
 ----------------------------------------
 
@@ -1933,7 +1933,7 @@ X AXESHARK	CancerMan 	BattleRex
 
 ----------------------------------------
 
-OCTOGON		Octoreach 	Octoreach  (offspring must be at least +5)
+X OCTOGON	Octoreach 	Octoreach  (offspring must be at least +5)
 
 ----------------------------------------
 
@@ -1942,7 +1942,7 @@ X KINGSQUID	Octogon 	Octogon (offspring must be at least +5)
 
 ----------------------------------------
 
-DIGONG		RushFish 	Spikerous
+X DIGONG	RushFish 	Spikerous
 				RogueWave
 				MadGoose
 				Gigantes
@@ -1956,13 +1956,13 @@ X WHALEMAGE	HoodSquid 	1EyeClown
 
 ----------------------------------------
 
-AQUADON		Digong 		GreatDrak
+X AQUADON	Digong 		GreatDrak
 				Coatol
 				Orligon
 
 ----------------------------------------
 
-OCTORAID	Octogon 	ChopClown
+X OCTORAID	Octogon 	ChopClown
 				EvilArmor
 				GateGuard
 				Lionex
