@@ -1847,7 +1847,7 @@ X RAYGIGAS	*WATER* 	*BIRD*
 
 ----------------------------------------
 
-ANEMON		*WATER* 	*PLANT*
+X ANEMON	*WATER* 	*PLANT*
 
 ----------------------------------------
 
@@ -1859,7 +1859,7 @@ MERMAN		*WATER* 	*DEVIL*
 
 ----------------------------------------
 
-X OCTOKID		*WATER* 	*MATERIAL*
+X OCTOKID	*WATER* 	*MATERIAL*
 
 ----------------------------------------
 
@@ -1882,7 +1882,7 @@ FISHRIDER	Angleron 	Pixy
 
 ----------------------------------------
 
-RUSHFISH	Angleron	*DRAGON* 	
+X RUSHFISH	Angleron	*DRAGON* 	
 				GulpBeast
 				Droll
 
@@ -1923,7 +1923,7 @@ X HOODSQUID	CancerMan 	WhaleMage
 
 ----------------------------------------
 
-MERTIGER	Merman 		GulpBeast
+X MERTIGER	Merman 		GulpBeast
 				MadCat
 
 ----------------------------------------
