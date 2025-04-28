@@ -1825,7 +1825,7 @@ X CLOUDKING	Gismo 		KingSlime
 <details>
 <summary>
 
-#### ===WATER FAMILY===
+#### ===WATER FAMILY=== 30/32
 
 </summary>
 
