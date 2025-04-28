@@ -1,7 +1,18 @@
 ## Scripts
 
-### Dragon Quest Monsters7
+### Dragon Quest Monsters
+- oldschool gameboy creature capturing RPG
+- based on dragon quest with designs by akira toriyama
+- capitalizing off pokemon's popularity but very unique
+- great monsters fun breeding system decent story with good payoff trade to complete monster library
+- procedurally generated dungeons bit bland, limits on items and monsters
+- fun but repetetitve music
+- remade for DS but I haven't tried it
+  
 ### Ikenfell
+- unique magic adventure RPG
+- 
+
 ### Terraria
 ### Super Mario RPG
 ### Super Metroid
