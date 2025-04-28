@@ -397,7 +397,7 @@ X GIGADRACO	Andreal		BossTroll
 <details>
 <summary>
 	
-#### ===BEAST FAMILY=== 30/32
+#### ===BEAST FAMILY=== 32/32
 </summary>
 
 ```
@@ -606,7 +606,7 @@ X KINGLEO		Trumpeter 	Trumpeter
 
 ----------------------------------------
 
-DARKHORN	*BEAST* 	*BOSS*
+X DARKHORN	*BEAST* 	*BOSS*
 
 ----------------------------------------
 
@@ -622,7 +622,7 @@ X BIGEYE		*BEAST* 	EyeBall
 
 ----------------------------------------
 
-GORAGO		DarkHorn 	*BOSS*
+X GORAGO	DarkHorn 	*BOSS*
 				Orochi
 
 ----------------------------------------
@@ -843,39 +843,39 @@ X CRAGDEVIL	BigRoost	*BEAST*
 </summary>
 
 ```
-MADPLANT	*PLANT* 	*SLIME*
+X MADPLANT	*PLANT* 	*SLIME*
 
 ----------------------------------------
 
-FIREWEED	*PLANT* 	*DRAGON*
+X FIREWEED	*PLANT* 	*DRAGON*
 
 ----------------------------------------
 
-FLORAMAN	*PLANT* 	*BEAST*
+X FLORAMAN	*PLANT* 	*BEAST*
 
 ----------------------------------------
 
-WINGTREE	*PLANT* 	*BIRD*
+X WINGTREE	*PLANT* 	*BIRD*
 
 ----------------------------------------
 
-CACTIBALL	*PLANT* 	*BUG*
+X CACTIBALL	*PLANT* 	*BUG*
 
 ----------------------------------------
 
-GULPPLE		*PLANT* 	*DEVIL*
+X GULPPLE	*PLANT* 	*DEVIL*
 
 ----------------------------------------
 
-TOADSTOOL	*PLANT* 	*ZOMBIE*
+X TOADSTOOL	*PLANT* 	*ZOMBIE*
 
 ----------------------------------------
 
-AMBERWEED	*PLANT* 	*MATERIAL*
+X AMBERWEED	*PLANT* 	*MATERIAL*
 
 ----------------------------------------
 
-SLURPERON	*PLANT* 	*WATER*
+X SLURPERON	*PLANT* 	*WATER*
 
 ----------------------------------------
 
@@ -885,18 +885,18 @@ STUBSUCK	AmberWeed 	*BEAST*
 
 ----------------------------------------
 
-ONIONO		*PLANT* 	Anemon
+X ONIONO	*PLANT* 	Anemon
 				Gophecada
 
 ----------------------------------------
 
-DANCEVEGI	MadPlant 	*BEAST*
+X DANCEVEGI	MadPlant 	*BEAST*
 
 		*PLANT* 	Facer
 
 ----------------------------------------
 
-TREEBOY		*PLANT* 	Pixy
+X TREEBOY		*PLANT* 	Pixy
 
 		FooHero		EvilWand
 
@@ -920,14 +920,14 @@ HERBMAN		DanceVegi 	*DEVIL*
 
 ----------------------------------------
 
-BEANMAN		*PLANT* 	PillowRat
+X BEANMAN	*PLANT* 	PillowRat
 				FishRider
 
 		Eggplaton	*DEVIL*
 
 ----------------------------------------
 
-EVILSEED	*PLANT* 	RockSlime
+X EVILSEED	*PLANT* 	RockSlime
 				BigEye
 				DuckKite
 				ButterFly
@@ -942,7 +942,7 @@ EVILSEED	*PLANT* 	RockSlime
 
 ----------------------------------------
 
-MANEATER	EvilSeed 	EvilSeed
+X MANEATER	EvilSeed 	EvilSeed
 				Slurperon
 
 ----------------------------------------
@@ -951,16 +951,16 @@ SNAPPER		ManEater 	ManEater
 
 ----------------------------------------
 
-GHOSTREE	Stubsuck 	Puppetor
+X GHOSTREE	Stubsuck 	Puppetor
 				*ZOMBIE*
 
 ----------------------------------------
 
-ROSEVINE	*PLANT* 	*BOSS*
+X ROSEVINE	*PLANT* 	*BOSS*
 
 ----------------------------------------
 
-EGDRACIL	RoseVine 	Gigantes
+X EGDRACIL	RoseVine 	Gigantes
 
 ----------------------------------------
 
@@ -972,13 +972,13 @@ WARUBOU		----- 		-----
 
 ----------------------------------------
 
-EGGPLATON	*PLANT* 	Aquarella
+X EGGPLATON	*PLANT* 	Aquarella
 				Lipsy
 				Droll
 
 ----------------------------------------
 
-FOOHERO		TreeBoy 	SlimeNite
+X FOOHERO		TreeBoy 	SlimeNite
 				BeastNite
 				HammerMan
 
@@ -1875,7 +1875,7 @@ X ANGLERON	Petiteel 	*MATERIAL*
 
 ----------------------------------------
 
-FISHRIDER	Angleron 	Pixy
+X FISHRIDER	Angleron 	Pixy
 				Demonite
 				SkulRider
 				Gremlin
@@ -2017,7 +2017,7 @@ LORDDRACO	DracoLord2	Orligon
 
 ----------------------------------------
 
-HARGON		WhiteKing 	MetalKing
+X HARGON	WhiteKing 	MetalKing
 
 ----------------------------------------
 
@@ -2029,7 +2029,7 @@ GENOSIDOH	Sidoh	 	Titanis
 
 ----------------------------------------
 
-BARAMOS		Hargon 		Orochi
+X BARAMOS		Hargon 		Orochi
 
 ----------------------------------------
 
@@ -2064,7 +2064,7 @@ MIRUDRAAS2	Mirudraas1 	Orligon
 
 ----------------------------------------
 
-MUDOU		Baramos 	Gorago
+X MUDOU		Baramos 	Gorago
 				DarkHorn
 
 ----------------------------------------
