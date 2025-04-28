@@ -838,7 +838,7 @@ X CRAGDEVIL	BigRoost	*BEAST*
 <details>
 <summary>
 
-#### ===PLANT FAMILY=== 
+#### ===PLANT FAMILY=== 25/27
 
 </summary>
 
@@ -879,7 +879,7 @@ X SLURPERON	*PLANT* 	*WATER*
 
 ----------------------------------------
 
-STUBSUCK	AmberWeed 	*BEAST*
+X STUBSUCK	AmberWeed 	*BEAST*
 
 		GhosTree	GhosTree
 
@@ -896,17 +896,17 @@ X DANCEVEGI	MadPlant 	*BEAST*
 
 ----------------------------------------
 
-X TREEBOY		*PLANT* 	Pixy
+X TREEBOY	*PLANT* 	Pixy
 
 		FooHero		EvilWand
 
 ----------------------------------------
 
-DEVIPINE	*PLANT* 	Gulpple
+X DEVIPINE	*PLANT* 	Gulpple
 
 ----------------------------------------
 
-FACETREE	HerbMan 	*DRAGON*
+X FACETREE	HerbMan 	*DRAGON*
 
 		*PLANT* 	NiteWhip
 
@@ -914,7 +914,7 @@ FACETREE	HerbMan 	*DRAGON*
 
 ----------------------------------------
 
-HERBMAN		DanceVegi 	*DEVIL*
+X HERBMAN	DanceVegi 	*DEVIL*
 
 		*PLANT* 	FunkyBird
 
@@ -947,7 +947,7 @@ X MANEATER	EvilSeed 	EvilSeed
 
 ----------------------------------------
 
-SNAPPER		ManEater 	ManEater
+X SNAPPER		ManEater 	ManEater
 
 ----------------------------------------
 
@@ -1168,11 +1168,59 @@ MULTIEYES	TailEater 	*DEVIL*
 
 ```
 
-PIXY		*DEVIL* 	*SLIME*
+X PIXY		*DEVIL* 	*SLIME*
+
+----------------------------------------
+X MEDUSAEYE	1EyeClown	*ZOMBIE*
+		Gremlin		Aquarella
+		DarkEye		Octoreach
+
+		*DEVIL* 	*DRAGON*
 
 ----------------------------------------
 
-ARCDEMON	AgDevil		SpotKing
+AGDEVIL		SkulRider	*DRAGON*
+		Evilbeast
+		Gremlin
+		MedusaEye 	
+
+----------------------------------------
+
+X DEMONITE	*DEVIL* 	*BIRD*
+
+----------------------------------------
+
+X DARKEYE		*DEVIL* 	*PLANT*
+
+----------------------------------------
+
+X EYEBALL		*DEVIL* 	*BUG*
+
+----------------------------------------
+
+X SKULRIDER	*DEVIL* 	*ZOMBIE*
+
+----------------------------------------
+
+X EVILBEAST	*DEVIL* 	*MATERIAL*
+
+----------------------------------------
+
+X BUBBLEMON	*DEVIL* 	*WATER*
+
+----------------------------------------
+
+X 1EYECLOWN	Pixy		*SLIME*
+		Demonite
+		EyeBall
+
+----------------------------------------
+
+X GREMLIN		*DEVIL* 	*BEAST*
+
+----------------------------------------
+
+X ARCDEMON	AgDevil		SpotKing
 		Grendal		KingSlime
 		Gigantes 	MetalKing
 				Andreal
@@ -1185,64 +1233,18 @@ ARCDEMON	AgDevil		SpotKing
 				MetalDrak
 				Garudian
 
+
 		GateGuard 	*ZOMBIE*
+
 
 		Ogre 		*DRAGON*
 
-		*DEVIL* 	*BOSS*
+
+		*DEVIL*    *BOSS*
 
 ----------------------------------------
 
-AGDEVIL		SkulRider	*DRAGON*
-		Evilbeast
-		Gremlin
-		MedusaEye 	
-
-----------------------------------------
-
-DEMONITE	*DEVIL* 	*BIRD*
-
-----------------------------------------
-
-DARKEYE		*DEVIL* 	*PLANT*
-
-----------------------------------------
-
-EYEBALL		*DEVIL* 	*BUG*
-
-----------------------------------------
-
-SKULRIDER	*DEVIL* 	*ZOMBIE*
-
-----------------------------------------
-
-EVILBEAST	*DEVIL* 	*MATERIAL*
-
-----------------------------------------
-
-BUBBLEMON	*DEVIL* 	*WATER*
-
-----------------------------------------
-
-1EYECLOWN	Pixy		*SLIME*
-		Demonite
-		EyeBall
-
-----------------------------------------
-
-GREMLIN		*DEVIL* 	*BEAST*
-
-----------------------------------------
-
-MEDUSAEYE	1EyeClown	*ZOMBIE*
-		Gremlin		Aquarella
-		DarkEye		Octoreach
-
-		*DEVIL* 	*DRAGON*
-
-----------------------------------------
-
-LIONEX		ArcDemon 	*ZOMBIE*
+X LIONEX		ArcDemon 	*ZOMBIE*
 				Garudian
 
 		*DEVIL* 	LizardMan
@@ -1255,7 +1257,7 @@ GOATHORN	ArcDemon 	*BEAST*
 
 ----------------------------------------
 
-ORC		*DEVIL* 	BeanMan
+X ORC		*DEVIL* 	BeanMan
 
 ----------------------------------------
 
@@ -1272,7 +1274,7 @@ OGRE		AgDevil		GulpBeast
 
 ----------------------------------------
 
-GATEGUARD	AgDevil		SlimeBorg
+X GATEGUARD	AgDevil		SlimeBorg
 		Grendal		Swordgon
 		Gigantes 	Coatol
 				MistyWing
@@ -1290,13 +1292,13 @@ GATEGUARD	AgDevil		SlimeBorg
 
 ----------------------------------------
 
-CHOPCLOWN	1EyeClown 	1EyeClown
+X CHOPCLOWN	1EyeClown 	1EyeClown
 
 		Lionex		MimeSlime
 
 ----------------------------------------
 
-BOSSTROLL	Ogre 		StoneMan
+X BOSSTROLL	Ogre 		StoneMan
 		Centasaur	Balzak
 				WalrusMan
 				GreatDrak
@@ -1305,7 +1307,7 @@ BOSSTROLL	Ogre 		StoneMan
 
 ----------------------------------------
 
-GRENDAL		SkulRider	*BEAST*
+X GRENDAL		SkulRider	*BEAST*
 		EvilBeast
 		Gremlin
 		MedusaEye
@@ -1315,7 +1317,7 @@ GRENDAL		SkulRider	*BEAST*
 
 ----------------------------------------
 
-AKUBAR		ArcDemon 	GateGuard
+X AKUBAR		ArcDemon 	GateGuard
 
 		Grendal 	Grendal
 
@@ -1331,7 +1333,7 @@ EVILWELL	BossTroll 	IceMan
 
 ----------------------------------------
 
-GIGANTES	SkulRider	*ZOMBIE*
+X GIGANTES	SkulRider	*ZOMBIE*
 		EvilBeast
 		MedusaEye
 
@@ -1355,11 +1357,11 @@ EVILARMOR	ArcDemon	*MATERIAL*
 
 ----------------------------------------
 
-JAMIRUS		Akubar	 	RainHawk
+X JAMIRUS	Akubar	 	RainHawk
 
 ----------------------------------------
 
-DURRAN		Centasaur 	GoldGolem
+X DURRAN	Centasaur 	GoldGolem
 
 		Jamirus 	Serpentia
 
