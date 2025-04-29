@@ -1162,7 +1162,8 @@ MULTIEYES	TailEater 	*DEVIL*
 <details>
 <summary>
 
-#### ===DEVIL FAMILY===
+#### ===DEVIL FAMILY=== 28/30
+(Centaursaur + *BOSS | Durran + Darkhorn)
 
 </summary>
 
@@ -1179,7 +1180,7 @@ X MEDUSAEYE	1EyeClown	*ZOMBIE*
 
 ----------------------------------------
 
-AGDEVIL		SkulRider	*DRAGON*
+X AGDEVIL		SkulRider	*DRAGON*
 		Evilbeast
 		Gremlin
 		MedusaEye 	
@@ -1251,7 +1252,7 @@ X LIONEX		ArcDemon 	*ZOMBIE*
 
 ----------------------------------------
 
-GOATHORN	ArcDemon 	*BEAST*
+X GOATHORN	ArcDemon 	*BEAST*
 
 		*DEVIL* 	DarkHorn
 
@@ -1261,7 +1262,7 @@ X ORC		*DEVIL* 	BeanMan
 
 ----------------------------------------
 
-OGRE		AgDevil		GulpBeast
+X OGRE		AgDevil		GulpBeast
 		Grendal		Unicorn
 		Gigantes 	Digster
 				Roboster
@@ -1323,11 +1324,11 @@ X AKUBAR		ArcDemon 	GateGuard
 
 ----------------------------------------
 
-MADKNIGHT	*DEVIL* 	RogueNite
+X MADKNIGHT	*DEVIL* 	RogueNite
 
 ----------------------------------------
 
-EVILWELL	BossTroll 	IceMan
+X EVILWELL	BossTroll 	IceMan
 
 		Ogre 		LavaMan
 
@@ -1341,7 +1342,7 @@ X GIGANTES	SkulRider	*ZOMBIE*
 
 ----------------------------------------
 
-CENTASAUR	ArcDemon 	*DRAGON*
+X CENTASAUR	ArcDemon 	*DRAGON*
 
 		Ogre		*BEAST*
 		GateGuard
@@ -1349,7 +1350,7 @@ CENTASAUR	ArcDemon 	*DRAGON*
 
 ----------------------------------------
 
-EVILARMOR	ArcDemon	*MATERIAL*
+X EVILARMOR	ArcDemon	*MATERIAL*
 		Ogre
 		GateGuard
 
