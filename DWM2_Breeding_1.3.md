@@ -1388,11 +1388,11 @@ LAMPGENIE	Centasaur 	*BOSS*
 
 ```
 
-SPOOKY		*ZOMBIE* 	*SLIME*
+X SPOOKY		*ZOMBIE* 	*SLIME*
 
 ----------------------------------------
 
-SKULLGON	Skullgon	*DRAGON*
+X SKULLGON	Skullgon	*DRAGON*
 		DeadNoble
 		WhiteKing
 		BoneSlave
@@ -1409,15 +1409,15 @@ SKULLGON	Skullgon	*DRAGON*
 
 ----------------------------------------
 
-PUTREPUP	*ZOMBIE* 	*BEAST*
+X PUTREPUP	*ZOMBIE* 	*BEAST*
 
 ----------------------------------------
 
-ROTRAVEN	*ZOMBIE* 	*BIRD*
+X ROTRAVEN	*ZOMBIE* 	*BIRD*
 
 ----------------------------------------
 
-MUMMY		*ZOMBIE* 	*PLANT*
+X MUMMY		*ZOMBIE* 	*PLANT*
 
 ----------------------------------------
 
@@ -1428,23 +1428,23 @@ DARKCRAB	*ZOMBIE* 	*BUG*
 
 ----------------------------------------
 
-DEADNITE	*ZOMBIE* 	*DEVIL*
+X DEADNITE	*ZOMBIE* 	*DEVIL*
 
 ----------------------------------------
 
-SHADOW		*ZOMBIE* 	*MATERIAL*
+X SHADOW		*ZOMBIE* 	*MATERIAL*
 
 ----------------------------------------
 
-SKULPENT	*ZOMBIE* 	*WATER*
+X SKULPENT	*ZOMBIE* 	*WATER*
 
 ----------------------------------------
 
-HORK		Spooky 		*BEAST*
+X HORK		Spooky 		*BEAST*
 
 ----------------------------------------
 
-MUDRON		*ZOMBIE* 	BoxSlime
+X MUDRON	*ZOMBIE* 	BoxSlime
 				FangSlime
 				Tonguella
 				Yeti
@@ -1457,7 +1457,7 @@ MUDRON		*ZOMBIE* 	BoxSlime
 
 ----------------------------------------
 
-NITEWHIP	DarkCrab	*DEVIL*
+X NITEWHIP	DarkCrab	*DEVIL*
 		MadSpirit
 
 		*ZOMBIE* 	MistyWing
@@ -1489,11 +1489,11 @@ REAPER		Spooky		*DEVIL*
 
 ----------------------------------------
 
-INVERZON	Hork 		Hork
+X INVERZON	Hork 		Hork
 
 ----------------------------------------
 
-FOXFIRE		NiteWhip 	*BEAST*
+X FOXFIRE		NiteWhip 	*BEAST*
 
 		PutrePup	MistyWing
 
@@ -1505,7 +1505,7 @@ CAPTDEAD	BoneSlave 	*WATER*
 
 ----------------------------------------
 
-DEADNOBLE	Mudron		Lionex
+X DEADNOBLE	Mudron		Lionex
 		BoneSlave	ArcDemon
 		Skeletor	GateGuard
 		CaptDead	CopyCat
@@ -1526,7 +1526,7 @@ DEADNOBLE	Mudron		Lionex
 
 ----------------------------------------
 
-WHITEKING	Skullgon	KingSlime
+X WHITEKING	Skullgon	KingSlime
 	
 		DeadNoble	SpotKing
 
@@ -1556,7 +1556,7 @@ BONESLAVE	Mummy		RockSlime
 
 ----------------------------------------
 
-SKELETOR	Mummy		GulpBeast
+X SKELETOR	Mummy		GulpBeast
 		DeadNite	Grizzly
 		Hork		MadCat
 		Mudron		MadRaven
@@ -1582,11 +1582,11 @@ LAZAMANUS	WhiteKing 	DracoLord1
 
 ----------------------------------------
 
-COPYCAT		-----	 	-----
+X COPYCAT	-----	 	-----
 
 ----------------------------------------
 
-POMPOMBOM	Copycat 	Droll
+X POMPOMBOM	Copycat 	Droll
 				Gasgon
 
 		FoxFire		*BEAST*
@@ -1599,6 +1599,7 @@ NITERICH	DeadNoble	Octoraid
 
 ----------------------------------------
 ```
+
 </details>
 
 <details>
