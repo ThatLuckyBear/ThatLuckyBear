@@ -1,4 +1,4 @@
-This is my gamedev repository. The point of this is to collect up my ideas and help organize smaller practice projects.
+This is my gamedev folder. The point of this is to collect up my ideas and help organize smaller practice projects.
 ### Goals
 - [ ] Learn basics of game programming
 - [ ] Learn basics of 3d modelling
