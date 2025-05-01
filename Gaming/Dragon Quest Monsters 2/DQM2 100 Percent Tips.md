@@ -18,7 +18,7 @@ Listed here are monsters you'll want quick access to as they're needed often for
 please correct me on this info if you have conflicting experience, these are not "code confirmed" only tested by hand
 - recruit chance is rolled at end of turn inputs so you can save state at "enemy" or "fight" (if they're already hit with meat) and reload until the capture happens. The last choice from player is the point of no return so saving just as the monster dies will not yield different results on reload.
 - gender is rolled at start of battle so no matter how many times you reset mid-battle it'll never change
-- random tamers roll their team after you talk to them (team won't change if you save state at the Y/N dialogue)
+- roaming monster tamers roll their team when the battle starts so you can save state at the "yes/no" choice and get different teams each time you reload
 - Casino ships play fair so if you save state on each reel you can get 3 stars every time for a free meteorb
 - 
   
