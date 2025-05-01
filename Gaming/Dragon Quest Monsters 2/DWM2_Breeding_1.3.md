@@ -1388,7 +1388,7 @@ LAMPGENIE	Centasaur 	*BOSS*
 
 ```
 
-X SPOOKY		*ZOMBIE* 	*SLIME*
+X SPOOKY	*ZOMBIE* 	*SLIME*
 
 ----------------------------------------
 
@@ -1421,7 +1421,7 @@ X MUMMY		*ZOMBIE* 	*PLANT*
 
 ----------------------------------------
 
-DARKCRAB	*ZOMBIE* 	*BUG*
+X DARKCRAB	*ZOMBIE* 	*BUG*
 				CancerMan
 				Clawster
 				Gamanian
@@ -1499,7 +1499,7 @@ X FOXFIRE		NiteWhip 	*BEAST*
 
 ----------------------------------------
 
-CAPTDEAD	BoneSlave 	*WATER*
+X CAPTDEAD	BoneSlave 	*WATER*
 
 		NiteWhip	Moray
 
@@ -1572,7 +1572,7 @@ X SKELETOR	Mummy		GulpBeast
 
 ----------------------------------------
 
-SERVANT		Skeletor 	Skeletor
+X SERVANT	Skeletor 	Skeletor
 
 		WhiteKing 	*DEVIL*
 
@@ -1593,7 +1593,7 @@ X POMPOMBOM	Copycat 	Droll
 
 ----------------------------------------
 
-NITERICH	DeadNoble	Octoraid
+X NITERICH	DeadNoble	Octoraid
 		Skeletor 	Roboster2	
 				Serpentia
 
