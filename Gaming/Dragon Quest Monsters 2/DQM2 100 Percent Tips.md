@@ -1,9 +1,11 @@
-## Important Monster Breeding Routes
+## Important Monsters & Breeding Routes
 Listed here are monsters you'll want quick access to as they're needed often for breeding across many different families.
 - Metaldrak: Capture Andreal in SKY and breed with any MATERIAL monster.
 - Kingslime: Capture in SKY
 - Bosstroll: Capture in LIMBO
 - Roboster: Capture GRIZZLY in ICE and breed with any MATERIAL
+
+Getting access to a BOSS world key will make an enormous difference in routing and completion of the library as breeding to Dracolord1 is difficult despite being the "easiest" boss to get unless you have really easy access to a Servant due to something something.
 
 ## random tips
 - Sky has so many important monsters. use a log twig by the middle castle so you can go with to catch Andreal and Kingslime, north for exp from metaly and gigantes. gate guards in the lower levels of spooky castle
