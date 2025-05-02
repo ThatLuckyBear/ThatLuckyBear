@@ -12,10 +12,15 @@ Listed here are monsters you'll want quick access to as they're needed often for
   - ~15 breeding paths
   - easy access to pheramone for forcing gender for field captures
   - can be used for ICEMAN which is important for some limited breeding paths
+#### Wild/Capturable Monsters to look out for or keep in eggs til you need them:
 - Darkhorn (get at least 2, if not 3)
-  - extremely limited breeding options for some monsters (around 4 of them)
-  - requires a *Boss to breed so very useful for filling out library so try and catch one every time you see one.
-  - Titanis and Gorago require a Darkhorn so if you keep the Gorago you can use it for Modou
+  - extremely limited breeding options for some monsters
+  - requires a *Boss to breed so very useful for filling out library if you can catch one instead of breeding.
+  - Titanis and Gorago require a Darkhorn but if you keep the Gorago you can use it for Modou saving yourself some trouble
+- Divinegon (get 3 or 4)
+  - used for bosses and other monsters and kind of a pain to breed without easy access to Orochi
+  - Required for Pizzaro (boss), Dracolord2(boss), and Orligon (Dragon)
+  - You need 2 Pizzaro to finish the library at minimum so that's at least 4 Divinegon needed
 
 Getting access to a BOSS world key will make an enormous difference in routing and completion of the library as breeding to Dracolord1 is difficult despite being the "easiest" boss to get unless you have really easy access to a Servant due to something something.
   - Build a team specifically for hunting keys if you want to try and find a BOSS key
