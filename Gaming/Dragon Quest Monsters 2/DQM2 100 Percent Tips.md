@@ -12,8 +12,13 @@ Listed here are monsters you'll want quick access to as they're needed often for
   - ~15 breeding paths
   - easy access to pheramone for forcing gender for field captures
   - can be used for ICEMAN which is important for some limited breeding paths
+- Darkhorn (get at least 2, if not 3)
+  - extremely limited breeding options for some monsters (around 4 of them)
+  - requires a *Boss to breed so very useful for filling out library so try and catch one every time you see one.
+  - Titanis and Gorago require a Darkhorn so if you keep the Gorago you can use it for Modou
 
 Getting access to a BOSS world key will make an enormous difference in routing and completion of the library as breeding to Dracolord1 is difficult despite being the "easiest" boss to get unless you have really easy access to a Servant due to something something.
+  - Build a team specifically for hunting keys if you want to try and find a BOSS key
   - When key hunting use the highest level and most rare monsters to execute the battle. Check library and aim for 4 star rarity for all 3 members of your team.
   - Key is generated when obtained so it would probably be better to gather as many as you can instead of trying to save scum (save state only as game forces save when identifying keys on console)
   - I have never found one of these keys so I'm going off info from gamefaqs here
