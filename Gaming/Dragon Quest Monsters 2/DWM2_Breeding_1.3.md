@@ -998,11 +998,11 @@ X FOOHERO		TreeBoy 	SlimeNite
 
 ```
 
-GIANTSLUG	*BUG*	 	*SLIME*
+X GIANTSLUG	*BUG*	 	*SLIME*
 
 ----------------------------------------
 
-CATAPILA	*BUG* 		*DRAGON*
+X CATAPILA	*BUG* 		*DRAGON*
 
 ----------------------------------------
 
@@ -1010,7 +1010,7 @@ GOPHECADA	*BUG*	 	*BEAST*
 
 ----------------------------------------
 
-BUTTERFLY	*BUG*	 	*BIRD*
+X BUTTERFLY	*BUG*	 	*BIRD*
 
 ----------------------------------------
 
@@ -1018,38 +1018,38 @@ WEEDBUG		*BUG* 		*PLANT*
 
 ----------------------------------------
 
-GIANTWORM	*BUG*	 	*DEVIL*
+X GIANTWORM	*BUG*	 	*DEVIL*
 
 ----------------------------------------
 
-LIPSY		*BUG* 		*ZOMBIE*
+X LIPSY		*BUG* 		*ZOMBIE*
 
 ----------------------------------------
 
-STAGBUG		*BUG*	 	*MATERIAL*
+X STAGBUG		*BUG*	 	*MATERIAL*
 
 ----------------------------------------
 
-PYURO		*BUG* 		*WATER*
+X PYURO		*BUG* 		*WATER*
 
 ----------------------------------------
 
-ARMYANT		GiantSlug 	*SLIME*
+X ARMYANT		GiantSlug 	*SLIME*
 
 ----------------------------------------
 
-GOHOPPER	----- 		-----
+X GOHOPPER	----- 		-----
 
 ----------------------------------------
 
-TAILEATER	WeedBug 	*PLANT*
+X TAILEATER	WeedBug 	*PLANT*
 				Anemon
 
 		*BUG* 		FloraMan
 
 ----------------------------------------
 
-ARMORPEDE	GiantWorm 	*MATERIAL*
+X ARMORPEDE	GiantWorm 	*MATERIAL*
 
 		Droll 		*DRAGON*
 
@@ -1060,7 +1060,7 @@ ARMORPEDE	GiantWorm 	*MATERIAL*
 
 ----------------------------------------
 
-EYEDER		Catapila 	*BEAST*
+X EYEDER		Catapila 	*BEAST*
 
 		*BUG* 		Gamanian
 				Amberweed
@@ -1068,14 +1068,14 @@ EYEDER		Catapila 	*BEAST*
 
 ----------------------------------------
 
-GIANTMOTH	ButterFly 	*DEVIL*
+X GIANTMOTH	ButterFly 	*DEVIL*
 
 		*BUG* 		Saccer
 				RayGigas
 
 ----------------------------------------
 
-DROLL		ButterFly	ButterFly
+X DROLL		ButterFly	ButterFly
 
 		TailEater	TailEater
 
@@ -1095,7 +1095,7 @@ ARMYCRAB	*BUG* 		DarkCrab
 
 ----------------------------------------
 
-MADHORNET	Eyeder		*ZOMBIE*
+X MADHORNET	Eyeder		*ZOMBIE*
 		Droll
 		Pyuro
 
@@ -1124,7 +1124,7 @@ HORNBEET	StagBug 	StagBug
 
 ----------------------------------------
 
-SICKLER		*BUG* 		1EyeClown
+X SICKLER	*BUG* 		1EyeClown
 				Reaper
 
 		WarMantis 	*SLIME*
@@ -1139,7 +1139,7 @@ ARMORPION	HornBeet 	Hornbeet
 
 ----------------------------------------
 
-DIGSTER		*BUG* 		*BOSS*
+X DIGSTER	*BUG* 		*BOSS*
 		
 		ArmyCrab	Clawster
 
