@@ -1,11 +1,22 @@
 ## Important Monsters & Breeding Routes
 Listed here are monsters you'll want quick access to as they're needed often for breeding across many different families.
 - Metaldrak: Capture Andreal in SKY and breed with any MATERIAL monster.
+  - used for up to ~15 different breeding paths
 - Kingslime: Capture in SKY
+  - used in ~7 breeding paths
+  - Can be combined with Metaldrak for a Metalking which is used in ~9 breeding paths
 - Bosstroll: Capture in LIMBO
+  - Used in ~8 breeding paths
+  - Can be combined with *BEAST to make Centasaur which is used in ~7 very limited breeding paths lime Durran and Lavaman (metaldrak + Bosstroll!)
 - Roboster: Capture GRIZZLY in ICE and breed with any MATERIAL
+  - ~15 breeding paths
+  - easy access to pheramone for forcing gender for field captures
+  - can be used for ICEMAN which is important for some limited breeding paths
 
 Getting access to a BOSS world key will make an enormous difference in routing and completion of the library as breeding to Dracolord1 is difficult despite being the "easiest" boss to get unless you have really easy access to a Servant due to something something.
+  - When key hunting use the highest level and most rare monsters to execute the battle. Check library and aim for 4 star rarity for all 3 members of your team.
+  - Key is generated when obtained so it would probably be better to gather as many as you can instead of trying to save scum (save state only as game forces save when identifying keys on console)
+  - I have never found one of these keys so I'm going off info from gamefaqs here
 
 ## random tips
 - Sky has so many important monsters. use a log twig by the middle castle so you can go with to catch Andreal and Kingslime, north for exp from metaly and gigantes. gate guards in the lower levels of spooky castle
