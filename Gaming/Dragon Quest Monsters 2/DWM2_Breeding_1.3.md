@@ -839,6 +839,7 @@ X CRAGDEVIL	BigRoost	*BEAST*
 <summary>
 
 #### ===PLANT FAMILY=== 25/27
+WataBou | Warabou
 
 </summary>
 
@@ -1382,7 +1383,7 @@ LAMPGENIE	Centasaur 	*BOSS*
 <details>
 <summary>
 		
-#### ===ZOMBIE FAMILY===
+#### ===ZOMBIE FAMILY=== 27/27
 
 </summary>
 
@@ -1432,7 +1433,7 @@ X DEADNITE	*ZOMBIE* 	*DEVIL*
 
 ----------------------------------------
 
-X SHADOW		*ZOMBIE* 	*MATERIAL*
+X SHADOW	*ZOMBIE* 	*MATERIAL*
 
 ----------------------------------------
 
@@ -1464,7 +1465,7 @@ X NITEWHIP	DarkCrab	*DEVIL*
 
 ----------------------------------------
 
-MADSPIRIT	Skullgon	*BIRD*
+X MADSPIRIT	Skullgon	*BIRD*
 		DeadNite
 		Mudron
 		DeadNoble
@@ -1476,13 +1477,13 @@ MADSPIRIT	Skullgon	*BIRD*
 
 ----------------------------------------
 
-WINDMERGE	RotRaven 	*BIRD*
+X WINDMERGE	RotRaven 	*BIRD*
 
 		*ZOMBIE* 	WindBeast
 
 ----------------------------------------
 
-REAPER		Spooky		*DEVIL*
+X REAPER	Spooky		*DEVIL*
 		Hork
 
 		*ZOMBIE* 	WeedBug
@@ -1546,7 +1547,7 @@ X WHITEKING	Skullgon	KingSlime
 
 ----------------------------------------
 
-BONESLAVE	Mummy		RockSlime
+X BONESLAVE	Mummy		RockSlime
 		DeadNite	SlimeBorg
 			 	LandOwl
 				MadGoose
@@ -1578,7 +1579,7 @@ X SERVANT	Skeletor 	Skeletor
 
 ----------------------------------------
 
-LAZAMANUS	WhiteKing 	DracoLord1
+X LAZAMANUS	WhiteKing 	DracoLord1
 
 ----------------------------------------
 
@@ -1800,7 +1801,7 @@ X GOLDGOLEM	IceMan 		LavaMan
 
 ----------------------------------------
 
-DARKMATE	GoldGolem 	MetalKing
+X DARKMATE	GoldGolem 	MetalKing
 
 ----------------------------------------
 
@@ -1830,6 +1831,8 @@ X CLOUDKING	Gismo 		KingSlime
 <summary>
 
 #### ===WATER FAMILY=== 30/32
+
+(Grakos + Moudou | *water + *boss)
 
 </summary>
 
@@ -2008,7 +2011,7 @@ X STARFISH	HoodSquid	*SLIME*
 
 ```
 
-DRACOLORD1	Servant 	Andreal
+X DRACOLORD1	Servant 	Andreal
 				GreatDrak
 
 ----------------------------------------
