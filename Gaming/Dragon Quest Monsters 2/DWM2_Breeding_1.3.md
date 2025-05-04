@@ -992,7 +992,7 @@ X FOOHERO		TreeBoy 	SlimeNite
 <details>
 <summary>
 		
-#### ===BUG FAMILY===
+#### ===BUG FAMILY=== 27/27
 
 </summary>
 
@@ -1006,7 +1006,7 @@ X CATAPILA	*BUG* 		*DRAGON*
 
 ----------------------------------------
 
-GOPHECADA	*BUG*	 	*BEAST*
+X GOPHECADA	*BUG*	 	*BEAST*
 
 ----------------------------------------
 
@@ -1014,7 +1014,7 @@ X BUTTERFLY	*BUG*	 	*BIRD*
 
 ----------------------------------------
 
-WEEDBUG		*BUG* 		*PLANT*
+X WEEDBUG	*BUG* 		*PLANT*
 
 ----------------------------------------
 
@@ -1090,7 +1090,7 @@ X DROLL		ButterFly	ButterFly
 
 ----------------------------------------
 
-ARMYCRAB	*BUG* 		DarkCrab
+X ARMYCRAB	*BUG* 		DarkCrab
 				Cancerman
 
 ----------------------------------------
@@ -1105,7 +1105,7 @@ X MADHORNET	Eyeder		*ZOMBIE*
 
 ----------------------------------------
 
-BELZEBUB	MadHornet 	GoHopper	
+X BELZEBUB	MadHornet 	GoHopper	
 				*ZOMBIE*
 
 		MultiEyes 	ButterFly	
@@ -1113,11 +1113,11 @@ BELZEBUB	MadHornet 	GoHopper
 
 ----------------------------------------	
 
-WARMANTIS	Sickler 	*DEVIL*
+X WARMANTIS	Sickler 	*DEVIL*
 
 ----------------------------------------
 
-HORNBEET	StagBug 	StagBug
+X HORNBEET	StagBug 	StagBug
 
 		ArmorPede 	*DEVIL*
 		WarMantis
@@ -1131,7 +1131,7 @@ X SICKLER	*BUG* 		1EyeClown
 
 ----------------------------------------
 
-ARMORPION	HornBeet 	Hornbeet
+X ARMORPION	HornBeet 	Hornbeet
 
 		WarMantis	CancerMan
 				RogueNite
@@ -1145,11 +1145,11 @@ X DIGSTER	*BUG* 		*BOSS*
 
 ----------------------------------------
 
-SKULARACH	Armorpion 	WhiteKing
+X SKULARACH	Armorpion 	WhiteKing
 
 ----------------------------------------
 
-MULTIEYES	TailEater 	*DEVIL*
+X MULTIEYES	TailEater 	*DEVIL*
 
 		Catapila 	Catapila
 				Butterfly
