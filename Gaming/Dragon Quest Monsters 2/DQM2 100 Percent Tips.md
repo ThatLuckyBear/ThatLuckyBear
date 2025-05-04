@@ -1,5 +1,11 @@
 ## Important Monsters & Breeding Routes
 Listed here are monsters you'll want quick access to as they're needed often for breeding across many different families.
+
+#### Breeding Boss Route 
+ICE KEY:Grizzly (breed to Skeletor)
+Sky: Andreal (breed w/ offspring for Whiteking)
+
+
 - Metaldrak: Capture Andreal in SKY and breed with any MATERIAL monster.
   - used for up to ~15 different breeding paths
 - Kingslime: Capture in SKY
