@@ -838,8 +838,8 @@ X CRAGDEVIL	BigRoost	*BEAST*
 <details>
 <summary>
 
-#### ===PLANT FAMILY=== 25/27
-WataBou | Warabou
+#### ===PLANT FAMILY=== 26/27
+Warabou
 
 </summary>
 
@@ -969,7 +969,7 @@ WATABOU		Warubou		Watabou (DWM1)
 
 ----------------------------------------
 
-WARUBOU		----- 		-----
+X WARUBOU	----- 		-----
 
 ----------------------------------------
 
@@ -1034,7 +1034,7 @@ X PYURO		*BUG* 		*WATER*
 
 ----------------------------------------
 
-X ARMYANT		GiantSlug 	*SLIME*
+X ARMYANT	GiantSlug 	*SLIME*
 
 ----------------------------------------
 
@@ -1830,9 +1830,7 @@ X CLOUDKING	Gismo 		KingSlime
 <details>
 <summary>
 
-#### ===WATER FAMILY=== 30/32
-
-(Grakos + Moudou | *water + *boss)
+#### ===WATER FAMILY=== 32/32
 
 </summary>
 
@@ -2036,7 +2034,7 @@ GENOSIDOH	Sidoh	 	Titanis
 
 ----------------------------------------
 
-X BARAMOS		Hargon 		Orochi
+X BARAMOS	Hargon 		Orochi
 
 ----------------------------------------
 
