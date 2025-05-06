@@ -2047,7 +2047,7 @@ ASURAZOMA	Zoma 		PsychoPiz
 
 ----------------------------------------
 
-PIZZARO		Durran 		Divinegon
+X PIZZARO	Durran 		Divinegon
 
 ----------------------------------------
 
