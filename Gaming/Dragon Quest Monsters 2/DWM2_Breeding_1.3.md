@@ -9,6 +9,7 @@ http://www.woodus.com/forums/index.php?showtopic=32810
 <summary>
 	
 #### ===SLIME FAMILY=== 25/26
+wonder egg via DQM1 breed
 
 </summary>
 
@@ -1163,8 +1164,7 @@ X MULTIEYES	TailEater 	*DEVIL*
 <details>
 <summary>
 
-#### ===DEVIL FAMILY=== 28/30
-(Centaursaur + *BOSS | Durran + Darkhorn)
+#### ===DEVIL FAMILY=== 30/30
 
 </summary>
 
@@ -1369,11 +1369,11 @@ X DURRAN	Centasaur 	GoldGolem
 
 ----------------------------------------
 
-TITANIS		Durran 		DarkHorn
+X TITANIS	Durran 		DarkHorn
 
 ----------------------------------------
 
-LAMPGENIE	Centasaur 	*BOSS*
+X LAMPGENIE	Centasaur 	*BOSS*
 
 ----------------------------------------
 ```
