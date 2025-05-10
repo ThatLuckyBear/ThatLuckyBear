@@ -2014,11 +2014,11 @@ X DRACOLORD1	Servant 	Andreal
 
 ----------------------------------------
 
-DRACOLORD2	DracoLord1 	Divinegon
+X DRACOLORD2	DracoLord1 	Divinegon
 
 ----------------------------------------
 
-LORDDRACO	DracoLord2	Orligon
+X LORDDRACO	DracoLord2	Orligon
 
 ----------------------------------------
 
@@ -2026,11 +2026,11 @@ X HARGON	WhiteKing 	MetalKing
 
 ----------------------------------------
 
-SIDOH		Jamirus 	Rosevine
+X SIDOH		Jamirus 	Rosevine
 
 ----------------------------------------
 
-GENOSIDOH	Sidoh	 	Titanis
+X GENOSIDOH	Sidoh	 	Titanis
 
 ----------------------------------------
 
