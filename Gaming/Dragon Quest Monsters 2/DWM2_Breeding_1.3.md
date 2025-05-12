@@ -2055,16 +2055,16 @@ PSYCHOPIZ	Pizzaro 	Esterk
 
 ----------------------------------------
 
-ESTERK		Pizzaro 	Gorago
+X ESTERK	Pizzaro 	Gorago
 				KingLeo
 
 ----------------------------------------
 
-MIRUDRAAS1	Esterk 		GoldSlime
+X MIRUDRAAS1	Esterk 		GoldSlime
 
 ----------------------------------------
 
-MIRUDRAAS2	Mirudraas1 	Orligon
+X MIRUDRAAS2	Mirudraas1 	Orligon
 				Spikerous
 
 ----------------------------------------
@@ -2074,7 +2074,7 @@ X MUDOU		Baramos 	Gorago
 
 ----------------------------------------
 
-DEATHMORE1	Mirudraas1 	Azurile
+X DEATHMORE1	Mirudraas1 	Azurile
 
 		Mirudraas2 	Zoma
 
@@ -2084,12 +2084,12 @@ DEATHMORE1	Mirudraas1 	Azurile
 
 ----------------------------------------
 
-DEATHMORE2	DeathMore1 	Titanis
+X DEATHMORE2	DeathMore1 	Titanis
  				Armorpion
 
 ----------------------------------------
 
-DEATHMORE3	DeathMore2 	DarkMate
+X DEATHMORE3	DeathMore2 	DarkMate
 				Mudou
 				Poseidon
 
@@ -2110,6 +2110,6 @@ ORGODEMIR2	Orgodemir 	LordDraco
 
 ----------------------------------------
 
-DARCK		-----		-----
+X DARCK		-----		-----
 ```
 </details>
