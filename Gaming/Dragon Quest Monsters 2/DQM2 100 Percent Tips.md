@@ -2,9 +2,6 @@
 Listed here are monsters you'll want quick access to as they're needed often for breeding across many different families.
 
 #### Breeding Boss Route 
-ICE KEY:Grizzly (breed to Skeletor)
-Sky: Andreal (breed w/ offspring for Whiteking)
-
 
 - Metaldrak: Capture Andreal in SKY and breed with any MATERIAL monster.
   - used for up to ~15 different breeding paths
@@ -18,6 +15,7 @@ Sky: Andreal (breed w/ offspring for Whiteking)
   - ~15 breeding paths
   - easy access to pheramone for forcing gender for field captures
   - can be used for ICEMAN which is important for some limited breeding paths
+
 #### Wild/Capturable Monsters to look out for or keep in eggs til you need them:
 - Darkhorn (get at least 2, if not 3)
   - extremely limited breeding options for some monsters
@@ -28,11 +26,19 @@ Sky: Andreal (breed w/ offspring for Whiteking)
   - Required for Pizzaro (boss), Dracolord2(boss), and Orligon (Dragon)
   - You need 2 Pizzaro to finish the library at minimum so that's at least 4 Divinegon needed
 
-Getting access to a BOSS world key will make an enormous difference in routing and completion of the library as breeding to Dracolord1 is difficult despite being the "easiest" boss to get unless you have really easy access to a Servant due to something something.
-  - Build a team specifically for hunting keys if you want to try and find a BOSS key
-  - When key hunting use the highest level and most rare monsters to execute the battle. Check library and aim for 4 star rarity for all 3 members of your team.
-  - Key is generated when obtained so it would probably be better to gather as many as you can instead of trying to save scum (save state only as game forces save when identifying keys on console)
-  - I have never found one of these keys so I'm going off info from gamefaqs here
+## key hunting with save states
+- to get more chances at a key use master battles in worlds and save at the last text before "got key"
+- reroll until you get the key and save a new slot and reset for another key and it will be different
+- check each one until you get what you want
+- keys cycle through keys you've never had before dropping the same one again so you can use this to force the pool to narrow to reroll the same key to try and get a "LastBsmt" or whatever you want/need
+- When key hunting use the highest level and most rare monsters to execute the battle. Check library and aim for 4 star rarity for all 3 members of your team.
+
+## Bard Farming
+- the pool of monsters that bards use on their team seems to be the exact same as the last standard master you battle
+- the most important pool for boss tree breeding (especially like PIZZARO and Psychopizz) is the Goldgolem/GoldSlime/Divinegon/Emyru/etc. monster pool
+- some worlds don't seem to ever spawn regular masters (ie: priest/bard/ripoff merchant) --- my world was MistyLord
+- if you battle a regular (red or orange) master and then go to your Bard Only world you can save state just before the battle starts and reroll from the guaranteed monsters in that pool until you get what you need
+- Warning; I always had a level 99 Granslime with me so I don't know how this effects the spawns but it was consistent and I was able to replicate it with different monsters too but this mechanic is not fully explored 
 
 ## random tips
 - Sky has so many important monsters. use a log twig by the middle castle so you can go with to catch Andreal and Kingslime, north for exp from metaly and gigantes. gate guards in the lower levels of spooky castle
