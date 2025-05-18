@@ -2,6 +2,26 @@ Steal whatever you like. Ideas can't be constrained by laws or promises or magic
 
 # Video Game Ideas
 
+## Crow With a Coin
+a juvenile crow has a note tied to it's leg and a single coin. They must journey all the way to the alchemist to make an order for their master, a somewhat delusional witch. Emboldened with a pat on the head and the witches confidence in them the small crow starts their journey. There's only one problem, the coin is too heavy for them to fly with it in their beak.
+Puzzle game that tasks a player to get their coin past obstacles by solving convouluted social and/or physics based puzzles. Players will set down their coin somewhere safe and figure out how to communicate with people and/or animals who don't speak crow, get past troubling terrain that threatens to dislodge the coin, or avoid prowling thieves and predators in the night. 
+
+**Puzzle Ideas**
+- drop a coin in a walking person's pocket and pull a string on their pants to get the coin back out
+- short change scam a shady merchant by insisting you paid with 3 gold coins and 1 silver not 1 gold 4 silver and he owes you back
+- use a string to get a cat to move into sight of a cat hunter who will chase the cat freeing up your path
+- creating a coin tube from a destructed plastic hamster tunnel system
+- borrow a trebuchet and somehow work it's mechanisms despite being a small bird
+- lead a prison break
+- organize a poisonous snakes union who subsequently strike (literally)
+- Befriend an old God who was believed to have abandoned a city
+- Befriend a small child who needs help making new friends (the old God obviously would be a wonderful friend)
+- solve an impossible riddle with an impossible solution
+
+**Gameplay**
+A mix between Monkey Island and a 3d platformer. Players can fly if the find a safe place for their coin but it will get stolen if left without consideration for too long. Flying can reveal the next area which can be explored for clues and resources and can help clue players in on how to get their coin in. Sometimes you can talk directly with creatures or people, other times they'll attempt to communicate with a unique mini game. Each area progressively gets sillier and also adds more requirements before opening the way. Eventually the player will need contend with more dynamic circumstances like being in the middle of a battle and navigating the chaos.
+
+
 ## Cursed: Frogged Forever
 a witch curses a human to become a frog. turns out being a frog is great and they begin to enjoy the freedom immediately. realizing their mistake the witch begins to frantically attempt to undo the curse by any means. our hero (the frog) has to avoid the traps and pitfalls of the witch to keep their new happy froggy life from being undone.
 a fortune teller (form undecided) helps maintain the perspective and stakes of "being human is bad" for players.
