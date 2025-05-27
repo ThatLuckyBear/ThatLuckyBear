@@ -28,3 +28,4 @@
 - [github with code from game for trainers etc.](https://github.com/pret/pokered/blob/master/data/trainers/parties.asm)
 - [strategywiki with lots of detailed info for stats during encounters](https://strategywiki.org/wiki/Pok%C3%A9mon_Red_and_Blue/Moves)
 - [reddit thread asking for detailed info on pokemon stats](https://www.reddit.com/r/pokemonchallenges/comments/kt5u4d/is_there_a_list_somewhere_with_the_gen_1_trainer/)
+- [gamefaqs walkthrough with lots of detailed info on pokemon stats including wild](https://gamefaqs.gamespot.com/gameboy/367023-pokemon-red-version/faqs/64175/mt-moon)
