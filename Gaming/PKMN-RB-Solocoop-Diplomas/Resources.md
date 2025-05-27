@@ -25,4 +25,6 @@
 - [Gettable Items Map](https://drive.google.com/file/d/132UsWCg3WnxqSyuseB4Fahzbc1zyKRlE/view) - Drive Link, map of where all pickup items are
 - [Kanto Trainer Fly Index Map](https://drive.google.com/file/d/12z_tpz5PuInO-7ebhVMvT0yXAxE6btTW/view) - Drive Link, map of all trainers and what pokemon index you can store
 - [Pokemon Getter Tracker](https://pco.bobchao87.com/#/app/main) - website for visual tracking as you catch for when random encounters end up with a get
--  
+- [github with code from game for trainers etc.](https://github.com/pret/pokered/blob/master/data/trainers/parties.asm)
+- [strategywiki with lots of detailed info for stats during encounters](https://strategywiki.org/wiki/Pok%C3%A9mon_Red_and_Blue/Moves)
+- [reddit thread asking for detailed info on pokemon stats](https://www.reddit.com/r/pokemonchallenges/comments/kt5u4d/is_there_a_list_somewhere_with_the_gen_1_trainer/)
