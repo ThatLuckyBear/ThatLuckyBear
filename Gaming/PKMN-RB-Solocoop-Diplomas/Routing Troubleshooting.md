@@ -1,5 +1,6 @@
 # Routing Ideas
-- Catch Mew early and /use/ it 
+- Catch Mew early and /use/ it
+  - can use explosion to end fights early and use level underflow to hit level 100 and ensure you can reach any part of a fight without having to worry about RNG
 - Skip badges/hall of fame by getting mewtwo via fly glitch?
   - Any other pokemon that require badges/hall of fame? What is in the cave?
   - Need to discover which is fastest but skipping hall of fame is almost certainly faster 
@@ -14,6 +15,7 @@
 - Compare time for Agatha Porygon vs “Nugget dupe> buy coins”
 - Can Moltres be manip’d for fly encounters? if so what values?
 - Faster to get free Eevee or triple reset off Samantha?
+- Can you use psychic to lower the special of a mon to force a different fly glitch encounter?
 
 
 # Major Challenges
