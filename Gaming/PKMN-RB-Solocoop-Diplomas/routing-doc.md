@@ -1,0 +1,172 @@
+This document will be for routing purposes. Starting from listing each mon and working backwards to find snags, breeding opportunities, and testing new ideas.
+
+#### Catching Them All
+#### Obtain Methods By Pokedex
+(list adapted from [POKÉMON MONSTER LOCATION GUIDE ver 0.51](https://gamefaqs.gamespot.com/gameboy/907714-pokemon-blue-version/faqs/5773) by ChOoMaG <choomag@mailcity.com> on GameFaqs.com)
+
+## Starters
+If you get an extra starter by using the double starter glitch you can trade to get them all. Alternatively you could find a trainer or wild pokemon or use ditto to force a fly glitch for one or more of these starters and their evolutions.
+
+- Bulbasaur     - found in Pallet Town.
+  - get from oak, trade before evolving
+- Ivysaur       - evolved Bulbasaur (L16).
+  - evolve and trade back before level 36
+- Venusaur      - evolved Ivysaur (L36).
+  - evolve and trade back
+- Charmander    - found in Pallet Town.
+  - get from oak, trade before evolving
+- Charmeleon    - evolved Charmander (L16).
+  - evolve and trade back before level 36
+- Charizard     - evolved Charmeleon (L36).
+  - evolve and trade back
+- Squirtle      - found in Pallet Town.
+  - get from oak, trade before evolving
+- Wartortle     - evolved Squirtle (L16).
+  - evolve trade back before level 36
+- Blastoise     - evolved Wartortle (L36).
+  - trade
+
+
+
+
+- Caterpie      - found in Viridian Forest.
+- Metapod	    - evolved Caterpie (L7).
+- Butterfree    - evolved Metapod (L10).
+- Weedle	    - found near Route 25.
+- Kakuna	    - evolved Weedle (L7).
+- Beedrill	    - evolved Kakuna (L10).
+- Pidgey	    - found everywhere!
+- Pidgeotto	  - evolved Pidgey (L18).
+- Pidgeot    	  - evolved Pidgeotto (L36).
+- Rattata	  - found everywhere!
+- Raticate	  - evolved Rattata (L20).
+- Spearow	  - found almost everywhere!
+- Fearow	  - evolved Spearow (L20).
+- Ekans (R)     - found almost everywhere!
+- Arbok (R)	  - evolved Ekans (L22).
+- Pikachu	  - only found near Routes 2 and 10.
+- Raichu	  - evolved Pikachu (requires Thunder Stone).
+- Sandshrew (B) - found almost everywhere!
+- Sandslash (B) - evolved Sandshrew (L22).
+  - found near Route 22 and Safari Zone.
+- Nidorina	  - evolved Nidoran (L16).
+- Nidoqueen     - evolved Nidorina (requires Moon Stone).
+- Nidoran	  - found near Route 22 and Safari Zone.
+- Nidorino	  - evolved Nidoran (L16).
+- Nidoking	  - evolved Nidorino (requires Moon Stone).
+- Clefairy	  - found near Celadon City, Mt. Moon and Cerulean City.
+- Clefable	  - evolved Clefairy (requires Moon Stone).
+- Vulpix (B)	  - found near Cinnabar Island, Routes 7 and 8.
+- Ninetales (B) - evolved Vulpix (requires Fire Stone).
+- Jigglypuff    - found near Route 3.
+- Wigglytuff	  - evolved Jigglypuff (requires Moon Stone).
+- Zubat		  - found in most caves.
+- Golbat	  - evolved Zubat (L22).
+- Oddish (R)	  - found almost everywhere!
+- Gloom (R)     - evolved Oddish (L21).
+- Vileplume (R) - evolved Gloom (requires Leaf Stone).
+- Paras 	  - found near Mt. Moon and Safari Zone.
+- Parasect 	  - evolved Paras (L24).
+- Venonat	  - found near Routes 12 through 15.
+- Venomoth	  - evolved Venonat (L31).
+- Diglett	  - found in Diglett's Cave.
+- Dugtrio	  - evolved Diglett (L26).
+- Meowth (B)    - found in Routes 5 through 8.
+- Persian (B)   - evolved Meowth (L28).
+- Psyduck	  - found near Routes 24 and 25.
+- Golduck	  - evolved Psyduck (L33).
+- Mankey (R)    - found in Routes 5 through 8.
+- Primeape (R)  - evolved Mankey (L28).
+- Growlithe (R) - found in Routes 7 and 8, and Cinnabar Island.
+- Arcanine (R)  - evolved Growlithe (requires Fire Stone).
+- Poliwag	  - found almost everywhere with water!
+- Poliwhirl	  - evolved Poliwag (L25).
+- Poliwrath	  - evolved Poliwhirl (requires Water Stone).
+- Abra	   	  - found near Celadon City and Routes 24 and 25.
+- Kadabra	  - evolved Abra (L16).
+- Alakazam	  - evolved Kadabra (must be traded to change).
+- Machop	  - found near Victory Road and Route 10.
+- Machoke	  - evolved Machop (L28).
+- Machamp	  - evolved Machoke (must be traded to change).
+- Bellsprout (B)- found almost everywhere!
+- Weepinbell (B)- evolved Bellsprout (L21).
+- Victreebell(B)- evolved Weepinbell (requires Leaf Stone)
+- Tentacool	  - found almost everywhere!
+- Tentacruel	  - evolved Tentacool (L30).
+- Geodude	  - found in Mt. Moon and Rock Tunnel.
+- Graveler	  - evolved Geodude (L25).
+- Golem 	  - evolved Graveler (must be traded to change).
+- Ponyta	  - found near Cinnabar Island.
+- Rapidash	  - evolved Ponyta (L40).
+- Slowpoke	  - found almost everywhere!
+- Slowbro	  - evolved Slowpoke (L37).
+- Magnemite	  - found near Cerulean City and Route 10.
+- Magneton	  - evolved Magnemite (L30).
+- Farfetch'd	  - found near Vermillion City.
+- Doduo	  	  - found near Routes 16 through 18.
+- Dodrio	  - evolved	Doduo (L31).
+- Seel          - found near Cinnabar Island and Seafoam Island.
+- Dewgong	  - evolved Seel (L34).
+- Grimer	  - found near Cinnabar Island.
+- Muk	   	  - evolved Grimer (L38).
+- Shellder	  - found near Routes 6, 11, 19, 21.
+- Cloyster	  - evolved Shellder (requires Water Stone).
+- Gastly	  - found near Pokemon Tower.
+- Haunter	  - evolved Gastly (L25).
+- Gengar	  - evolved Haunter (must be traded to change).
+- Onix	   	  - found near Victory Road and Route 10.
+- Drowzee	  - found near Route 11.
+- Hypno		  - evolved Drowzee (L26).
+- Krabby	  - found almost everywhere!
+- Kingler	  - evolved Krabby (L28).
+- Voltorb	  - found near Route 9.
+- Electrode	  - evolved Voltorb (L30).
+- Exeggcute	  - found near Safari Zone.
+- Exeggutor	  - evolved Exeggcute (requires Leaf Stone).
+- Cubone	  - found near Pokemon Tower.
+- Marowak	  - evolved Cubone (L28).
+- Hitmonlee	  - found in Saffron City.
+- Hitmonchan	  - found in Saffron City.
+- Lickitung	  - found near Route 18.
+- Koffing	  - found near Cinnabar Island.
+- Weezing	  - evolved Koffing (L35).
+- Rhyhorn	  - found near Safari Zone.
+- Rhydon	  - evolved Rhyhorn (L42).
+- Chansey	  - found near Safari Zone and Cerulean City.
+- Tangela	  - found near Cinnabar Island and Route 21.
+- Kangaskhan	  - found near Safari Zone.
+- Horsea	  - found near most water zones.
+- Seadra	  - evolved Horsea (L32).
+- Goldeen	  - found almost everywhere!
+- Seaking	  - evolved Goldeen (L33).
+- Staryu	  - found near most water zones.
+- Starmie	  - evolved Staryu (requires Water Zone).
+- Mr. Mime	  - must trade with in-game character.
+- Scyther (R)	  - found near Safari Zone and Celadon City.
+- Jynx	  	  - found in Cerulean City (trade for Poliwhirl).
+- Electabuzz (R)- found in Power Plant.
+- Magmar (B) 	  - foind near Cinnabar Island.
+- Pinsar (B)	  - found near Celadon City and Safari Zone.
+- Tauros	  - found near Safari Zone and Route 18.
+- Magikarp	  - found near most water zones.
+- Gyrados	  - evolved Magikarp (L20).
+- Lapras	  - found near Saffron City.
+- Ditto 	  - found near Route 13 through 15, 23, 24 and Victory Road.
+- Eevee	  - found in Celadon City.
+- Vaporeon	  - evolved Eevee (requires Water Stone).
+- Jolteon	  - evolved Eevee (requires Thunder Stone).
+- Flareon	  - evolved Eevee (requires Fire Stone).
+- Porygon	  - found in Celadon City.
+- Omanyte	  - found in Cinnabar Island.
+- Omastar	  - evolved Omanyte (L40).
+- Kabuto	  - found in Cinnabar City.
+- Kabutops	  - evolved Kabuto (L40).
+- Snorlax	  - found near Routes 12 and 16.
+- Articuno	  - found on Seafoam Island.
+- Zapdos	  - found in Power Plant.
+- Moltres	  - found on Victory Road.
+- Dratini	  - found near Celadon City.
+- Dragonair	  - evolved Dratini (L30).
+- Dragonite	  - evolved Dragonair (L55).
+- Mewtwo	  - found near Route 24 in the water cave
+- Mew            - Fly glitch only
