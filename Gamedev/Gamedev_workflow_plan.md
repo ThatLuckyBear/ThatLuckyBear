@@ -57,3 +57,5 @@ This flow is specific to creating narrative and physical writing of needed text
       - how much does the player interact with the story (many choices, illusion of choice?)
       - where will the player be when things happen and how do we get them there?
     - Refine ideas into a more cohesive outline and start to weave it into gameplay to see if any programming needs to be done to make the narrative function
+
+kiloheart bit crush - makes quality lower to give retro feel to audio: https://kilohearts.com/products/bitcrush
