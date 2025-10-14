@@ -1,0 +1,1 @@
+writing random dialogue that I think of that doesn't have a place (yet) but I didn't want to forget. 
