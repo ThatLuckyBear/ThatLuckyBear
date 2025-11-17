@@ -1,5 +1,10 @@
 Steal whatever you like. Ideas can't be constrained by laws or promises or magic. 
 
+# Book/Narrative Ideas
+
+## bad monkey's paw
+monkey's paw but the unforseen consequences aren't substantial and it feels really self conscious about it's weak curses until someone uses it to do a lot of really good shit and arent punished. Monkey paw feels fulfilled and finally accepts itself. Then it hits curse puberty and the final wish of the good person invokes the consequences of all the previously unpunished wishes. 
+
 # Video Game Ideas
 
 ## Crow With a Coin
