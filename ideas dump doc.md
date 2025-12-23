@@ -89,3 +89,38 @@ The concept is fairly simple. It's an "isekai" or "out of this world" scenario w
   - Game is framed as "you can introduce capitalism to this world and prosper!"
     - this is the bad ending but its not obvious that you're the bad guy until it's too late
   - Player can pain stakingly work within and embrace the culture and it's a 10x harder game but the good ending is locked behind this path
+
+## this is not made with ai
+
+blade runner meets ace attorney. you play as a museum curator turned detective who is sniffing out an artificial intelligence and is tasked with finding the "real" art among the fakes stating "this is not made with ai" as you do so.
+
+
+#### gameplay
+phases style, "investigate" first collecting clues and then "accost" when you think you know the answer. the game does not tell you if the answer is correct and there are varying instances of complexity that can obfuscate the answer. getting the correct answer changes the outcome of the cases you're working but "right" is entirely subjective. 
+during investigations the detective will talk with many people. they make bribe, threaten, influence, lie, etc to try and influence player decisions. sometimes these lies can be contradicted by evidence, sometimes they can't. 
+when accosting the player uses gathered evidence to "prove" whether something is made with ai, sometimes pointing out details or showing a comparison.
+
+
+#### presentation
+this is not ai will look as if it's been created with ai and will even have blatant inconsistencies that bleed into the story in ways that make the player question whether the game itself was made with ai or whether it is cleverly imitating some of those expectations.
+
+#### themes
+the theme is good and evil and how the impact of a choice is more important than whether it's "correct." Giving the "wrong" answer to preserve someone's pride or giving the "right" answer under massively dubious circumstances as well as the theme of "what is art" - an unanswerable question that can never be objective.
+
+#### narrative/story/ideas for story beats
+sometimes evidence is concrete sometimes it's not. the player has authority and what they say usually goes whether people like it or not. every choice has consequences for individuals involved but the broader narrative of the players journey is narrow.
+as you play a player will notice inconsistencies and things that seem off. as you complete more cases there comes a turning point where the player character is forced to contend with their own existence as an entity. what am I? players can choose whether to act on, or ignore, this larger problem but it will come to a head whether they like it or not.
+sometimes when a player chooses an option, the opposite is chosen for them, sometimes they say things out loud that differ greatly than their internal monologue just before. sometimes evidence changes or isn't there anymore sometimes new evidence appears from thin air. 
+the character begins to fight back against these internal inconsistencies and the game splits into "this is not ai" and "this is AI" narrative branches. if players give in and replenish control the consequences of their case outcomes become more and more horrifying. if they resist the narrative becomes a strong of self imposed cases that the player follows to find the truth about themselves and what's happening to them. 
+
+endings:
+A path (ignore inconsistencies)
+truth seeker - follow every lead no matter what and never make emotional choices, 
+kind hearted - choose the options that create the softest outcomes for those involved but at your own expense
+practical - make selfish choices at the expense of others
+
+B path
+demon Hunter - attack the worst people in each case at every opportunity 
+machine - give in to every influence
+human? - resist every single attempt to control
+
