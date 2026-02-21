@@ -29,3 +29,5 @@
 - [strategywiki with lots of detailed info for stats during encounters](https://strategywiki.org/wiki/Pok%C3%A9mon_Red_and_Blue/Moves)
 - [reddit thread asking for detailed info on pokemon stats](https://www.reddit.com/r/pokemonchallenges/comments/kt5u4d/is_there_a_list_somewhere_with_the_gen_1_trainer/)
 - [gamefaqs walkthrough with lots of detailed info on pokemon stats including wild](https://gamefaqs.gamespot.com/gameboy/367023-pokemon-red-version/faqs/64175/mt-moon)
+- [gen 1 stat calculator](https://www.pycosites.com/pkmn/stat_gen1.php)
+- [GitHub of decompiled Red/Blue code](https://github.com/pret/pokered)
