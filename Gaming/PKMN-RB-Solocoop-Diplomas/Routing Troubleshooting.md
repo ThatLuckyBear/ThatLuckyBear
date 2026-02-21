@@ -1,20 +1,31 @@
 # Routing Ideas
 - Catch Mew early and /use/ it
   - can use explosion to end fights early and use level underflow to hit level 100 and ensure you can reach any part of a fight without having to worry about RNG
+
 - Skip badges/hall of fame by getting mewtwo via fly glitch?
+
   - Any other pokemon that require badges/hall of fame? What is in the cave?
+
   - Need to discover which is fastest but skipping hall of fame is almost certainly faster 
+
 - Skip most catching until you have master/ultra balls + fly
+
 - Missingno
   - If any of the missingno transform into a useful pokemon if caught: 1 does this properly add to the pokedex? 2 can they be traded?
   - Routing Missingno encounters?
   - Can you use whiteout to force more fly glitch missingnos?
+
 - Abra/teleport backup
   - Trade to get mew and grab the teleport TM one east of cerulean after getting cut 
+
 - Consider paralyze heals for rock tunnel oddish
+
 - Compare time for Agatha Porygon vs “Nugget dupe> buy coins”
+
 - Can Moltres be manip’d for fly encounters? if so what values?
+
 - Faster to get free Eevee or triple reset off Samantha?
+
 - Can you use psychic to lower the special of a mon to force a different fly glitch encounter?
 
 
@@ -22,6 +33,7 @@
 - Dupe Pokemon Doesn’t Register to Pokedex
   - Trade required? 
   - If encountered does the pokedex show it as captured?
+
 - Hard to obtain pokemon that will require trade/dupe/glitch
   - Bulbasaur (+evos)
   - Charmander (+evos)
@@ -242,10 +254,14 @@ Execution Tips & Strategy:
   - More in depth info on fly glitch ([link](http://www.psypokes.com/forums/viewtopic.php?f=5&t=26608))
 More Pokemon to target: 
 - Wild pokemon how many of them can be used to catch stuff that normally you’d miss? How to go about this?
-  - Check with ditto?
-  - Resources online that outline the spread of pokemon per route?
-  - Probably need to do this by hand
+  - use decompiled r/b to discover potential wild Pokemon
+          - [base stats](https://github.com/pret/pokered/tree/master/data/pokemon/base_stats)
+          - [encounters maps to find levels and encounter type and rates](https://github.com/pret/pokered/tree/master/data/wild/maps)
+          
   - wild pidgey outside forest can make Nidoking appear!
+- find special stat range with [stat calc](https://www.pycosites.com/pkmn/stat_gen1.php) by finding 0DV of lowest level and 15DV of highest level
+- check everything in between too to see if there's DV gaps since I don't understand the formula 
+- these ranges might be mappable and you can make an index map for all wild areas (big project but can be streamlined!)
 Special Stat:
   - The encountered pokemon from the glitch will be determined by the special stat of the last pokemon encountered.
   - Use a pokemon center very near the trainer you want to lift the special off of
