@@ -23,11 +23,15 @@ seasons change what kinds of market items are available. Rainy days in the sprin
 as the game progresses players will find the world expanding and new events tied to unique marketplaces and NPCs. Things change with time, shops may go out of business after a few years or NPCs may move from one market to another. Each year brings new surprises, some happy and some sad. some can be resolved by player involvement and some are just part of the world moving through time the player can be witness to.
 
 ### Game mechanics
+
 #### Bread Journal
 Players are encouraged to hunt down and try every kind of bread in the game. Over 400 kinds of bread!! (idk how many breads there are.) Players have a "Bread Journal" which tracks each kind of bread they've eaten with timestamped entries for each time they've eaten it. This bread journal also has partial entries of bread they've seen others eating in public, with more details about where they might get their own it if they go out of their way to talk with an NPC about it. The Bread journal also has mysterious blank entries that can be investigated individually as part of a larger quest.
 
 #### fashion journal
 Much like the bread journal the fashion journal is continually filled with fashion items including hair makeup and clothes. Unlike the bread journal the fashion journal does not require you to purchase an article to complete its entry. This way you can keep your closet uncluttered and functional while still completing the journal. Players can learn more about fashion in the same interactions as with the bread journal, seeing and talking with those who have them on, or when they're on display to learn more. Special mysterious fashion articles are again waiting to be discovered and investigated. 
 
-#### Friendly Chats
-Friends are made during transportation. Your fashion and bread choices may inspire someone to approach you. 
+#### Gossip Grapevine
+While out you can talk with NPCs. Your fashion or meal might inspire NPCs to approach you either on transportation, while you explore, or while you're enjoying your meal. Through these chats you can meet important characters who are involved in small or broader narrative beats as well as passerby who just want to tell you they love your shoes. Interactions might start a quest, give players info for journals, or introduce new concepts or pursuits. Players can also approach NPCs anytime and get some basic information about their meal or fashion, or just tell the NPC that they love their shoes. 
+
+#### Quests
+Bread Quest is not just about questing for bread, sometimes the bread is a quest in itself. merchants may need ingredients, help making deliveries or more personal assistance. players develop relationships 
