@@ -35,6 +35,11 @@ While out you can talk with NPCs. Your fashion or meal might inspire NPCs to app
 
 #### Quests
 Bread Quest is not just about questing for bread, sometimes the bread is a quest in itself. merchants may need ingredients, help making deliveries or other kinds of requests. Quests will always result in a reward ranging from journal updates all the way to access speciality breads or fashion. Some quests are part a series that lead to a larger reward. In later years new quests become available like helping citizens you've gotten to know do things like open a new bread stand, prevent their store from closing, or help them work through some kind of life challenge.
+*Quest Ideas:*
+- look after sour dough starter for a few weeks "feeding it" every few days
+- small "I want this kind of flavor/texture" puzzles that rewards a well filled journal
+- fashion/styling contests 
+
 
 ## Development Ideas
 To map development many decisions need to be made. Everything here is in flux until prototyping stages narrow to the final choices.
