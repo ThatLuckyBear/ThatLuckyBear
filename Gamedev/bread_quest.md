@@ -1,6 +1,6 @@
 # Bread Quest
 
-### concept
+## concept
 Bread Quest is a game that empowers the player to fulfill the ultimate modern power fantasy. Dress up, be pretty, and eat breads.
 
 ### setting
@@ -35,3 +35,14 @@ While out you can talk with NPCs. Your fashion or meal might inspire NPCs to app
 
 #### Quests
 Bread Quest is not just about questing for bread, sometimes the bread is a quest in itself. merchants may need ingredients, help making deliveries or other kinds of requests. Quests will always result in a reward ranging from journal updates all the way to access speciality breads or fashion. Some quests are part a series that lead to a larger reward. In later years new quests become available like helping citizens you've gotten to know do things like open a new bread stand, prevent their store from closing, or help them work through some kind of life challenge.
+
+## Development Ideas
+To map development many decisions need to be made. Everything here is in flux until prototyping stages narrow to the final choices.
+
+### gamefeel
+Movement is deliberate, smooth, and efficient. Walking should feel fast enough without needing a sprinting state. Imagine a long intentional stride that feels like the player is moving with intention but not hurrying.
+Menus should be snappy but in universe. Journal browsing come from a bag (opening instantly but character pulls their journal from a bag to look at it. when browsing a store you look in the bake case or a print menu. Fashion preview is handled by seeing into player character's imagination as they look through the options. 
+
+
+### graphics style
+I envision a 3d world with simple fabric physics 
