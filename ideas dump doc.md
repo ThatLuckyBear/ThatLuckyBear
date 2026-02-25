@@ -124,3 +124,6 @@ demon Hunter - attack the worst people in each case at every opportunity
 machine - give in to every influence
 human? - resist every single attempt to control
 
+# Simple Ideas that could be anything
+#### Mage Monk
+Idea is rooted in a game world but could be in anything. A mage is casting a spell and a swordsman says "He's a caster! He's weak at close range, rush him!" and the swordsman dodges a spell and closes the gap to attack. At point blank range with the swordsman raising his weapon for the killing blow the mage smirks. From under his robe comes a boulderlike fist connected to a concerningly thick arm. In slow motion the mage gently touches the massive fist into the swordsman's solar plexus and... ||BOOM|| a gust of wind blows back the mage's robes to show a freaky muscleman. His hat billows backwards as well barely held to his head by a strained string under his chin. The one inch punch sends the swordsman flying past his fellow attackers. The mage begins to walk slowly toward them and they start to back away, preparing to retreat. The mage waggles his finger and gestures for them to look behind them with a tilt of his chin. As they turn they see a wall of fire is moving slowly towards them, and the mage, closing off their escape route. 
