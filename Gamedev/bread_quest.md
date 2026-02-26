@@ -27,47 +27,53 @@ seasons change what kinds of market items and events are available. Rainy days i
 as the game progresses players will find the world expanding and new events tied to unique marketplaces and NPCs. Things change with time, shops may go out of business after a few years or NPCs may move from one market to another. Each year brings new surprises, some happy and some sad. some can be resolved by player involvement and some are just part of the world moving through time the player can be witness to.
 
 ## Game mechanics
-Some mechanics listed are core to the idea while others are supplementary. Core mechanics are needed as the game wouldn't really be "the game" without them. Supplementary ideas are more like bonus mechanics that are inteded to add flavor or fun to the experience. These categories are in flux like most everything else.
+Some mechanics listed are core to the game concept while others are supplementary. Core mechanics are needed as the game wouldn't really be "the game" without them. Supplementary ideas are more like bonus mechanics that are intended to add flavor or fun to the experience. These categories are in flux like most everything else.
 
-### Time
-Time passes in game at a fairly leisurly pace. Time can be skipped by relaxing or reading pretty much anywhere players can sit down. Menus do not pause the game and time will pass while players are having conversations. Players might get interrupted if they're holding up a line, or conversations might end if players idle too long. A separate "PAUSE" is available but you can't engage with the systems during that time. Players can also assume manual control of time if needed and can set the time to move more slowly or quickly if it helps them enjoy the game more. Gameplay happens mostly from 8am to 11pm but players can "get up early" and "stay up late" if they have a good reason to!
+### Time (core)
+Time passes in game at a fairly leisurly pace. Time can be moved more quickly by relaxing or reading (books/mail) pretty much anywhere players can sit down. Menus do not pause the game and time will pass while players are having conversations. Players might get interrupted if they're holding up a line, or conversations might end if players idle too long. A separate "PAUSE" is available which stops time properly but you can't engage with the game during that time. Players can also make adjustments to the passage of time if needed, setting the time to move more slowly or quickly if it increases enjoyment. Gameplay happens mostly from in game times of 8am to 11pm but players can "get up early" and "stay up late" if they have a good reason to!
 
-### Journal
-The player keeps track of quests, their breads, fashion, and more with their journal. Nested within this menu is so many things the player will engage with constantly. Also players are encouraged to take notes in the journal but it's entirely optional.
+### Journal (core)
+The player keeps track of quests, breads, fashion, and more with their journal. Players will spend a lot of time navigating this menu but it shouldn't vy for the players attention. No notifications or bubbles to pull players away from what they're doing. Players are encouraged to take notes in the journal but it's entirely optional.
 
 ### Eating Bread (core)
-Eating in Bread Quest is not about hunger it's about exploration and progression. Learning about breads and finding your favorites can be fun but the information also helps you engage with npcs to expand your access to new areas, shops, and more.
+Eating in Bread Quest is not about hunger it's about satisfaction, exploration, and progression. Learning about breads and finding your favorites can be fun and the information also helps you engage with the world. Sometimes just enjoying a new bread can expand your access to new areas, shops, and more.
 
 ### Bread Journal (core)
-Players are encouraged to hunt down and try every kind of bread in the game. Over 400 kinds of bread!! (idk how many breads there are.) Players have a "Bread Journal" which tracks each kind of bread they've eaten with timestamped entries for each time they've eaten it. This bread journal also has partial entries of bread they've seen others eating in public, with more details about where they might get their own it if they go out of their way to talk with an NPC about it. The Bread journal also has mysterious blank entries that can be investigated individually as part of a larger quest.
+Players are encouraged to hunt down and try all kinds of bread in the game. Over 400 kinds of bread!! (idk how many breads there are but bigger number better game?) Players have a "Bread Journal" which tracks each kind of bread they've eaten with timestamped entries for each time they've eaten it. This bread journal also has partial entries of bread they've seen others eating in public. Players can get more details about where they can try these breads if they go out of their way to talk with an NPC about it. The Bread journal also has mysterious blank entries that can be investigated individually as part of a larger quest.
 
 ### Dress Up (supplementary)
-Players have a wardrobe they can access anytime to change their clothes. Flowy dresses, blouses, comfy pants, and big hats are the main intended style but bellbottoms, overalls, jackets, and other clothing styles as well. Game events will encourage players to explore styles or aesthetics. 
+Players have a wardrobe they can access anytime to change their clothes. Flowy dresses, blouses, comfy pants, and big hats are the default for style but options go well beyond those basic "cottage core" vibe . Game events will encourage players to explore styles or aesthetics and players will constantly discover many new clothes to express themselves.
 
 ### fashion journal (supplementary)
-Much like the bread journal the fashion journal is continually filled with fashion items including hair makeup and clothes. Unlike the bread journal the fashion journal does not require you to purchase an article to complete its entry. This way you can keep your closet uncluttered and functional while still completing the journal. Players can learn more about fashion in the same interactions as with the bread journal, seeing and talking with those who have them on, or when they're on display to learn more. Special mysterious fashion articles are again waiting to be discovered and investigated. 
+Much like the bread journal the fashion journal is continually filled with fashion items including hair makeup and clothes. Unlike the bread journal the fashion journal does not require you to purchase an article to complete its entry. This way the closet can stay uncluttered and functional while still completing the journal. Players can learn more about fashion in the same style of interactions as the bread journal. You can talk to NPCS about their style or just inspect their style from afar. Store fronts have clothing as well that can expand journal entries. Special mysterious fashion articles are again waiting to be discovered and investigated. 
 
 ### Exploring the Grapevine (core)
 While out you can talk with NPCs. Your fashion or meal might inspire NPCs to approach you either on transportation, while you explore, or while you're enjoying your meal. Through these chats you can meet important characters who are involved in small or broader narrative beats as well as passerby who just want to tell you they love your shoes. Interactions might start a quest, give players info for journals, or introduce new concepts or pursuits. Players can also approach NPCs anytime and get some basic information about their meal or fashion, or just tell the NPC that they love their shoes. 
 
 ### Furniture (supplementary)
-While not as customizable you can get new furnishing and display it in your home. Things like a new mirror, an extended wardrobe, a nightstand, a vanity, etc. Some of these furnishings are attached to new mechanics like being able to do your nails or hair at home instead of a salon.
+While not as customizable you can get new furnishing and display it in your home. Things like a new mirror, an extended wardrobe, a nightstand, a vanity, etc. Some of these furnishings are attached to mechanics like being able to do simple nail or hair styles at home instead of always going to the salon. 
 
 ### Calendar (core)
-Instead of having an automatic or wildly complex calendar players get to handle it as part of their gameplay. It will be in their journal so they can access it and edit it whenever they'd like. Players will unlock stickers they can use to mark events on dates as they learn them and can even create "auto" stickers by assigning a sticker type a stock "category" and choosing an option to add those stickers automatically when discovered. Players can make their own legend, but only stock categories can be automated. These stickers can be expanded through gameplay and will help players keep track of individuals they're trying to meet up with more than once. An NPC might say "I'm here at the cafe on Tuesdays." and players can create a repeating sticker for that day labeled "Jack at Wisp Cafe on Tuesdays." Players can also use stickers to mark a memorable occaision with a note for a single sticker instead of assigning a sticker to a category in the legend.
+Instead of having an automatic or wildly complex automated event calendar players handle it in gameplay. It will be in their journal so they can access it and edit it whenever they'd like. Players will unlock stickers they can use to mark events on dates as they learn them. Players can even create "auto" stickers by assigning a sticker type from premade categories and enabling the option to add those stickers automatically when discovered. Players can make their own legend, but only premade categories can be automated. Available stickers can be expanded through gameplay.
+- Examples:
+  - An NPC might say "I'm here at the cafe on Tuesdays." and players can create a repeating sticker for that day labeled "Jack at Wisp Cafe on Tuesdays."
+  - Players can put a sticker with a note for an opening day of a new store that they saw from a flyer
+  - Players can also use stickers to mark a memorable occaision with a note for a single sticker instead of assigning a sticker to a category in the legend.
 
 ### Quests (core)
-Bread Quest is not just about questing for bread, sometimes the bread is a quest in itself. merchants may need ingredients, help making deliveries or other kinds of requests. Quests will always result in a reward ranging from journal updates all the way to access speciality breads or fashion. Some quests are part a series that lead to a larger reward. In later years new quests become available like helping citizens you've gotten to know do things like open a new bread stand, prevent their store from closing, or help them work through some kind of life challenge.
+Bread Quest is not just about questing for bread, sometimes the bread was the quest all along. Merchants may need ingredients, help making deliveries or other kinds of requests. Quests will always result in a reward like currency, journal updates, or access to speciality breads or fashion. Some quests are part a series that lead to a larger reward or narrative payoff. In later years new quests become available like helping citizens. Some might want to open a new bakery, some may want to create a delivery service or open a bread stand by importing breads from other markets. Some quests might be about preventing a store from closing. Others might be focused on an NPCs personal challenges.
 *Quest Ideas:*
 - look after sour dough starter for a few weeks "feeding it" every few days
 - small "I want this kind of flavor/texture" puzzles that rewards a well filled journal
 - fashion/styling contests
+- connecting merchants with suppliers that help them expand their offerings
+- spreading an idea to make a style of bread popular
 
 ### Progression
-To keep things interesting and give players a "point" things need to change with time. Progression will add new fun things to the game. Here's a few ideas.
+To keep things interesting and give players a "point" things need to change with time. Progression will add new fun things to the game. Many will be automatic but some can be influenced by player input Here's a few ideas.
 - discover New Areas
 - discover New Shops
-- Rebrands of old shops (player influenced!)
+- Rebrands of old shops (player influenced?)
 - access to new wardrobe options
 - access to a bicycle
 - new customization options
