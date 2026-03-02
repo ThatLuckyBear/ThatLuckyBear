@@ -7,6 +7,16 @@ monkey's paw but the unforseen consequences aren't substantial and it feels real
 
 # Video Game Ideas
 
+New game idea just dropped (I thought of it 3 minutes ago.)
+
+## Kitty Burgler
+
+During the day you run a kitty cat café. At night you steal precious jewels and art from the collective of landlords who are trying to put you out of business by raising your rent so they can build an empty office building.
+
+The daytime segments is balancing selling tea and coffee with fencing stolen goods while not getting caught. Nighttime segments are puzzles that are solved by directing the kitties from the cafe with a laser pointer. All the cats have different abilities and you get new ones as you go.
+
+The money numbers start kind of normal but quickly go into the millions and billions and the game culminates in the landlords going broke because you stole and fenced all their private jets and rocket ships to pay your $4,504,500,237.40 rent for the month. 
+
 ## Crow With a Coin
 a juvenile crow has a note tied to it's leg and a single coin. They must journey all the way to the alchemist to make an order for their master, a somewhat delusional witch. Emboldened with a pat on the head and the witches confidence in them the small crow starts their journey. There's only one problem, the coin is too heavy for them to fly with it in their beak.
 Puzzle game that tasks a player to get their coin past obstacles by solving convouluted social and/or physics based puzzles. Players will set down their coin somewhere safe and figure out how to communicate with people and/or animals who don't speak crow, get past troubling terrain that threatens to dislodge the coin, or avoid prowling thieves and predators in the night. 
