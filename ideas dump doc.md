@@ -7,8 +7,6 @@ monkey's paw but the unforseen consequences aren't substantial and it feels real
 
 # Video Game Ideas
 
-New game idea just dropped (I thought of it 3 minutes ago.)
-
 ## Kitty Burgler
 
 During the day you run a kitty cat café. At night you steal precious jewels and art from the collective of landlords who are trying to put you out of business by raising your rent so they can build an empty office building.
