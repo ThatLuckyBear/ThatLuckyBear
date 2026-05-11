@@ -2,6 +2,9 @@ Steal whatever you like. Ideas can't be constrained by laws or promises or magic
 
 # Book/Narrative Ideas
 
+## I got iseikaied into a really fun place but I miss my mom
+iseikai stories often take the cynical route of assuming being whisked off to another world is a good thing. What if it was nice but the horror sets in as the character realizes they can't leave. that their new life is a facade that seals off the worst parts of life, but it also seals off the best parts. the depth of the new world is too shallow and slowly even the most mundane things about the real world becomes a source of unfulfilled yearning. having all your problems solved for you doesn't make anything better and the tradeoff isn't even remotely worth it.
+
 ## bad monkey's paw
 monkey's paw but the unforseen consequences aren't substantial and it feels really self conscious about it's weak curses until someone uses it to do a lot of really good shit and arent punished. Monkey paw feels fulfilled and finally accepts itself. Then it hits curse puberty and the final wish of the good person invokes the consequences of all the previously unpunished wishes. 
 
