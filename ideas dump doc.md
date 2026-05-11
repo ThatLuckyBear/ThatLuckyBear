@@ -12,6 +12,27 @@ monkey's paw but the unforseen consequences aren't substantial and it feels real
 
 # Video Game Ideas
 
+## Galaga Souls
+
+soulslike where you can have 2, 3 or 4 or more copies of yourself running along side you if you can recapture your soul pile from the enemy that killed you. The rules would be:
+- you can't make a copy if you have 0 souls
+- strength of a copy increases based on the number of souls the player held at time of death
+- you can't reclaim the souls until you dismiss the copy or they die in combat and a player picks up their soul pile before dying 
+- if a copy is defeated the souls drop at the location of their death and players can pick up the souls. if the player dies before picking up the souls they are lost and will not count toward any new copy from the current death.
+- a copy cannot be dismissed during combat but will add the total of their souls to the players inventory immediately
+- copies will duplicate your stats and gear at time of death
+- copies can heal themselves if they have a healing skill or the player can heal them too
+- if the player dies while copies are alive the copies will go dormant where they are when the player died and reactive when the player gets close again.
+
+I'd like for this mechanic to be massively exploitable so leveling up should be a flat bonus to stats so that builds are enabled and disabled fluidly. An equip slot for "class" will adjust stats while restricting gear a player has access to instead of stat and level barriers. To add depth multi classing will be achieved through some kind of forging, quest lines, or milestones like "killed 100 enemies with mage talisman equipped." To facilitate build swapping to make copies with specific builds there should be saved loadouts that can be selected at safe spots. Depending on play testing if this is annoying then maybe players could choose a loadout for the copy when it's time to create it but I think that would be a bit outside the intention of the mechanic. 
+
+To make copies even more interesting a gambit system like ff12 could be implemented where you can use items to "program" the decision flowchart or "ai" of the copies. This might be a bit much though and would have to be thoroughly tested to maintain the fun factor.
+
+As for limitations I'd like for players to be able to make a substantial number of copies but limits will depend on the programming and I'm no programmer. That said optimizing for number of copies should be at the top of the stack at all points of development and sacrifices for graphics and otherwise should be made to that end. I want both ends of the spectrum to be viable though so balance will be centered around making a large number of weak copies being roughly equal to a single max power copy. If there's going to be a max power then there should be a calculus that refunds the player a chunk of "unutilized" souls if they had more souls when they died than the copy could take advantage of. 
+
+I like to imagine players clearing areas with an entire army of copies, dismissing them just before a boss so they can make an extra powerful copy if the boss takes them out. 
+
+
 ## Kitty Burgler
 
 During the day you run a kitty cat café. At night you steal precious jewels and art from the collective of landlords who are trying to put you out of business by raising your rent so they can build an empty office building.
