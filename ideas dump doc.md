@@ -12,6 +12,32 @@ monkey's paw but the unforseen consequences aren't substantial and it feels real
 
 # Video Game Ideas
 
+## You can go back, but it's not so simple
+what if in dark souls the bosses were the bonfire? 
+In YCGBBINSS the player takes control of a time traveller who's job is to secure a future that is safe from an impending apocalypse or 12. The player travels into the future and battles their way through a future where the worst has come to pass to learn how to stop it from happening. There's one problem though, in order for the information to be useful you need to go back and every enemy you made on your way up is waiting with baited breath for you to come back down. Fight your way back to the time machine and return to "now" to change the future hopefully for the better. To be sure you'll go back to the future to check, hopefully it won't be too hard to get back this time. 
+
+lore/tech:
+
+the time machine itself is in a very specific location and can only be used by someone who is in the exact same location at the point in the past and present to travel through time, like a save point.
+
+the player is a scientist but also a total badass. they've used the time tech to create a hyperbolic time chamber that lets them train indefinitely. 
+
+the enemy is presented as a natural disaster but over time you learn the enemy is actually a nihilist who found the time machine at an undisclosed time in the future and is using the same machine to put the world on the path of destruction. 
+
+time travel rules and passage of time:
+- when the time traveller dies in the future they don't come back to the present.
+- The time machine can only operate once every hour. (This means 1 hour passes every time the player dies, and 1 hour passes every time the player passes a level too.)
+- Players can't go back further than when they left from. to be safe when traveling back it's best practice to aim for 5 minutes ahead of your earliest time to avoid issues.
+
+gameplay and design:
+pure platforming. think Celeste meets shadow of the Colossus. Getting to the end of the level starts the journey back to the time machine and introduces new and often unexpected challenges to the return trip.
+
+story is shown through cutscenes at particular moments. 
+
+each death adds 1 hour to the clock when the player hits a certain number of deaths the player loses (bad ending) Different endings will depend on what day/time it is when you complete the game.
+
+much like the silly title the apocalyptic events are silly too. skeleton armies, alien invasions, etc.
+
 ## Galaga Souls
 
 soulslike where you can have 2, 3 or 4 or more copies of yourself running along side you if you can recapture your soul pile from the enemy that killed you. The rules would be:
