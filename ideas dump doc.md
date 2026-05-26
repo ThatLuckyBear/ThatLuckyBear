@@ -32,9 +32,9 @@ time travel rules and passage of time:
 gameplay and design:
 pure platforming. think Celeste meets shadow of the Colossus. Getting to the end of the level starts the journey back to the time machine and introduces new and often unexpected challenges to the return trip.
 
-story is shown through cutscenes at particular moments. 
+each death and success adds 1 hour to the clock when the player hits a certain number of deaths the player loses (bad ending) Different endings will depend on what day/time it is when you complete the game.
 
-each death adds 1 hour to the clock when the player hits a certain number of deaths the player loses (bad ending) Different endings will depend on what day/time it is when you complete the game.
+story is shown through cutscenes at particular moments. 
 
 much like the silly title the apocalyptic events are silly too. skeleton armies, alien invasions, etc.
 
