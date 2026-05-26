@@ -14,7 +14,7 @@ monkey's paw but the unforseen consequences aren't substantial and it feels real
 
 ## You can go back, but it's not so simple
 what if in dark souls the bosses were the bonfire? 
-In YCGBBINSS the player takes control of a time traveller who's job is to secure a future that is safe from an impending apocalypse or 12. The player travels into the future and battles their way through a future where the worst has come to pass to learn how to stop it from happening. There's one problem though, in order for the information to be useful you need to go back and every enemy you made on your way up is waiting with baited breath for you to come back down. Fight your way back to the time machine and return to "now" to change the future hopefully for the better. To be sure you'll go back to the future to check, hopefully it won't be too hard to get back this time. 
+In YCGBBINSS the player takes control of a time traveller who's job is to secure a future that is safe from an impending apocalypse or 12. The player travels into and battles their way through a future where the worst has come to pass to learn how to stop it from happening. There's one problem though, in order for the information to be useful you need to go back and every enemy you made on your way up is waiting with baited breath for you to come back down. Fight your way back to the time machine and return to "now" to change the future hopefully for the better. To be sure you'll go back to the future to check, hopefully it won't be too hard to get back this time. 
 
 lore/tech:
 
