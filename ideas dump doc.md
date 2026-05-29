@@ -22,7 +22,8 @@ Santa Clause Inc. is a number go up/management game where you build the North Po
 these stats need to be balanced in order to have a successful Christmas and have a knock-on effect for concurrent Christmases.
 
 - population: how many elves are employed at the north pole and how many people there are on earth
-- - elves are needed to make toys and gather resources
+- - elves make toys and gather resources
+- - elves join the workshop when joy and satisfaction are high
 - - total population grows every year and can be shown as a ratio of believers vs non believers 
 
 - joy: how happy the population is about Christmas
@@ -42,16 +43,30 @@ these stats need to be balanced in order to have a successful Christmas and have
 jobs are all the things that need doing. Manage jobs to set up, scale and execute each Christmas.
 - production: making enough toys for Christmas is essential. Formulas calculate how many toys need to be made by Christmas, rate of manufacturing, and the resources being used in the process.
 - - believer population - naughty list x number of gifts = production goal by Xmas
-- - production goal / energy x # of worker elve s = elf production rate (EPR) 
-- - 
-- - assigning enough elves to make a rough 
+- - production goal / energy x # of elf population = elf production rate (EPR) (can be viewed as a differential that shows how ahead or behind schedule production is)
+- - under production lowers joy and satisfaction 
+- - over production lowers satisfaction and resources
 
-- delivery: similar to production but formulas calculate Santas to their 
+- delivery: similar to production but formulas calculate delivery time based on distances,number of Santas, and various other factors (weather, speed, sleigh max load)
 
+- gathering: each resource is gathered at a rate depending on how many elves are assigned to the job.
 
 ### tweakables:
 - naughty list threshold: by adjusting the sensitivity of naughty you can decrease the number of deliveries to improve "success" ratio at the expense of "joy"
-- number of gifts: you can give each believer more than one gift each Christmas 
+
+- number of gifts: you can give each believer more than one gift each Christmas. increase joy and increase believer spread 
+
+- elf employees
+
+- - elf pay and benefits
+
+- - elf job assignment
+
+- sleigh upgrades 
+
+- factory upgrade and expansion 
+
+
 
 ## You can go back, but it's not so simple
 what if in dark souls the bosses were the bonfire? 
