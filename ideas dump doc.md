@@ -38,15 +38,19 @@ these stats need to be balanced in order to have a successful Christmas and have
 - - resources are boosted individually by assigning elves to each 
 - - distributing too many elves to gathering decreases production 
 
-- production: making enough toys for Christmas is essential. Formulas calculate how many toys need to be made, how quickly they are being manufactured, and 
+### jobs
+jobs are all the things that need doing. Manage jobs to set up, scale and execute each Christmas.
+- production: making enough toys for Christmas is essential. Formulas calculate how many toys need to be made by Christmas, rate of manufacturing, and the resources being used in the process.
 - - believer population - naughty list x number of gifts = production goal by Xmas
 - - production goal / energy x worker elves = elf production rate (EPR) 
 - - 
 - - assigning enough elves to make a rough 
 
+- delivery: similar to production but formulas calculate Santas to their 
+
 
 ### tweakables:
-- naughty/nice threshold - by adjusting the sensitivity of what counts as naughty you can decrease the number of deliveries to improve "success" ratio at the expense of "joy"
+- naughty list threshold: by adjusting the sensitivity of naughty you can decrease the number of deliveries to improve "success" ratio at the expense of "joy"
 - number of gifts: you can give each believer more than one gift each Christmas 
 
 ## You can go back, but it's not so simple
