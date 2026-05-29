@@ -42,7 +42,7 @@ these stats need to be balanced in order to have a successful Christmas and have
 jobs are all the things that need doing. Manage jobs to set up, scale and execute each Christmas.
 - production: making enough toys for Christmas is essential. Formulas calculate how many toys need to be made by Christmas, rate of manufacturing, and the resources being used in the process.
 - - believer population - naughty list x number of gifts = production goal by Xmas
-- - production goal / energy x worker elves = elf production rate (EPR) 
+- - production goal / energy x # of worker elve s = elf production rate (EPR) 
 - - 
 - - assigning enough elves to make a rough 
 
