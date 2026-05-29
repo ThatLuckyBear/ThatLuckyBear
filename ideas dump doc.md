@@ -10,7 +10,44 @@ I imagine the story as a bit groundhogs day but the protagonist is one punch man
 ## bad monkey's paw
 monkey's paw but the unforseen consequences aren't substantial and it feels really self conscious about it's weak curses until someone uses it to do a lot of really good shit and arent punished. Monkey paw feels fulfilled and finally accepts itself. Then it hits curse puberty and the final wish of the good person invokes the consequences of all the previously unpunished wishes. 
 
+<!-------------------------------------------->
+
 # Video Game Ideas
+
+## Santa Claus Inc.
+
+Santa Clause Inc. is a number go up/management game where you build the North Pole from one small home into a Mega Facility. Coordinate Santa(s) getting around the entire world in one night and the necessary toy making and logistics to meet toy demand. The game tracks how stats that will influence how successful each Christmas is. Inspired lightly by the SNES Sim City game borrowing random and non-random events that influence each Christmas, as well as the careful balancing act between resources and satisfaction. Upgrades and expansion need to be carefully managed as over extending can create a negative spiral. Methodical planning and calculated risks add up slowly but surely to more and more people expecting a visit from Santa each year. Work hard every year until everyone on earth is a true believer.
+
+### Stats
+these stats need to be balanced in order to have a successful Christmas and have a knock-on effect for concurrent Christmases.
+
+- population: how many elves are employed at the north pole and how many people there are on earth
+- - elves are needed to make toys and gather resources
+- - total population grows every year and can be shown as a ratio of believers vs non believers 
+
+- joy: how happy the population is about Christmas
+- - high joy increases demand for next Xmas
+- - low joy decreases satisfaction and some resources (like energy & currency)
+
+- satisfaction: how happy the Elves and Santas are about Christmas 
+- - high satisfaction keeps labor rebellions at bay and boosts many resources
+- - low satisfaction decreases resources and elf population
+
+- resources: how much time/material/currency/energy is available 
+- - resources are used to make toys expand facilities and upgrade various equipments decreasing steadily over time
+- - resources are boosted individually by assigning elves to each 
+- - distributing too many elves to gathering decreases production 
+
+- production: making enough toys for Christmas is essential. Formulas calculate how many toys need to be made, how quickly they are being manufactured, and 
+- - believer population - naughty list /  x number of gifts = production goal by Xmas
+- - production goal / energy x worker elves = elf production rate (EPR) 
+- - 
+- - assigning enough elves to make a rough 
+
+
+### tweakables:
+- naughty/nice threshold - by adjusting the sensitivity of what counts as naughty you can decrease the number of deliveries to improve "success" ratio at the expense of "joy"
+- 
 
 ## You can go back, but it's not so simple
 what if in dark souls the bosses were the bonfire? 
