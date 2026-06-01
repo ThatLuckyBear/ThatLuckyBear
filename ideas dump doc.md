@@ -2,6 +2,10 @@ Steal whatever you like. Ideas can't be constrained by laws or promises or magic
 
 # Book/Narrative Ideas
 
+## The Dinosaurs Didnt Die, We Killed Them. On Purpose.
+It's 294X almost 50 years after the invention of time travel. The world has stable peace but the seed for that peace must now be planted. Many truths were discovered by travelling back and witnessing many important events in history, but one was impossible: The day the dinosaurs died. Dinosaurs were entrenched in battle with an army of heavily armed humans who had been waging war for hundreds of years. They all said the same thing: "I got sent back in 204X because if the dinosaurs survive past today they'll domjnate the planet and we'll never exist."
+as the narrative flows it becomes apparent that fossil fuels are the purpose and the main character aligns with the dinosaurs and move through history with a stolen time machine to prevent the dinosaurs from going extinct.
+
 ## I got iseikaied into a really fun place but I miss my mom
 iseikai stories often take the cynical route of assuming being whisked off to another world is a good thing. What if it was nice but the horror sets in as the character realizes they can't leave. that their new life is a facade that seals off the worst parts of life, but it also seals off the best parts. the depth of the new world is too shallow and slowly even the most mundane things about the real world becomes a source of unfulfilled yearning. having all your problems solved for you doesn't make anything better and the tradeoff isn't even remotely worth it.
 
