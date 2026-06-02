@@ -9,6 +9,8 @@ Thorny Buckler
 Illusion Armor Type A  
 Lora Card (better crit card for wep)  
 
+## Selling
+
 
 https://www.shining-moon.com/ipb/index.php?/topic/7726-help-for-battle-archbishop-armour-and-accessories/
 
