@@ -1,3 +1,4 @@
+#Video Games All The Way Down (Ideas)
 ## How to Use
 This document will be a disorganized list of ideas for VGATWD essays. Each idea should have:
 - a title
