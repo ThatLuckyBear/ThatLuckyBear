@@ -11,7 +11,7 @@ Once an idea has an essay doc in /VGATWD-Essays/ a link to that file should be a
 
 # Ideas List
 
-### Just because it isn't real doesn't mean it can't help you
+### Just because it isn't real doesn't mean it can't help you (meta)
 - placebo effect
 
 ### New Years Resolutions are Challenge Mode Modifiers
@@ -24,6 +24,8 @@ Once an idea has an essay doc in /VGATWD-Essays/ a link to that file should be a
 ### Small Talk is a Charm Spell
 - opening with small talk isn't a waste of time it's a charm spell that sets the other at ease and communicates their intent and feelings about the other person before getting to the more challenging topic
 - "I still want to be your friend. there is a problem or something I need from you."
+- I like you and I want to reestablish thst before I talk to you about something more serious
+- can be done poorly
 
 ### Impulsivity is a Berserk Spell
 - doing or saying things without thinking happens and can be frustrating and it's hard to overcome
