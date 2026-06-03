@@ -10,6 +10,10 @@ When the explanation can't stay brief it's time to make an essay document in the
 Once an idea has an essay doc in /VGATWD-Essays/ a link to that file should be added to the listing in the ideas doc (this one).
 
 # Ideas List
+
+### Just because it isn't real doesn't mean it can't help you
+- placebo effect
+
 ### New Years Resolutions are Challenge Mode Modifiers
 - like Hades punishment or in hollow Knight
 - not goals per sey: not necessary to complete but worthwhile challenges but sometimes they are goals it's confusing but just don't take it so literally and you'll be fine
