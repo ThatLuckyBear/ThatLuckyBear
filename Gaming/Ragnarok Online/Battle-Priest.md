@@ -1,13 +1,18 @@
 ## Shopping:
 #### Price Tracking
 Green Maiden Card  
+- 15m (6/9)
 Ancient Mimic Card  
 Mob Scarf  
 +11 Illusion Iron Driver  
+True Seyren Windsor Card
+9.5m (6/9)
+Immortal Cursed Knight Card
+
 #### Never Seen
 Thorny Buckler  
 Illusion Armor Type A  
-Lora Card (better crit card for wep)  
+Lora Card (better crit card for wep)  - put on spike?
 
 ## Selling
 
