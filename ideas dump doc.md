@@ -21,6 +21,8 @@ monkey's paw but the unforseen consequences aren't substantial and it feels real
 ## Moderator Sim
 A cut throat "game of thrones"/"civilization" game but over reddit moderation. High APM, keyboard mashing encouraged. Like if you need to send a DM you gotta quick time event by pressing every key on the keyboard all at once and it fills in the message field automatically and time is of the essence. 
 
+High score style game that you can't "win." If you manage to reach an infinite game state (can't lose) it just becomes boring because winning as a moderator is still losing. 
+
 ## Santa Claus Inc.
 
 Santa Clause Inc. is a number go up/management game where you build the North Pole from one small home into a Mega Facility. Coordinate Santa(s) getting around the entire world in one night and the necessary toy making and logistics to meet toy demand. The game tracks how stats that will influence how successful each Christmas is. Inspired lightly by the SNES Sim City game borrowing random and non-random events that influence each Christmas, as well as the careful balancing act between resources and satisfaction. Upgrades and expansion need to be carefully managed as over extending can create a negative spiral. Methodical planning and calculated risks add up slowly but surely to more and more people expecting a visit from Santa each year. Work hard every year until everyone on earth is a true believer.
