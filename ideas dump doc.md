@@ -1,5 +1,22 @@
 Steal whatever you like. Ideas can't be constrained by laws or promises or magic. 
 
+# Video/Content Ideas
+These would only really work if they were made into videos for YouTube or other sites. 
+
+## Twilight Zone But Games
+working title. It's the old school twilight zone series but it's remade to be video game references. 
+
+- nightmare at 20k feet: instead of a monster on the wing s player sees herobrine on the multiplayer server.
+
+- to serve man: instead of an alien with a cookbook about eating people it's a free to play game with well hidden pay to win scams
+
+- time enough at last: instead of a dude breaking his glasses the gamer's power goes out just as he's finally getting to his backlog
+
+- it's a good life: instead of a kid with psychic powers it's a kid with moderator powers holding a game server hostage 
+
+
+<!-------------------------------------------->
+
 # Book/Narrative Ideas
 
 ## The Dinosaurs Didnt Die, We Killed Them. On Purpose.
