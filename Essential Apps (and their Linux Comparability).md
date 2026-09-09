@@ -19,3 +19,80 @@ __
 [] Moonlight connection client or alternative free Screen share program
 
 [] https://immich.app/ -- local cloud backup app for photos and video 
+
+__
+
+Phone Transfer Apps
+- software that needs to be moved and set up with both phones:
+  - Authy
+  - Google Auth
+  - blizzard authenticator
+  - Pokemon Home
+  - Pokemon TCGP
+  - Ragnarok Origin
+  - Sydney Health
+- Important Apps
+  - fdroid
+  - Firefox
+  - amcrest smart home
+  - anylist
+  - aura (frame app)
+  - citi mobile
+  - chase mobile
+  - CVS app
+  - GitHub
+  - Hacker's Keyboard
+  - Hatch Sleep
+  - Homee
+  - Hue
+  - Keep Notes
+  - Librera FD (fdroid)
+  - LibreTorrent (fdroid)
+  - Mihon
+  - Moonlight
+  - myoCPL Mobile
+  - MyQ
+  - Night Shift
+  - Nintendo Switch App
+  - PBS Kids Video
+  - Plex
+  - Plexamp
+  - Goodpack sound assistant (look at screenshot on Pixel)
+  - QuickEdit+(play)
+  - RAR (winrar for android)
+  - SongBook (play)
+  - Steam
+  - touch lock lte
+  - tumblr
+  - VLC
+  - Voice (audiobook via play store)
+  - Warpinator (fdroid?/apk?)
+  - Youtube
+  - Youtube Music
+- Emulators (play/apk)
+  - Azahar (apk)
+  - DraStic (play)
+  - ePSXe (play)
+  - GameNative (apk)
+  - pizza Boy C Pro (play)
+  - retroarch (fdroid)
+- apps I don't need that I can use
+  - Hypic
+  - audio evolution (paid)
+  - baby pro
+  - deflemask (paid)
+  - Disneyland
+  - DisplayFusiion Remote
+  - Docusign
+  - Instagram
+  - Krita
+  - Libby
+  - Librecuts (fdroid)
+  - Mastodon
+  - Facebook Messenger
+  - msplit
+  - my spectrum
+  - PS App
+- Apps I want to use but need setup
+  - tasker
+  - immiich
