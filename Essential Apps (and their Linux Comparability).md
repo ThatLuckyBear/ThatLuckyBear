@@ -57,7 +57,7 @@ Phone Transfer Apps
   - PBS Kids Video
   -x Plex
   -x Plexamp
-  - Goodpack sound assistant (look at screenshot on Pixel)
+  -x Goodpack sound assistant (look at screenshot on Pixel)
   - QuickEdit+(play)
   - RAR (winrar for android)
   - SongBook (play)
@@ -67,8 +67,8 @@ Phone Transfer Apps
   - VLC
   - Voice (audiobook via play store)
   - Warpinator (fdroid?/apk?)
-  - Youtube
-  - Youtube Music
+  -x Youtube
+  -x Youtube Music
 - Emulators (play/apk)
   - Azahar (apk)
   - DraStic (play)
