@@ -52,11 +52,11 @@ Phone Transfer Apps
   - Moonlight
   - myoCPL Mobile
   - MyQ
-  - Night Shift
+  -x Night Shift
   - Nintendo Switch App
   - PBS Kids Video
-  - Plex
-  - Plexamp
+  -x Plex
+  -x Plexamp
   - Goodpack sound assistant (look at screenshot on Pixel)
   - QuickEdit+(play)
   - RAR (winrar for android)
