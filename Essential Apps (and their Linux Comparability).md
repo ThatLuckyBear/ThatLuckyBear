@@ -24,28 +24,28 @@ __
 
 Phone Transfer Apps
 - software that needs to be moved and set up with both phones:
-  - Authy
-  - Google Auth
-  - blizzard authenticator
-  - Pokemon Home
-  - Pokemon TCGP
+  x- Authy
+  x- Google Auth
+  x- blizzard authenticator
+  x- Pokemon Home
+  x- Pokemon TCGP
   - Ragnarok Origin
   - Sydney Health
 - Important Apps
-  - fdroid
-  - Firefox
+  -x fdroid
+  -x Firefox
   - amcrest smart home
-  - anylist
+  -x anylist
   - aura (frame app)
-  - citi mobile
-  - chase mobile
+  -x citi mobile
+  -x chase mobile
   - CVS app
-  - GitHub
+  -x GitHub
   - Hacker's Keyboard
   - Hatch Sleep
   - Homee
   - Hue
-  - Keep Notes
+  -x Keep Notes
   - Librera FD (fdroid)
   - LibreTorrent (fdroid)
   - Mihon
