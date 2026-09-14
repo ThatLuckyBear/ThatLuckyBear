@@ -37,7 +37,7 @@ __
 
   - [x] fdroid
   - [x] Firefox
-  - [] amcrest smart home
+  - [ ] amcrest smart home
   - [x] anylist
   - [ ] aura (frame app)
   - [x] citi mobile
@@ -52,49 +52,52 @@ __
   - [ ] Librera FD (fdroid)
   - [ ] LibreTorrent (fdroid)
   - [ ] Mihon (apk)
-  - [ ]Moonlight
-  - myoCPL Mobile
-  - MyQ
-  [x] Night Shift
-  - Nintendo Switch App
-  - PBS Kids Video
-  [x] Plex
-  x Plexamp
-  x Goodpack sound assistant
-  - RAR (winrar for android)
-  - SongBook (play)
-  - Steam
-  - touch lock lte
-  x tumblr
-  - VLC
-  - Voice (audiobook via play store)
-  - Warpinator (fdroid?/apk?)
-  [x] Youtube
-  [x] Youtube Music
+  - [ ] Moonlight
+  - [ ] myoCPL Mobile
+  - [ ] MyQ
+  - [x] Night Shift
+  - [ ] Nintendo Switch App
+  - [ ] PBS Kids Video
+  - [x] Plex
+  - [x] Plexamp
+  - [x] Goodpack sound assistant
+  - [ ] RAR (winrar for android)
+  - [ ] SongBook (play)
+  - [ ] Steam
+  - [ ] touch lock lte
+  - [x] tumblr
+  - [ ] VLC
+  - [ ] Voice (audiobook via play store)
+  - [ ] Warpinator (fdroid?/apk?)
+  - [x] Youtube
+  - [x] Youtube Music
+
 ## Emulators (play/apk)
-  - Azahar (apk)
-  - DraStic (play)
-  - ePSXe (play)
-  - GameNative (apk)
-  - pizza Boy C Pro (play)
-  x retroarch (fdroid)
-- apps I don't need that I can use
-  - Hypic
-  - audio evolution (paid)
-  - baby pro
-  - deflemask (paid)
-  - Disneyland
-  - DisplayFusiion Remote
-  - Docusign
-  - Instagram
-  - Krita
-  - Libby
-  - Librecuts (fdroid)
-  - Mastodon
-  - Facebook Messenger
-  - msplit
-  - my spectrum
-  - PS App
-- Apps I want to use but need setup
-  - tasker
-  - immiich
+  - [ ] Azahar (apk)
+  - [ ] DraStic (play)
+  - [ ] ePSXe (play)
+  - [ ] GameNative (apk)
+  - [ ] pizza Boy C Pro (play)
+  - [x] retroarch (fdroid)
+
+## apps I don't need that I can use
+  - [ ] Hypic
+  - [ ] audio evolution (paid)
+  - [ ] baby pro
+  - [ ] deflemask (paid)
+  - [ ] Disneyland
+  - [ ] DisplayFusiion Remote
+  - [ ] Docusign
+  - [ ] Instagram
+  - [ ] Krita
+  - [ ] Libby
+  - [ ] Librecuts (fdroid)
+  - [ ] Mastodon
+  - [ ] Facebook Messenger
+  - [ ] msplit
+  - [ ] my spectrum
+  - [ ] PS App
+
+## Apps I want to use but need setup
+  - [ ] tasker
+  - [ ] immiich
