@@ -39,20 +39,20 @@ __
   - [x] Firefox
   - [] amcrest smart home
   - [x] anylist
-  - [] aura (frame app)
+  - [ ] aura (frame app)
   - [x] citi mobile
   - [x] chase mobile
-  - [] CVS app
+  - [ ] CVS app
   - [x] GitHub
-  - [] Hacker's Keyboard
-  - [] Hatch Sleep
+  - [ ] Hacker's Keyboard
+  - [ ] Hatch Sleep
   - [x] Home
-  - [] Hue
-  [x] Keep Notes
-  - Librera FD (fdroid)
-  - LibreTorrent (fdroid)
-  - Mihon (apk)
-  - Moonlight
+  - [ ] Hue
+  - [x] Keep Notes
+  - [ ] Librera FD (fdroid)
+  - [ ] LibreTorrent (fdroid)
+  - [ ] Mihon (apk)
+  - [ ]Moonlight
   - myoCPL Mobile
   - MyQ
   [x] Night Shift
