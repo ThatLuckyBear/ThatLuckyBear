@@ -56,13 +56,13 @@ Phone Transfer Apps
   - Nintendo Switch App
   - PBS Kids Video
   [x] Plex
-  [x] Plexamp
-  [x] Goodpack sound assistant
+  x Plexamp
+  x Goodpack sound assistant
   - RAR (winrar for android)
   - SongBook (play)
   - Steam
   - touch lock lte
-  - tumblr
+  x tumblr
   - VLC
   - Voice (audiobook via play store)
   - Warpinator (fdroid?/apk?)
