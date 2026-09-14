@@ -35,8 +35,8 @@ __
 
 ## Important Apps
 
-  [x] fdroid
-  [x] Firefox
+  - [x] fdroid
+  - [x] Firefox
   [] amcrest smart home
   [x] anylist
   [] aura (frame app)
