@@ -43,12 +43,12 @@ Phone Transfer Apps
   [x] GitHub
   [] Hacker's Keyboard
   [] Hatch Sleep
-  - Homee
+  x Home
   - Hue
   [x] Keep Notes
   - Librera FD (fdroid)
   - LibreTorrent (fdroid)
-  - Mihon
+  - Mihon (apk)
   - Moonlight
   - myoCPL Mobile
   - MyQ
@@ -74,7 +74,7 @@ Phone Transfer Apps
   - ePSXe (play)
   - GameNative (apk)
   - pizza Boy C Pro (play)
-  - retroarch (fdroid)
+  x retroarch (fdroid)
 - apps I don't need that I can use
   - Hypic
   - audio evolution (paid)
