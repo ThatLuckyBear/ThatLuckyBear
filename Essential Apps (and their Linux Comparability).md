@@ -25,29 +25,29 @@ __
 # Phone Transfer Apps
 ## software that needs to be moved and set up with both phones:
 
-  [x] Authy 
-  [x] Google Auth 
-  [x] blizzard authenticator
-  [x] Pokemon Home
-  [x] Pokemon TCGP
-  [] Ragnarok Origin
-  [] Sydney Health
+  - [x] Authy 
+  - [x] Google Auth 
+  - [x] blizzard authenticator
+  - [x] Pokemon Home
+  - [x] Pokemon TCGP
+  - [] Ragnarok Origin
+  - [] Sydney Health
 
 ## Important Apps
 
   - [x] fdroid
   - [x] Firefox
-  [] amcrest smart home
-  [x] anylist
-  [] aura (frame app)
-  [x] citi mobile
-  [x] chase mobile
-  [] CVS app
-  [x] GitHub
-  [] Hacker's Keyboard
-  [] Hatch Sleep
-  x Home
-  - Hue
+  - [] amcrest smart home
+  - [x] anylist
+  - [] aura (frame app)
+  - [x] citi mobile
+  - [x] chase mobile
+  - [] CVS app
+  - [x] GitHub
+  - [] Hacker's Keyboard
+  - [] Hatch Sleep
+  - [x] Home
+  - [] Hue
   [x] Keep Notes
   - Librera FD (fdroid)
   - LibreTorrent (fdroid)
