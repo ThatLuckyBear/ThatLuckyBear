@@ -2,7 +2,7 @@ soooooo I can't upgrade my windows setup so it's time for me to consider my opti
 
 __
 
-[] not researched or [x] incompatible or [✓] compatible or [∆] alternative available
+[ ] not researched or [x] incompatible or [✓] compatible or [∆] alternative available
 
 [] Reaper DAW (and plugins)
 
