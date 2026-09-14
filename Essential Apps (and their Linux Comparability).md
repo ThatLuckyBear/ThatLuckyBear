@@ -30,8 +30,8 @@ __
   - [x] blizzard authenticator
   - [x] Pokemon Home
   - [x] Pokemon TCGP
-  - [] Ragnarok Origin
-  - [] Sydney Health
+  - [ ] Ragnarok Origin
+  - [ ] Sydney Health
 
 ## Important Apps
 
