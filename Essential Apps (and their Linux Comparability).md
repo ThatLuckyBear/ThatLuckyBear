@@ -22,8 +22,9 @@ __
 
 __
 
-Phone Transfer Apps
+# Phone Transfer Apps
 ## software that needs to be moved and set up with both phones:
+
   [x] Authy 
   [x] Google Auth 
   [x] blizzard authenticator
@@ -31,7 +32,9 @@ Phone Transfer Apps
   [x] Pokemon TCGP
   [] Ragnarok Origin
   [] Sydney Health
+
 ## Important Apps
+
   [x] fdroid
   [x] Firefox
   [] amcrest smart home
