@@ -23,42 +23,41 @@ __
 __
 
 Phone Transfer Apps
-- software that needs to be moved and set up with both phones:
-  x- Authy
-  x- Google Auth
-  x- blizzard authenticator
-  x- Pokemon Home
-  x- Pokemon TCGP
-  - Ragnarok Origin
-  - Sydney Health
-- Important Apps
-  -x fdroid
-  -x Firefox
-  - amcrest smart home
-  -x anylist
-  - aura (frame app)
-  -x citi mobile
-  -x chase mobile
-  - CVS app
-  -x GitHub
-  - Hacker's Keyboard
-  - Hatch Sleep
+## software that needs to be moved and set up with both phones:
+  [x] Authy 
+  [x] Google Auth 
+  [x] blizzard authenticator
+  [x] Pokemon Home
+  [x] Pokemon TCGP
+  [] Ragnarok Origin
+  [] Sydney Health
+## Important Apps
+  [x] fdroid
+  [x] Firefox
+  [] amcrest smart home
+  [x] anylist
+  [] aura (frame app)
+  [x] citi mobile
+  [x] chase mobile
+  [] CVS app
+  [x] GitHub
+  [] Hacker's Keyboard
+  [] Hatch Sleep
   - Homee
   - Hue
-  -x Keep Notes
+  [x] Keep Notes
   - Librera FD (fdroid)
   - LibreTorrent (fdroid)
   - Mihon
   - Moonlight
   - myoCPL Mobile
   - MyQ
-  -x Night Shift
+  [x] Night Shift
   - Nintendo Switch App
   - PBS Kids Video
-  -x Plex
-  -x Plexamp
-  -x Goodpack sound assistant (look at screenshot on Pixel)
-  - QuickEdit+(play)
+  [x] Plex
+  [x] Plexamp
+  [x] Goodpack sound assistant
   - RAR (winrar for android)
   - SongBook (play)
   - Steam
@@ -67,9 +66,9 @@ Phone Transfer Apps
   - VLC
   - Voice (audiobook via play store)
   - Warpinator (fdroid?/apk?)
-  -x Youtube
-  -x Youtube Music
-- Emulators (play/apk)
+  [x] Youtube
+  [x] Youtube Music
+## Emulators (play/apk)
   - Azahar (apk)
   - DraStic (play)
   - ePSXe (play)
