@@ -44,9 +44,9 @@ __
   - [x] chase mobile
   - [x] CVS app
   - [x] GitHub
-  - [ ] Hatch Sleep
+  - [x] Hatch Sleep
   - [x] Home
-  - [ ] Hue
+  - [x] Hue
   - [x] Keep Notes
   - [ ] Librera FD (fdroid)
   - [ ] LibreTorrent (fdroid)
