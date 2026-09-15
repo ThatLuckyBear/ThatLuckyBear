@@ -51,19 +51,19 @@ __
   - [x] Librera FD (fdroid)
   - [x] LibreTorrent (fdroid)
   - [x] Mihon (apk)
-  - [ ] Moonlight
-  - [ ] myoCPL Mobile
+  - [x] Moonlight
+  - [x] myoCPL Mobile
   - [x] MyQ
   - [x] Night Shift
-  - [ ] Nintendo Switch App
+  - [x] Nintendo Switch App
   - [ ] PBS Kids Video
   - [x] Plex
   - [x] Plexamp
   - [x] Goodpack sound assistant
   - [ ] RAR (winrar for android)
   - [ ] SongBook (play)
-  - [ ] Steam
-  - [ ] touch lock lte
+  - [x] Steam
+  - [ ] touch lock lite
   - [x] tumblr
   - [ ] VLC
   - [ ] Voice (audiobook player)
@@ -94,7 +94,7 @@ __
   - [ ] Mastodon
   - [ ] Facebook Messenger
   - [ ] msplit
-  - [ ] my spectrum
+  - [x] my spectrum
   - [ ] PS App
   - [ ] Hacker's Keyboard
 
