@@ -48,8 +48,8 @@ __
   - [x] Home
   - [x] Hue
   - [x] Keep Notes
-  - [ ] Librera FD (fdroid)
-  - [ ] LibreTorrent (fdroid)
+  - [x] Librera FD (fdroid)
+  - [x] LibreTorrent (fdroid)
   - [x] Mihon (apk)
   - [ ] Moonlight
   - [ ] myoCPL Mobile
