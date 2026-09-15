@@ -37,7 +37,7 @@ __
 
   - [x] fdroid
   - [x] Firefox
-  - [ ] amcrest smart home
+  - [x] amcrest smart home
   - [x] anylist
   - [ ] aura (frame app)
   - [x] citi mobile
@@ -51,10 +51,10 @@ __
   - [x] Keep Notes
   - [ ] Librera FD (fdroid)
   - [ ] LibreTorrent (fdroid)
-  - [ ] Mihon (apk)
+  - [x] Mihon (apk)
   - [ ] Moonlight
   - [ ] myoCPL Mobile
-  - [ ] MyQ
+  - [x] MyQ
   - [x] Night Shift
   - [ ] Nintendo Switch App
   - [ ] PBS Kids Video
@@ -67,7 +67,7 @@ __
   - [ ] touch lock lte
   - [x] tumblr
   - [ ] VLC
-  - [ ] Voice (audiobook via play store)
+  - [ ] Voice (audiobook player)
   - [ ] Warpinator (fdroid?/apk?)
   - [x] Youtube
   - [x] Youtube Music
