@@ -39,12 +39,11 @@ __
   - [x] Firefox
   - [x] amcrest smart home
   - [x] anylist
-  - [ ] aura (frame app)
+  - [x] aura (frame app)
   - [x] citi mobile
   - [x] chase mobile
-  - [ ] CVS app
+  - [x] CVS app
   - [x] GitHub
-  - [ ] Hacker's Keyboard
   - [ ] Hatch Sleep
   - [x] Home
   - [ ] Hue
@@ -97,6 +96,7 @@ __
   - [ ] msplit
   - [ ] my spectrum
   - [ ] PS App
+  - [ ] Hacker's Keyboard
 
 ## Apps I want to use but need setup
   - [ ] tasker
