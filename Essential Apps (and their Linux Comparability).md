@@ -51,7 +51,7 @@ __
   - [x] Librera FD (fdroid)
   - [x] LibreTorrent (fdroid)
   - [x] Mihon (apk)
-  - [x] Moonlight
+  - [ ] Moonlight
   - [x] myoCPL Mobile
   - [x] MyQ
   - [x] Night Shift
