@@ -6,9 +6,8 @@
 
 |Check|Game|Dates|
 |---|---|---|
-|x|
-Dragon Quest Monsters Caravan Heart
-Playing
+|x|Dragon Quest Monsters Caravan Heart
+Playing<br>
 GBA via Android (mGBA)|Date Started: 07/25/26
 Rolled Credits: 08/27/26
 Date Completed:	|
