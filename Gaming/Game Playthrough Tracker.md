@@ -12,7 +12,7 @@
  </tr>
  <tr>
   <td>
-   [ ]
+   ⬛🔲☑️
   </td>
   <td>
    Dragon Quest Monsters Caravan Heart
