@@ -4,7 +4,7 @@
 |   |   |   |
 |   |   |   |
 
-|Check|Game|Dates|
+| |Game|Dates|
 |---|---|---|
 | |Dragon Quest Monsters Caravan Heart<br>Playing<br>GBA via Android (mGBA)|Date Started: 07/25/26<br>Rolled Credits: 08/27/26<br>Date Completed:|
 | |Yakuza Kiwami<br>Playing<br>Steamdeck|Date Started: 08/13/26<br>Date Completed:|	
