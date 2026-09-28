@@ -6,6 +6,7 @@
 <details><summary>Training and Resource Links</summary>
 Credit to https://www.youtube.com/@JoeUX9 and their video here with an explanation of all these resources and how to improve at VGC: https://www.youtube.com/watch?v=SlElURwaud0
 
+
 ### Important Links
   Type Matchup Quiz: https://typematchupquiz.com/
   pikalytics: https://pikalytics.com/
@@ -23,6 +24,8 @@ Credit to https://www.youtube.com/@JoeUX9 and their video here with an explanati
   Victory Road: https://victoryroad.pro/
   Limitless Tournaments: https://play.limitlesstcg.com/tournaments/upcoming?game=VGC&format=all&platform=all&type=all
   Liberty Note: https://liberty-note.com/
+  Poke synergy plug in team to compare to meta:
+https://PokeSynergy.app
 
 
 </details>
