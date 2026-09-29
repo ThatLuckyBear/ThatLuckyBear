@@ -35,6 +35,10 @@ monkey's paw but the unforseen consequences aren't substantial and it feels real
 
 # Video Game Ideas
 
+## shifter: the unchosen 
+inspired by dawn of sorrow and a little bit of the new prince of persia. core gameplay focuses on combat and platforming with a item collection based "leveling" system (ie: hollow knight)
+the unique aspects being the shift mechanic where the player can move between the static "real" world and an unseeable dark dimension. some platforms are only in the dark dimension and there are no enemies but the amount of time the player can be inside is very limited and they will be sent back to where they shifted if they stay there too long. 
+
 ## Moderator Sim
 A cut throat "game of thrones"/"civilization" game but over reddit moderation. High APM, keyboard mashing encouraged. Like if you need to send a DM you gotta quick time event by pressing every key on the keyboard all at once and it fills in the message field automatically and time is of the essence. 
 
