@@ -39,6 +39,32 @@ monkey's paw but the unforseen consequences aren't substantial and it feels real
 inspired by dawn of sorrow and a little bit of the new prince of persia. core gameplay focuses on combat and platforming with a item collection based "leveling" system (ie: hollow knight)
 the unique aspects being the shift mechanic where the player can move between the static "real" world and an unseeable dark dimension. some platforms are only in the dark dimension and there are no enemies but the amount of time the player can be inside is very limited and they will be sent back to where they shifted if they stay there too long. 
 
+### important mechanics ideas
+- every boss needs a puzzle solution as well as a fighting solution so game can be completed as pacifist
+- using the dark dimension during a boss battle to drop a buffing circle to create a weakpoint or healing over time spot.
+- enemies are established as unable to enter the dark dimension so it feels very safe until late in the game to refresh the gameplay
+- weapons are fairly flat on damage but have different properties/affinities/etc. some arc some go straight some hit twice at half damage some are powerful but break some are elemental and can help against special enemies.
+- Weapons categories differ like Monster Hunter and it's properties can change some moves or add and take away things from the set. Exploration of each weapon is key to finding the thing you like best 
+- no grinding, no level up, no upgrades for weapons: you find something you like and that's it
+- one ring slot and one hat slot. Hat actually goes on the head for cosmetic changes, rings change entire body outfit, transmog slots for dressup
+- expanding on dark dimension powers is the main progression
+- sidequests are not obvious but are also not missable (no point of no return), they have almost no impact on gameplay but unlock the story (players need to choose to use their power to help others to integrate the darkness into their heart)
+- the player's life pool looks like a heart and as they player does side quests it looks like it's being corrupted more and more until the heart changes from red to purple. player gets more health and this signifies the true ending is available
+
+### Dark Dimension Powers (DDP lol)
+- more time in DD unlocks game progression/traversal and optional spaces with items
+- freeze will stop time outside the dimension letting player reposition and set up their buffing healing circles
+- player unlocks different circles they can drop during battles
+- player unlocks short range teleportation for movement options (works inside and outside DD)
+- near endgame player unlocks the ability to create a path of dark dimension energy that can carry them like a current of wind
+
+### story and world ideas
+- narrative explores themes: integrating your dark side is better than refusing it exists, responsibility is not assigned it's a choice, the power to change the world is not given it's earned
+- shifter is the player and they were the chosen one long ago. They were ousted from the role by a more "pure" champion who ultimately is corrupted and becomes the big bad
+- shifter decides to take on big bad despite being unchosen, they choose themselves and take on the responsibility despite being told they're unworthy. player tries despite being denied the opportunity within the system
+- true ending is pacfist and player must have a specific ring/hat and have completed certain sidequests they must have integrated the darkness fully into their heart
+
+
 ## Moderator Sim
 A cut throat "game of thrones"/"civilization" game but over reddit moderation. High APM, keyboard mashing encouraged. Like if you need to send a DM you gotta quick time event by pressing every key on the keyboard all at once and it fills in the message field automatically and time is of the essence. 
 
