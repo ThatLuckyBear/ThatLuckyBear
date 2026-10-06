@@ -1,5 +1,10 @@
 soooooo I can't upgrade my windows setup so it's time for me to consider my options. I'm thinking Linux but I don't know if my workflows and entertainment plays well. I'm gonna make a list here of all the software I really need in order to use my PC how I'd like so I can look into the Linux versions or replacements that might work well.
 
+Software Stack
+
+[monochrome.st](monochrome.st)
+
+Use to download FLAC file for music, use in private tab since noscript and adblock can goof with the software
 __
 
 [ ] not researched or [x] incompatible or [✓] compatible or [∆] alternative available
