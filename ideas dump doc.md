@@ -14,6 +14,15 @@ working title. It's the old school twilight zone series but it's remade to be vi
 
 - it's a good life: instead of a kid with psychic powers it's a kid with moderator powers holding a game server hostage 
 
+## X (Celebrity) Plays Y (Game)
+
+Live Cam Faceswap App:  https://github.com/hacksider/Deep-Live-Cam
+doing a bad impression of a celebrity playing a video game and being weird about it. Live or contained Video with a YouTube compilation as end goal.
+
+- Jordan Peterson plays Elden Ring. lobsters and getting stuck on tutorial because "what do you mean by press, what do you mean by X?"
+
+- Ben Shapiro plays Animal Crossing
+angry about it being an unrealistic representation of society? 
 
 <!-------------------------------------------->
 
