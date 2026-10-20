@@ -1,6 +1,7 @@
 ## Work area:
 
-Here I scribble my notes to test out various combos and setups to learn. For matchup notes please go [here]("https://github.com/ThatLuckyBear/ThatLuckyBear/new/main/Gaming/Fighting Games/Street Fighter 4/Dudley-Matchup-Notes.md")
+Here I scribble my notes to test out various combos and setups to learn.
+[Matchup Notes](https://github.com/ThatLuckyBear/ThatLuckyBear/blob/main/Gaming/Fighting%20Games/Street%20Fighter%204/Dudley-Matchup-Notes.md)
 
 <details><summary>
 
