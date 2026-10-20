@@ -89,6 +89,14 @@ Note Taking: Scribble here and add to doc later
 
 <details><summary>
 
+## Decapre
+  
+</summary>
+</details>
+<!------------------------------->
+
+<details><summary>
+
 ## Dee Jay
   
 </summary>
@@ -178,6 +186,14 @@ Note Taking: Scribble here and add to doc later
 <details><summary>
 
 ## Guy
+  
+</summary>
+</details>
+<!------------------------------->
+
+<details><summary>
+
+## Hakan
   
 </summary>
 </details>
