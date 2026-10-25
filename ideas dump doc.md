@@ -44,6 +44,24 @@ monkey's paw but the unforseen consequences aren't substantial and it feels real
 
 # Video Game Ideas
 
+## Cyberpunk '98
+In the future year 1998 society is crumblingand chaos reigns. To overcome the doom of your birth you take on Cybernetic upgrades and take on the underground of Doss City. There's just one problem: This software is buggy as hell.
+
+What if cyberware in CP2077 ran on windows 98 and had popups, crashes, and tons of weird quirks you had to work around to get through each job? 
+
+An open ended puzzle adventure game with frenetic action puzzles and a winding narrative maze. Players will have to close popups quickly to clear their vision, deal with viruses and  ransomware tucked into upgrades and updates, and slower puzzles that require players to figure out what fucking folder these drivers are supposed to go in so their fucking robot legs will let them jump over that wall! Players will discover Dos City, unlocking and travelling to important locations as they progress. Game does not stick strictly to 1900s operating system problems or to windows glitches, for instance gos tracking can be a thing among other tech ideas.
+
+### Mechanic/puzzle/narrative ideas
+- game starts after you've recovered from your first upgrades and you get stuck in your apartment
+- interact with a PC to get emails which give clues and fill in the story
+- game is presented like an old-school point and click adventure game with some more action style puzzles 
+- timer based 'close the popups so you can see' puzzle
+- upgrade drivers puzzle
+- bluescreen after update puzzle
+- ransomware puzzle
+- spyware puzzle 
+- virus puzzle 
+
 ## shifter: the unchosen 
 inspired by dawn of sorrow and a little bit of the new prince of persia. core gameplay focuses on combat and platforming with a item collection based "leveling" system (ie: hollow knight)
 the unique aspects being the shift mechanic where the player can move between the static "real" world and an unseeable dark dimension. some platforms are only in the dark dimension and there are no enemies but the amount of time the player can be inside is very limited and they will be sent back to where they shifted if they stay there too long. 
