@@ -1,0 +1,1 @@
+https://www.tumblr.com/thatluckybear/832559678091378688/realizing-youve-failed-is-like-losing-your-souls?source=share
