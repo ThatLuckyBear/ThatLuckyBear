@@ -18,6 +18,7 @@ Tips and notes for using git through Linux to work offline.
      - i let's you type, esc exits typing to allow other keyboard commands 
      - shift + ZZ will save and exit commit message window
      - hjkl navigate like arrows if you need it 
+     - ctrl+shift+c/v for copy paste access
 
 ### Git tips 
 - use "-commit -a -m "[type message here]" to skip adding items to index and skip the message input window
