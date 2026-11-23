@@ -29,3 +29,10 @@ ensure you're in the correct directory if there's an issue.
 > git pull: gets all changes from GitHub
 > git push: pushes all changes that have been committed to GitHub
 > git clone github@github.com/USER/REPO: clone with SSH, https will prompt for password but it doesn't work because it's not set up
+
+### Shortcuts Guide
+to create shortcut:
+> alias custom_command='original_command'
+
+If you want to not load the alias every time go to your home directory, view hidden files, and edit .bashrc and append:
+alias custom_command='original_command'
