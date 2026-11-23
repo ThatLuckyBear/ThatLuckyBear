@@ -25,14 +25,14 @@ Tips and notes for using git through Linux to work offline.
 ### Commands (Working)
 ensure you're in the correct directory if there's an issue.
 
-> git commit -a -m "blurb": saves the changes you've made locally so they can be uploaded. -a expands where commit looks for changes to all files. -m "blurb" let's you skip the dialogue box that requests your commit message. 
-> git pull: gets all changes from GitHub
-> git push: pushes all changes that have been committed to GitHub
-> git clone github@github.com/USER/REPO: clone with SSH, https will prompt for password but it doesn't work because it's not set up
+- git commit -a -m "blurb": saves the changes you've made locally so they can be uploaded. -a expands where commit looks for changes to all files. -m "blurb" let's you skip the dialogue box that requests your commit message. 
+- git pull: gets all changes from GitHub
+- git push: pushes all changes that have been committed to GitHub
+- git clone github@github.com/USER/REPO: clone with SSH, https will prompt for password but it doesn't work because it's not set up
 
 ### Shortcuts Guide
 to create shortcut:
 > alias custom_command='original_command'
 
 If you want to not load the alias every time go to your home directory, view hidden files, and edit .bashrc and append:
-alias custom_command='original_command'
+> alias custom_command='original_command'
